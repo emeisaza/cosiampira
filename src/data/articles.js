@@ -468,7 +468,7 @@ El tiempo no tiene importancia
 © 2026
 
 con ♡ en momoto`,
-        author: 'François J. Bonnet',
+        author: 'Émilie Gillet',
         date: '2024-12-17'
     },
     {
