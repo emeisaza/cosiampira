@@ -156,6 +156,9 @@ for i, url in enumerate(urls):
     except Exception as e:
         print(f"Failed {url}: {e}")
 
+# Sort articles by date descending
+articles.sort(key=lambda x: x['date'], reverse=True)
+
 # Generate JS file content
 js_content = "export const articles = [\n"
 for article in articles:
