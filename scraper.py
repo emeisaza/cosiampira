@@ -45,13 +45,17 @@ def extract_content(html_content, url):
     # Special case author fixes based on known data if extraction fails
     if "manifiesto" in url: author = "Beatrice Ferrara y Leandro Pisano"
     if "12-notas" in url: author = "Lawrence English"
-    if "eliane-radigue" in url: author = "Miguel Isaza"
+    if "eliane-radigue" in url: author = "eme isaza"
     if "baudrillard" in url: author = "Palais Sinclaire"
     if "no-es-nada" in url: author = "David Toop"
     if "devenir" in url: author = "Crisálida Cine"
     if "senderos" in url: author = "François J. Bonnet"
     if "el-tiempo" in url: author = "Éliane Radigue"
     if "sintesis" in url: author = "Maya B. Kronic"
+
+    # Normalize 'Miguel Isaza' to 'eme isaza' generally in author field
+    if "Miguel Isaza" in author:
+        author = author.replace("Miguel Isaza", "eme isaza")
 
     # Extract Image
     image = "/thumbnails/default.jpg"
@@ -116,6 +120,9 @@ def extract_content(html_content, url):
     
     # Remove existing back-arrow characters that might be in the source HTML text
     content = re.sub(r'↩︎?', '', content)
+
+    # General replacements in content
+    content = content.replace("Miguel Isaza", "eme isaza")
     
     # Cleanup whitespace
     content = re.sub(r'\n\s+\n', '\n\n', content)

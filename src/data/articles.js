@@ -326,13 +326,13 @@ Ambos puntos resuenan. Lewis Kachur examina más de cerca la rumorada indiferenc
 
 Junto a la imagen estampada de una botella de Anis del Mono, la Guitarra de 1913 se encontraba en una mesa, parcial y diminuta, pero no por ello menos «real», suspendida en el espacio delante de dos hojas de papel pintado superpuestas. También en 1913, Picasso realizó otra más compleja, Construcción con Guitarrista y Violín, una obra que sólo existe en fotografías de estudio de la época en la que solía colgar una guitarra real de una «pared» en la que se dibujaba el contorno de un guitarrista. Un brazo con una mano, hecho con papel de periódico, se extendía desde el perfil del guitarrista hasta la guitarra flotante. En la pared está el violín de papel de 1913 y delante hay una mesa de café con una botella de vino, una pipa y una taza. No hay nada en la pieza que sea sonido en sí, ni un sonido en proceso que devenga, y aún así se puede escuchar. «El arte no debe ser una trompe l’oeil, sino un una trompe l’esprit«, dijo Picasso.[^7] Al ojo no se le engaña; ni tampoco al oído. No hay nada, aún así la mente oye.
 
-- Umland, Anae. 2011. Picasso Guitars 1912-1914. Nueva York: The Museum of Modern Art. p.20. ↩︎
-- ibid, p.21. ↩︎
-- ibid. p.22. ↩︎
-- Kachur. Lewis. Picasso, música popular y collage. Cubism (1911-12). The Burlington Magazine, vol.135. No.1081, abril de 1993. p.256. ↩︎
-- Satie, Erik. citado en Perloff. Nancy. 1993. Art and the Everyday: Popular Entertainment and the Circle of Erik Satie. Oxford: Clarendon Press. p.83. ↩︎
-- Citado en Umland, Anne, op cit., p.27. ↩︎
-- Referenciado en Markus, Ruth. ‘Picasso’s Guitar, 1912: The Transition from Analytical to Synthetic Cubism’. Assaph, Studies in Art History 2. Universidad de Tel Aviv. 1996. p.238. ↩︎
+- Umland, Anae. 2011. Picasso Guitars 1912-1914. Nueva York: The Museum of Modern Art. p.20. 
+- ibid, p.21. 
+- ibid. p.22. 
+- Kachur. Lewis. Picasso, música popular y collage. Cubism (1911-12). The Burlington Magazine, vol.135. No.1081, abril de 1993. p.256. 
+- Satie, Erik. citado en Perloff. Nancy. 1993. Art and the Everyday: Popular Entertainment and the Circle of Erik Satie. Oxford: Clarendon Press. p.83. 
+- Citado en Umland, Anne, op cit., p.27. 
+- Referenciado en Markus, Ruth. ‘Picasso’s Guitar, 1912: The Transition from Analytical to Synthetic Cubism’. Assaph, Studies in Art History 2. Universidad de Tel Aviv. 1996. p.238. 
 
 Traducido del Inglés.
 
@@ -456,8 +456,8 @@ Entro en esos espacios, busco y descubro. Luego salgo y presento. No se trata de
 
 Senderos que van de planta en planta, de ida y vuelta entre todas las que ya he encontrado. Senderos que recorren (o reinventan) la cronología de esos descubrimientos. Senderos que permiten apreciar lo que a mí me pareció bello. Senderos cromáticos, dialécticos, didácticos. Senderos que ralentizan el tiempo y abren espacio cuando hay mucho que ver, y cortan la hierba árida. Más espesos aquí, más finos por allá. Senderos que conducen a otros. Senderos que se pueden recorrer una o dos veces, desde los que se pueden ver las especies más llamativas, y desde los que se puede divergir gradualmente hasta que tal vez se note una nueva flor que se ha instalado en este jardín. Así puedes deambular y aprender –porque lo que se encuentra también se puede enseñar.
 
-- Los frutos aún no patentados y no pertenecen a nadie más que a la comunidad. Sobre este tema, escuchen lo que Albert Jacquard tiene que decir sobre la propiedad intelectual ↩︎
-- El código abierto es un intento de resistir a esta pérdida del texto, a la invasión de las limitaciones que lo han engendrado. ↩︎
+- Los frutos aún no patentados y no pertenecen a nadie más que a la comunidad. Sobre este tema, escuchen lo que Albert Jacquard tiene que decir sobre la propiedad intelectual 
+- El código abierto es un intento de resistir a esta pérdida del texto, a la invasión de las limitaciones que lo han engendrado. 
 
 Traducido del Inglés
 
@@ -719,17 +719,17 @@ Gracias a Inigo Wilkins, Zara Truss Giles y Quieting por invitarme a participar 
 
 ## NOTAS DE TRADUCCIÓN
 
-- Se traduce como cuqui. Preferimos mantenerlo en Inglés. ↩︎
-- Siglas en inglés para Assigned Male At Birth (Asignado Hombre Al Nacer), acrónimo proveniente de la cultura trans angloparlante en el siglo XXI para referirse a ‘hombres de orden biológico’ que se encuenran en el espectro trans, ya sea a escala pública o privada. ↩︎
-- Haciendo/siendo ‘cosas trans’. ↩︎
-- El principio de no-contradicción en la lógica clásica es que es imposible para una cosa ser A y -A a la vez. ↩︎
-- Del término anglófono passing: hace referencia al nivel de aceptación o ‘aprobación’ que el espacio público y la vox populi tiene sobre la apariencia y expresión de género de una persona trans, en relación a si se ve o bien como ‘una mujer’ o ‘un hombre’. ↩︎
-- El proceso de transición. ↩︎
-- Final boss: Una metáfora sacada del mundo de los videojuegos, en relación a personajes canónicos contra los que un cierto personaje (casi siempre, principal) debe enfrentarse para avanzar dentro del propio juego.  ↩︎
-- Siglas en inglés para Assigned Female At Birth (Asignada Mujer Al Nacer), acrónimo proveniente de la cultura trans angloparlante en el siglo XXI para referirse a ‘mujeres de orden biológico’ que se encuenran en el espectro trans, ya sea a escala pública o privada ↩︎
-- Sello discográfico y un colectivo de Londres dirigido por A. G. Cook.​ ↩︎
-- Traducido de pitch; ‘altura’ percibida de un sonido. ↩︎
-- Generador básico de señal/sonido dentro de un sintetizador. ↩︎
+- Se traduce como cuqui. Preferimos mantenerlo en Inglés. 
+- Siglas en inglés para Assigned Male At Birth (Asignado Hombre Al Nacer), acrónimo proveniente de la cultura trans angloparlante en el siglo XXI para referirse a ‘hombres de orden biológico’ que se encuenran en el espectro trans, ya sea a escala pública o privada. 
+- Haciendo/siendo ‘cosas trans’. 
+- El principio de no-contradicción en la lógica clásica es que es imposible para una cosa ser A y -A a la vez. 
+- Del término anglófono passing: hace referencia al nivel de aceptación o ‘aprobación’ que el espacio público y la vox populi tiene sobre la apariencia y expresión de género de una persona trans, en relación a si se ve o bien como ‘una mujer’ o ‘un hombre’. 
+- El proceso de transición. 
+- Final boss: Una metáfora sacada del mundo de los videojuegos, en relación a personajes canónicos contra los que un cierto personaje (casi siempre, principal) debe enfrentarse para avanzar dentro del propio juego.  
+- Siglas en inglés para Assigned Female At Birth (Asignada Mujer Al Nacer), acrónimo proveniente de la cultura trans angloparlante en el siglo XXI para referirse a ‘mujeres de orden biológico’ que se encuenran en el espectro trans, ya sea a escala pública o privada 
+- Sello discográfico y un colectivo de Londres dirigido por A. G. Cook.​ 
+- Traducido de pitch; ‘altura’ percibida de un sonido. 
+- Generador básico de señal/sonido dentro de un sintetizador. 
 
 Traducido del Inglés por Senza Flores y eme isaza.
 
