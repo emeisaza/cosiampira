@@ -10,8 +10,8 @@ const TopBar = styled.div`
   background: var(--glass-bg);
   backdrop-filter: blur(20px);
   border-bottom: 1px solid var(--glass-border);
-  padding: 0.5rem 1.5rem;
-  z-index: 1000;
+  padding: 1.2rem 2rem;
+  z-index: 2000;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -42,7 +42,7 @@ const ControlGroup = styled.div`
 `;
 
 const Label = styled.label`
-  font-size: 0.7rem;
+  font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.5px;
   color: var(--color-accent);
@@ -96,14 +96,14 @@ const ThemeToggle = styled.button`
   background: var(--glass-border);
   border: none;
   border-radius: 6px;
-  height: 28px;
-  padding: 0 12px;
+  height: 36px;
+  padding: 0 16px;
   cursor: pointer;
   display: flex;
   align-items: center;
   gap: 8px;
   font-family: 'Fira Code', monospace;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   color: var(--color-text);
   text-transform: uppercase;
   transition: all 0.2s ease;
