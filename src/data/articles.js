@@ -1,512 +1,5 @@
 export const articles = [
     {
-        id: 1,
-        slug: 'manifiesto-del-futurismo-rural',
-        title: "Manifiesto del Futurismo Rural",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2022/04/futurismo-rural.jpg',
-        content: `# Manifiesto del Futurismo Rural
-
-## Ruralidad
-
-La centralización de las urbes nos ha llevado a menudo a pensar la ruralidad como el afuera de un supuesto adentro, como la zona fronteriza, en última instancia la zona olvidada, el espacio distante, el lugar lejano con respecto al que se nombra central, aquel espacio que no participa en la dinámica industrialista o incluso, civilizada. Paralelo a esta pobre consideración espacial, se da una configuración temporal: lo rural suele considerarse en otro tiempo, cosa del pasado, dinámica carente de evolución, un punto muerto, carente de avance y modernismo.
-
-Estas formas de considerar la ruralidad dan pie a muchas interpretaciones nefastas de los lugares que habitamos, nociones que el modelo imperial aprovecha en ambas direcciones: espacialmente, asumiendo lo rural como lugar distante y explotable, un afuera inútil directamente para el centro sistemático pero sí apto para la invasión industrial. Y por otro lado, en términos de su paralelo temporal, esto es, lo rural como el antepasado de superstición y tendencia retrógrada con respecto al centro evolutivo. Estos dos asuntos, crean una distorsión espaciotemporal que diseña una topografía limitante, confinada a la explotación para bien del centro establecido y pocas veces valorada por sus capacidades internas y las formas de conocimiento que allí se desarrollan. Limitar la ruralidad a lo limítrofe, nos vuelve incapaces de reconocer el estatuto ontológico de los espacios, a menudo llegando a la conclusión de que es la ciudad el modelo no solo central, sino válido, y con ello teniendo una desafortunada consecuencia: el sacrificio, reemplazo y olvido de los entornos rurales por la necesidad de favorecer un futuro impuesto desde las urbes, las cual pese a agonizar entre sus delirios del concreto, se imponen a menudo como la panacea ante nuestras condiciones ecológicas.
-
-La afirmación de este espaciotiempo fragmentado nos deja ante una ruralidad marginal, abandonada y pobre, pero al mismo tiempo, cuando no es el supuesto centro quien toma las riendas de la discusión, las cuestiones de lo rural se pueden plantear dentro de la ruralidad misma, no necesariamente pretendiendo ser centro ni compararse con las formas de las ciudades, por ende no explorándose en respuesta a otro punto del cual es distante y más bien disponiéndose como una red de hábitats multiformes y posibles. Igualmente sucede en el tiempo, dado que podríamos no limitar lo rural al pasado y el agotamiento, aunque tampoco situarlo como una suerte de presente idílico y fructífero, palabras que suelen nacer del humano invadido de ciudad, o que nacen como conceptos que entienden la potencialidad y los recursos como materia prima para la industria y en última instancia perpetúan la obsesión modernista de explotar la tierra sin importar el daño causado en múltiples escalas sobre los territorios y sus agentes, sus intercambios y las manifestaciones que se conjugan en estos.
-
-## Futurismo Rural
-
-En tanto la ruralidad no es centro ni se limita a este, se puede proponer como un espacio abierto de experimentación con la espacialidad misma, un lugar sembrado bajo sus propias condiciones, siempre variable, rizomático, colmado de aristas y posibilidades para un intercambio no solo con sus propios elementos ─en gran medida clichés también ultrajados por la dinámica modernista─ como la agricultura, la calma y el bienestar, sino también con las formas del desarrollo y la civilización materialista, como lo son el discurso y la investigación, el arte y la tecnología, la ecología y el pensamiento, de tal forma que se abra así paso para indagar no solo en nuevas formas del espacio, sino también del tiempo, esto es: un futurismo, como plantea el investigador y curador Leandro Pisano a partir de proyectos iniciados hace más de 10 años en el festival Interferenze de nuevas artes y su evolución en proyectos de arte electrónico y sonoro como Mediaterrae Vol.1, Barsento Mediascape y Liminaria, este último curado junto a la teórica Beatrice Ferrara, y pensado como una plataforma abierta de investigación, dedicada específicamente al desarrollo de prácticas de arte y tecnología en espacios limítrofes a las grandes ciudades, zonas rurales principalmente del Sur de Italia, en lugares como el área periférica de Palermo, Irpinia, Sannio, Cilento, Fortore, la región de Campania, entre otras.
-
-Su idea de un futurismo rural, aunque apoyada en múltiples investigaciones y procesos teóricos relacionados con la post-colonialidad, la reconfiguración política de los territorios y las artes propias de la tecnocultura, es un proceso que nace ante todo desde el ejercicio de la percepción y la indagación práctica, de la experiencia y el encuentro mediante la creación. Propone en este sentido una postura decolonial desde su método mismo de funcionamiento, prescindiendo de la exclusividad que suele asignarse al logocentrismo y la primacía del discurso académico a la hora de investigar, para proponer las artes y la apropiación (rural) de la tecnología como estrategias de exploración, indagación y especulación, teniendo como idea central de generar una «intersección entre la cultura rural y la tecnología con la finalidad de explorar territorios rurales, considerados invisibles o destinados a la desaparición por discursos del modernismo y el capitalismo contemporáneo, para convertirlos en espacios y lugares de acción e imaginación de futuros posibles».
-
-No es pues el futurismo imperial y fascista de las máquinas industriales y se trata más de las lucha por los futuros alternos presentados en el panorama poscolonial «en los cuales las tecnologías se convierten en herramientas de consciencia y resistencia para afirmar una serie de contra-narrativas en relación a posiciones de desigualdad y diferencia», asumiendo la ruralidad en términos de una danza de coexistencias, aliadas y en conflicto, que revelan sus entornos como una dimensión compleja, principalmente en términos de su significación para el antropoceno y con ello la apertura a un diálogo abierto entre máquinas, comunidades humanas, dinámicas del pasado y formas no-humanas. Es por ello que el reto no radica en lo rural como objeto de estudio aplicado a métodos típicos de exploración, sino que, al no ser considerado desde un análisis confinado a un método positivista, sus métodos varían, en este caso rechazando la primacía del logos como dispositivo crítico único y optar por una búsqueda epistemológica mediante otras tecnologías, saberes y procesos, en el caso del futurismo rural, marcado radicalmente por la cuestión sonora y la escucha, entendidas como vías de conocimiento a la hora de asumir paradigmas y discursos establecidos.
-
-Las residencias y procesos artísticos que ha llevado Pisano y su equipo, se ha desarrollado a partir de varias ediciones y eventos en los últimos años, integrando artistas sonoros, de nuevos medios, poetas, investigadores y todo tipo de colectivos y agentes artísticos internacionales que han explorado las diversas posibilidades de estos territorios rurales, haciendo un particular énfasis en la cuestión de lo sonoro principalmente por ser este «una herramienta de investigación en sí misma, que permite abordar varios procesos culturales, sociales, económicos y ecológicos más allá de lo meramente «visual», con ello accediendo a capas imperceptibles a la vista».
-
-La escucha se revela así como un proceso acustemológico, esto es, una forma sónica de conocimiento, que además interpela al artista en cuanto tal y lo conduce fuera de la galería y de las burbujas del arte de la ciudad, creando una invitación a sumergirse y moldearse desde otras geografías y comunidades. La sonoridad es en este caso una puerta no al futuro, sino a la incubación de múltiples formas del tiempo mismo, una oportunidad para recuperar la consciencia sobre las posibilidades del hábitat rural, sus formas y expresiones, cuestionando la idea misma de la separación y la frontera, al tiempo que se aprovecha la distinción para que emerja la resistencia: lo rural como vientre de realidades, de futuros posibles, de otros mundos.
-
-## Manifiesto del Futurismo Rural
-
-Escrito por Beatrice Ferrara y Leandro Pisano.
-
-### I.
-
-El “Futurismo rural” es un reto dirigido a los actuales discursos sobre la ruralidad en tanto auténtica, utópica, anacrónica, provincial, tradicional y estable, y las lógicas binarias que sustentan tales discursos: pertenencia vs. alienación, desarrollo vs. retroceso.
-
-### II.
-
-Un enfoque crítico de la ruralidad es necesario, hoy más que nunca; imaginar otros futuros para las comunidades, territorios y espacios rurales más allá de la dicotomía de “otredad” vs. “identidad”.
-
-### III.
-
-Se torna evidente que la ruralidad hoy día no puede verse meramente como un espacio geográfico; en vez de ello ha de ser vista como una expresión de “posicionalidad”, en términos de la actual posición política.
-
-### IV.
-
-Necesitamos entender las zonas rurales como espacios complejos activamente envueltos en el dinamismo de encuentros, corrientes y flujos de las geografías contemporáneas, y cuestionar de forma crítica discursos modernos de capitalismo y metropolitanismo en las cuales los territorios rurales son marginalizados y considerados como condenados al olvido.
-
-### V.
-
-El “Futurismo rural” asume la compleja dinámica entre el territorio rural y el espacio urbano a través de la tecnocultura, abarcando un abanico de asuntos como “generación” y “tiempo” dentro de las comunidades locales (despoblación, movimiento, resiliencia y herencia cultural) y las características geofísicas de los lugares (distanciamiento, viento, energía, infraestructura y/o falta de estos).
-
-### VI.
-
-Diferentes formas de vida (humanas y no-humanas) existen e insisten en un territorio, cualquiera que sea, y están mutuamente implicadas entre sí. Algunas veces, co-existen mutuamente de formas pacíficas; en otras ocasiones, están en conflicto unas con otras. Las coexistencias en conflicto son también valiosas, en tanto generan “zonas grises” dentro de un territorio rural, las cuales pueden productivamente retar cualquier noción heredada de “entorno”, “naturaleza”, y “ecología”. A través de sus co-existencias (y co-existencias en conflicto), el territorio rural puede de hecho abordarse de otra manera, dejando a un lado clichés contemplativos, románticos o decadentes con respecto a la ruralidad.
-
-### VII.
-
-Incluso aunque las narrativas dominantes insisten en que los espacios rurales deberían ser relegados a un espaciotiempo que solo puede traer involución, hay muchas prácticas ─ teóricas, artísticas, agrícolas y tecnológicas ─ que atestiguan la resistencia potencial de la ruralidad.
-
-### VIII.
-
-El “Futurismo Rural” es una perspectiva crítica, en la cual convergen múltiples puntos de vista (y escucha): el arte, y más específicamente las tecno-culturas, proveen nuevas y notables maneras de repensar lo que la “ruralidad” es (y podría ser). De esta forma, las áreas rurales pueden convertirse en espacios de experimentación, performatividad, investigación crítica y cambio. Es posible crear escenarios futuros, comenzando con el ensamblaje de lo visto y lo no visto, de elementos humanos y no-humanos. Estos objetos, materiales, diálogos, infraestructuras relacionales y tecnologías, dan forma a (y están formadas por) modos específicos de gobernanza.
-
-### IX.
-
-A través de la práctica de la escucha es posible obtener un sentido de la complejidad y la dinámica desde la cual el territorio se revela a sí mismo mediante formas inesperadas y perspectivas diferentes. Esto enfatiza el valor y los valores de “escucha profunda” en aras de sentir las diferentes topologías de un territorio rural. Tonos, armonías y disonancias vibran mientras estos procesos tienen lugar, y pueden ser registrados a través de un enfoque “acustemológico”.
-
-### X.
-
-En su materialidad, el sonido nos invita a experimentar las locaciones rurales y lugares abandonados como espacios en los cuales cuestionar nuestra acercamiento a la historia y el paisaje, nuestro sensación de vivir en un lugar específico y la relación que tenemos con este. El sonido de entornos, espacios y paisajes revela los retos y transformaciones territoriales que informan los ecosistemas ideológicos, infraestructurales y biológicos de los que formamos parte. En este sentido, las prácticas de escucha se despliegan como una manera de atravesar críticamente los “territorios fronterizos” de los entornos rurales, retando las nociones insistentes de “marginalidad inescapable”, “residualidad” y “periferia”.
-
-## Autores
-
-Beatrice Ferrara es una investigadora independiente, PhD en Estudios Culturales y Postcoloniales. Se dedica a la enseñanza e investigación en medios y estudios culturales, con un enfoque en la tecnocultura desde una perspectiva transcultural, habiendo publicado extensivamente en journals y colecciones de ensayos. Ha sido curadora, junto a Leandro Pisano, del proyecto Liminaria.
-
-Leandro Pisano. PhD en Estudios Culturales y Post-Coloniales. Curador, escritor e investigador independiente, interesado particularmente en la ecología política de los territorios rurales, marginales y remotos. Ha curado varias exhibiciones de arte sonoro al rededor del mundo y es . Autor del libro Nuove geografie del suono. Spazi e territori nell’epoca postdigitale («Nuevas geografías del sonido. Espacios y territorios en la era post-digital»).
-
-Introducción y traducción al Español por eme isaza bajo autorización y revisión de sus autores.
-
-Versión en Inglés e Italiano: A Manifesto of Rural Futurism. Rethinking a New Rurality
-
-12 notas para el ambient futuro
-
-© 2026
-
-con ♡ en momoto`,
-        author: 'Beatrice Ferrara y Leandro Pisano',
-        date: '2022-04-29'
-    },
-    {
-        id: 2,
-        slug: '12-notas-para-el-ambient-futuro',
-        title: "12 notas para el ambient futuro",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2022/05/music-for-airports.png',
-        content: `# 12 notas para el ambient futuro
-
-¿Cuál es el valor del ambient en una época en la que reina la distracción, y la música es a menudo tan solo otro flujo de datos más para filtrar la cotidianidad? Si luchamos por mantener nuestra atención incluso en las más dinámicas experiencias, ¿cómo puede una música de tintes y matices mantener su significado y relevancia? Cuando Eno formalizó el ambient, el mundo que rodeaba la música era radicalmente diferente en casi todos los niveles y aún así, es en las provocaciones iniciales de Eno donde podría encontrarse una comprensión fresca del por qué debería persistir el ambient.
-
-Estas provocaciones tempranas han actuado más como un mantra que como una oportunidad para investigar con respecto a la intención del ambient. En el texto del disco Music for Airports, Eno escribió, «La música ambient debe ser capaz de adaptarse a muchos niveles de atención en la escucha sin forzar uno en particular; debe ser tan ignorable como interesante». Esta frase ‘tan ignorable como interesante’ que se ha hecho eco desde la publicación del disco, siempre me ha parecido problemática en la medida en que contrarresta las palabras precedentes de su declaración. Escuchar es agencia y aplicación; implica que nos involucremos en algo; ignorar la música no es escucharla. No es oír esos sonidos como música, sino dejar que se deslice en el flujo subconsciente de filtrado acústico que es nuestro diario ensueño sónico. Es esta afirmación irresoluta la que siento que desbloquea el núcleo del valor futuro de la música ambient.
-
-Es fundamental comprender cómo la música ambient se encuentra y cómo crea, aumenta e incluso interrumpe los espacios. Cuando escuchamos música ambient, ya sea para trabajar o incluso para dormir, la estamos eligiendo dentro un rango específico de condiciones que puede llevarnos a tomar consciencia en los lugares donde trabajamos y vivimos. Es importante también comprender cómo ese proceso crea una atmósfera temporalmente única que transgrede los límites de nuestro pensamiento y sentimiento interior, y la exterioridad de los lugares en los que nos encontramos. Felicia Atkinson lo resume: «La música ambient se deriva del impresionismo, enfatiza la singularidad de la percepción, y busca crear un entorno imaginativo».
-
-No debe confundirse con la Discreet Music de Eno; el ambient es, en la experiencia, discreto en tanto lugar y tiempo mantienen una relación afectiva con la música y al mismo tiempo con nosotrxs como escuchas. Independientemente de la forma en que se encuentre la música ambient (en los auriculares yendo al trabajo, mientras se cocina en el hogar o en la cama justo antes de dormir) en estos momentos, el lugar y la música interactúan y nuestro rol como escuchas se realiza e idealmente se potencia. Como escuchas, perpetuamente llegamos a la música de nuevas maneras, ya que las relaciones entre ella y los eventos que suceden en paralelo –así como nuestras capacidades para la escucha–, redefinen la dinámica de la composición. Cada impresión, parafraseando a Atkinson, es ligeramente diferente de la anterior y reconocemos claramente la naturaleza de las masas acústicas compuestas. Siempre podemos decir que la niebla es niebla, pero los detalles que existen dentro de ella nunca son idénticos.
-
-Así pues, para ayudar a definir una condición (en lugar de la condición) que crea el ambient, debemos reconocer que esta música es un tipo de contrato tácito. Se trata de reconocer como una cuestión primaria, el hecho de que la experiencia musical sea un diálogo abierto entre la interioridad de nuestra escucha afectiva y la exterioridad de los espacios y lugares que contienen la música tal como la experimentamos. El ambient abarca las variables de la situación en la que se encuentre, renuncia a cualquier sentido de control a favor de priorizar una perspectiva subjetiva discreta. Esto es primordial como preocupación definitoria de la música ambient.
-
-Además, las partes implícitas en este contrato, quien compone y quien escucha, deben reconocer que nunca se puede lograr el control total y que la identidad de la música nunca es del todo suya, sino que es constante devenir. Después de cada re-escucha, en un lugar diferente, en un momento diferente, a través de una situación de reproducción diferente, la música misma evoluciona. Vive dentro de la complejidad de estas relaciones y se trata principalmente de, para usar la provocación inicial de Eno, «acomodar muchos niveles de atención auditiva sin aplicar una en particular».
-
-David Toop avanza este examen de la relación entre el ambient y la escucha: «Hay otra posibilidad de escuchar que se abre ante nosotrxs, en un momento en que prevalecen los parlantes y ser escucha es ser consideradx como un copo de nieve, lentx o débil o ineficaz. A esto añadirle nuevas ideas sobre ecología, fluidez de género, anti-especismo y la vivacidad de la materia y los objetos, y así el futuro tiene el potencial de ser casi irreconocible. Potencial, a pesar de que nuestras perspectivas actuales apunten a otra parte. Eso significa que emerge una nueva concepción del medio ambiente y, por lo tanto, de la música ambient (ambient significa «alrededores») posee todas sus cualidades radicales.»
-
-Es en este espacio radical y relacional donde el ambient puede colapsar en una crisis de la mitad de su vida. No hay, ni debería haber, una respuesta simple y singular a la pregunta de qué es el ambient o, más aún, qué puede llegar a ser. Más bien, ambient, para usar otro Eno-ismo, debe ser «constante pero nunca sólido», una música que es consciente de cómo puede existir en el mundo y también de cómo da forma a nuestro mundo (por dentro y por fuera). Es una música contractual que requiere del cumplimiento de ciertas condiciones si se quiere realizar de manera significativa. El ambient siempre debe ser un proceso de transformación, como las atmósferas que pretende crear. Debería estar en los estados de llegada y salida simultáneamente. Cada encuentro que tenemos con él, como creadorxs y escuchas, afecta la forma en que existe la música ambient. En esencia, alteramos la potencial realización de la música ambient.
-
-Con este fin, y dado que hemos llegado a esta clase de edad media para la música ambient, quería proponer algunas (no tan) suaves provocaciones para estimular futuras conversaciones a medida que esta música persiste en el futuro.
-
-### 12 notas para el ambient futuro
-
-El ambient es una música de momentos vividos.
-
-El ambient reconoce que el control debe olvidarse con respecto a como la música es encontrada (mas no como está compuesta).
-
-El ambient es discreto en la experiencia, aunque no musicalmente.
-
-El ambient reconoce el engaño que es la promesa de la repetición.
-
-El ambient nunca es meramente música para el escapismo. Es una zona de participación en la búsqueda de una audiencia musical que reconoce los valores potenciales del sonido en esferas más amplias (social, política, cultural, etc.). Es una liberación, una apertura y una profundización, simultáneamente.
-
-El ambient pulsa; lleva su curso. El ritmo es un raro amigo de esta música.
-
-El ambient nunca es solo música. Es una confluencia de sonido, situación y escucha; además, es un contrato tácito entre quien crea, quien oye, y el lugar, buscando lograr un tipo específico de experiencia musical.
-
-El ambient trata de la primacía de la escucha (para el público y quien la crea). La música y los espacios y lugares (interiores y exteriores) que ocupa son cruciales para la forma en que se aprecia, se comprende y se consume.
-
-El ambient es trascendente pero no busca un plano más elevado. No es música new age. Más bien la trascendencia de la música ambient está dentro de nosotros y nos invita a profundizar en la vivencia de lo cotidiano.
-
-El ambient nunca es documentación de algún lugar o momento. En cambio, crea un lugar individuado, impresionista e imaginario. Se realiza en medio de nuestro yo interno y externo.
-
-El ambient es una música de perspectivas. Nunca es completamente cognoscible, ya que es música que se filtra constantemente entre las perspectivas (micro y macro) y las dimensiones de la escucha. Mantiene una sensación con lo misterioso (como señaló Mark Fisher).
-
-El ambient es amigo del ruido, del volumen y la fisicalidad. Sin embargo, es un enemigo del dinamismo no calculado.
-
-El ambient nunca termina. Es un proceso experiencial de devenir –para quienes oyen, quienes crean y más ampliamente, en tanto filosofía musical.
-
-—
-
-Un agradecimiento especial a David Toop, Felicia Atkinson, Mark Fisher, Simon Reynolds, Peter y Dale Fogarty y las muchas personas con las que tuve el placer de hablar en los últimos meses.
-
-Lawrence English es un productor de música y comanda el sello Room40.
-
-Artículo extraído de ‘Ambient music at 40‘,  publicado en FACT Magazine en Febrero de 2018.
-
-Traducción por eme isaza bajo autorización del autor.
-
-Manifiesto del Futurismo Rural
-
-Éliane Radigue: Budismo, Voltaje y una Escucha Infinita
-
-© 2026
-
-con ♡ en momoto`,
-        author: 'Lawrence English',
-        date: '2022-05-29'
-    },
-    {
-        id: 3,
-        slug: 'eliane-radigue-budismo-voltaje-y-una-escucha-infinita',
-        title: "\u00c9liane Radigue: Budismo, Voltaje y una Escucha Infinita",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2022/06/radigue-purple.jpg',
-        content: `# Éliane Radigue: Budismo, Voltaje y una Escucha Infinita
-
-«Para los fieles, una ofrenda, y Para los hambrientos, un medio de sustento, y   Para los apasionados, un balanceo de la mente—   Todo esto surge de la habilidad en la música.» 
-
-—Sakya Pandita
-
-La música electrónica no es un género, ni propiamente un estilo, tampoco se limita a una serie de métodos técnicos. Más allá de las discusiones categóricas, estamos hablando de la introducción de la dimensión eléctrica, electrónica, analógica y digital en los procesos de creación musical, por ende conservando las ideas previas que pudiesen existir sobre la música, el sonido, la escucha, el ruido, el silencio y demás elementos asociados. Y si nos permitimos, la música electrónica puede ser también una salida de los cánones en la era pre-electrónica, en tanto las máquinas en una relación con las entidades orgánicas fueron gestando nuevos paradigmas cíborg, abriendo paso a figuras transgresoras, futuristas y subversivas en el panorama musical, capaces de trascender el antropocentrismo sónico y de paso, la hegemonía musical, puesto que la música electrónica tiene madres, como Daphne Oram en la clásica Radiophonic Workshop de la BBC, figuras emblemáticas como Pauline Oliveros, en nuestros días con artistas como Suzanne Cianni o más cercanas en nuestro contexto local con Jacqueline Nova.
-
-## De la cinta al voltaje
-
-En la historia del movimiento francés de la música electrónica y experimental también hay una figura pionera que comenzó a la par de músicos como Pierre Schaeffer y Pierre Henry, aunque alcanzando confines estéticos, conceptuales y espirituales nunca antes presenciados en sus colegas. Hablamos de Éliane Radigue, una artista cuya obra, aún activa, refleja una de las búsquedas más profundas que podrían hallarse en la música de nuestros días, todos los días en el tiempo de Radigue, quien desde su nacimiento en una familia de mercaderes en París hasta su más reciente concierto en el festival presences electroniques 2022 en el legendario Acusmonium de INA-GRM, ha manifestado una excepcional revelación sónica de la más elevada -aunque no por ello inaccesible- mística electrónica.
-
-La obra de Radigue comenzó con experimentos en cinta magnética característicos de la escuela de la música concreta, donde era usual utilizar grabaciones de todo tipo para descomponerlas, repetirlas y generar desde allí nuevos compuestos. Fue interna del Studio d’Essai en la RTF en 1958, donde trabajó de la mano con Pierre Schaeffer y y Pierre Henry en los comienzos de la llamada música concreta, aunque luego partió de allí a raíz de su desacuerdo con la forma como el par de machos se contrariaban por los créditos en composiciones originarias del entonces naciente estilo experimental, o sus posturas intelectuales que los llevarían a una serie de discusiones que le sugerían a la compositora que ella no tendría lugar, ni siquiera reconociéndola como asistente.
-
-De allí se movió hacia la exploración del feedback y realizó, entre 1969 y 1974 varios experimentos con paisajes sonoros basados en bucles de varias cintas reproducidas en simultáneo. Posteriormente, viajó a Nueva York, donde se reconoció en movimientos como la escuela minimalista, dedicando allí sus esfuerzos al aprendizaje de la composición clásica en instrumentos como el arpa y el piano, conocimientos que confluirían en lo que sería una de sus momentos más prolíficos: su encuentro con los sintetizadores, un amor que la cautivó a ella y a su obra, detonado al toparse con un sintetizador Buchla que se hallaba en un estudio de Nueva York que creó en colaboración con otra mente maestra de la música electrónica, Laurie Spiegel.
-
-Aunque no sería el Buchla el instrumento donde encontraría su pasión analógica, sino en un ARP 2500, que ha usado siempre sin teclado, con osciladores crudos, buscando una expresión directa desde los potenciómetros del que llamaba «el stradivarius de los sintetizadores», instrumento analógico que exploró de una forma totalmente única y delicada, y que sería el único (junto a su máquina de cinta) con el que constituiría su obra por los siguientes 25 años, comenzando con la pieza Adnos I (1974) hasta L’Ile Re-Sonante (2000), en las que, conservando su influencia con previos procesos con cinta y feedback, se adentraría en una búsqueda de la continuidad sónica en capas, la variación sutil, el cambio infinitesimal, la detención ante el microsonido y la oda perpetua a la lentitud, carente de narrativa estricta y colmada de una honda indagación en la resonancia. 
-
-Radigue rechaza la idea del drone, en tanto no concibe su música como estática ni preocupada por los fundamentales, sino todo lo contrario: siempre variable y en constante desarrollo. «Amo cuando los cambios suceden sin que nos demos cuenta», le cuenta a Kate Molleson en una entrevista, idea que expande en un corto ensayo titulado Le temps n’a pas d’importance (El tiempo no tiene importancia):
-
-«El tiempo no tiene importancia. Todo lo que cuenta es la duración necesaria para un desarrollo fluido. Mi música evoluciona orgánicamente. Es como una planta. Nunca vemos una planta moverse, pero está creciendo continuamente. Como las plantas, inmóvil pero siempre en crecimiento, es mi música nunca estable. Siempre está cambiando. Pero los cambios son tan ligeros que son casi imperceptibles, y solo se vuelven aparentes tras el hecho. Esta música, como la concibo, no puede contener ningún corte, así que la estructura es bastante simple, basada en desvanecimientos -fade in, fade out y crossfade.»
-
-Según cuenta la compositora, cuando trabajaba con Buchla, a veces era complicado no alterar radicalmente lo que estaba haciendo al desconectar algo que no debía o al realizar algún movimiento en falso. «El ARP me ofreció una lectura inmediata», cuenta en otra entrevista, «los osciladores que ingresaban a un módulo o salida en particular estaban todos frente a mí», agregando que los artefactos ruidosos a menudo generados por los interruptores del ARP 2500, le atrajeron más que el sonido claro y metálico que encontraba en el Buchla o en el Moog Modular. Sus exploraciones continuaron expandiendo su filosofía de escucha y su idea de la corporeidad sonora, plasmada en piezas como ψ 847 de 1973, donde se vislumbran ya puntos que serían transversales en su música, como los juegos de resonancias, el llamado a la contemplación de las ondas y la carencia de cortes o estructuras evidentes.
-
-## Budismo sónico
-
-Decir que el ARP 2500 fue el componente central de su obra durante este período no es del todo exacto, en tanto faltaría el otro elemento que vendría a completar la ecuación de Radigue: el Budismo, concretamente el Budismo Tántrico o Vajrayana, en el cual, además de la meditación, se integran una serie de procesos tántricos, de cuerpo-mente, orientados a transmutar la energía vital en torno a la liberación del sufrimiento; técnicas en las que a menudo se da una importancia capital a la sonoridad, como se evidencia en la recitación de mantras y la profundización en la escucha como vía de liberación, elementos que no podrían ser más compatibles con la dimensión meditativa de la propuesta sonora de Radigue.
-
-Éliane Radigue, fotografía de Jacques Risseaut
-
-La compositora conoce el Budismo en 1975 de la mano de un grupo de escuchas, estudiantes de Robert Ashley en el Mills College, a donde Radigue había atendido para dar un recital, tras el cual se acercaron algunas personas de la audienciapara hablarse sobre la cercanía que encontraban entre el Budismo y su obra, ya para ese entonces meditativa y pausada, colmada de atributos que sugerían a creces una búsqueda espiritual. Quienes se acercaron, le lanzaron una pregunta que transformaría por completo su camino: «¿Sabías que no eres tú la que hace la música?». Los tres eran discípulos del Lama Kunga Rimpoche, y a la par de la inquietud, le dejaron una dirección al centro de prácticas Budistas del linaje Karma Kagyu en París, a donde la compositora cuenta haber ido recién regresó a Francia, para «nunca más mirar atrás.»
-
-Fue tal el impacto que sintió ante la forma de vida budista, que dejó durante tres años su actividad musical para dedicarse plenamente a la práctica y el estudio del Budismo ante las enseñanzas de su gurú, su eminencia Tsuglak Mawe Wangchuk, 10a reencarnación del gran Pawo Rimpoche, reconocido maestro del mencionado linaje. Radigue pasaría toda esta época siguiendo las instrucciones de sus maestros, las cuales concluyeron en el mismo lugar donde comenzó todo: en la música, pues fue su guía espiritual mismo quien la incitó a retornar a su obra, que si bien continuó con la trilogía Adnos y las versiones II y III, posteriormente comenzó a integrar una influencia más directa de sus conocimientos budistas.
-
-Durante este período, que en su obra se rastrea a finales de los 70, Radigue comienza una exploración conceptual y sónica donde se integran sus búsquedas espirituales con sus métodos de creación y la estética minimalista y atenta al detalle que ya la caracterizaba. Dedica varias obras al santo Milarepa del Tibet, excelso poeta, cantor e iluminado que dejó su relato en canciones que son a menudo parte de las plegarias y prácticas espirituales de los practicantes de esta forma de Budismo. Esto se refleja en piezas como 5 songs of Milarepa y Jetsun Mila, donde además incluye las voces del compositor Robert Ashley y su maestro Lama Kunga Rimpoche. 
-
-Posteriormente llegaría el que sería uno de sus más célebres trabajos: Trilogie de la Mort, una trilogía influenciada en su totalidad por la filosofía Budista y la cual podría considerarse una condensación de los componentes esenciales de la obra de Radigue, en tanto no solo expresa directamente su fascinación e influencia espiritual sino también porque en ella están presentes los elementos sónicos que ha estado plasmando en su obra durante sus años de conexión con el ARP 2500. Una profunda meditación sobre la muerte, colmada de patrones tonales dilatados, a menudo caracterizados por una evolución lenta de los armónicos, variaciones sutiles de los osciladores y filtros, y una extensión de las piezas que invita a una escucha detenida, pausada, introspectiva y a la larga reveladora, en tanto la permanencia en la quietud a la que suscita, conlleva a estados de consciencia que pueden ser tan sosegados como alterados, dependiendo de la temperatura espiritual de quien escuche. Nos recuerda Radigue: «son dos extremos: uno en el que dejas ir todo, o el otro en el que te dejas cautivar.»
-
-Trilogie de la Mort by Eliane Radigue
-
-La trilogía de la muerte se compone de las piezas Kyema, Kailasha y Koumé. La primera, Kyema, finalizada por la artista en 1988, tomando inspiración en los seis estados intermedios o Bardos que se describen en el Bardo Thodol, traducido como La liberación por audición durante el estado intermedio y conocido coloquialmente como Libro Tibetano de los Muertos, en el cual se establecen coordenadas de los estados intermedios de la conciencia en los que, según la tradición, navegamos tanto las personas como otras formas de vida, y constituyen el ciclo perpetuo de la existencia, la cual se presenta como una forma dinámica en el vacío, analogía perfecta para la música, en palabras de Radigue: «un silencio que es base del sonido – cuando comienza a vibrar.»
-
-La segunda pieza, Kailasha se estructura como una peregrinación imaginaria al Monte Kailāsh, considerada una de las montañas sagradas de la humanidad, ubicada en los elevados Himalayas en Tibet, de compartida veneración por parte de Budistas e Hinduistas, lugar de milagros, crónicas y eventos espirituales, al que atiende Radigue conceptualmente para edificar la pieza, completada en 1991 como un viaje sónico interior que a su vez es un tributo a su hijo Yves, quien fallecería por esos días a los 34 años en un accidente automovilístico, un suceso que, sumado a la muerte de su maestro Kunga Rimpoche, que la llevaría a Nepal para su cremación, dieron paso al cierre de la trilogía, en la pieza Koumé, en 1993 cuando Radigue concluye la pieza, la cual ahonda en la trascendencia de la muerte y su comprensión de la misma como parte del ciclo de la vida.
-
-## Liberación en la escucha
-
-En el siglo XXI la obra de Radigue mantiene su estética pausada y de evolución casi imperceptible, aunque ha cobrado un nuevo giro al enfocarse en instrumentos acústicos y electroacústicos como el bajo eléctrico, computadoras con patches de Max/MSP y en los últimos años el arpa y los vientos, en obras a menudo colaborativas en las que compone «para el intérprete y no para el instrumento», como se refleja en piezas Naldjoriak con artistas como Charles Curtis, Carol Robinson y Bruno Martinez y la serie de piezas para arpa Occam que comenzaron con la primera creada para el arpista Rhodri Davies y ha continuado con numerosas expansiones que al día de hoy continúan el espíritu de la prolífica compositora.
-
-Otra de sus recientes colaboraciones fue una instalación junto a su colega y estudiante, Laetitia Sonami, también devota del Budismo y cuñada de Kunga Rimpoche. Aunque Sonami trabaja desde una estética diferente a la de Radigue, ambas se unieron en a partir de su concepción de la sonoridad, encuentro que materializaron en la obra Le corps sonore creada por Sonami, Radigue y el ingeniero de sonido Bob Bielecki. Fue una obra de instalación in-situ en la parte central de la exposición The World Is Sound en el Museo Rubin en Manhattan. La pieza se reproducía desde el suelo hacia el techo y cambiaba a medida que las personas subían las escaleras, alterando la escucha desde una perspectiva ascendente, integrando así la arquitectura espiral del edificio y expandiendo la perspectiva típica del estéreo horizontal hacia una escucha vertical que se abre paso entre la impermanencia de las ondas rebotando en el espacio acústico.
-
-Radigue en medio del una obra de Arman, su difunto esposo. Cortesía ADAGP, París, 2019
-
-Cuando trata su filosofía de escucha en un pequeño retrato en video realizado por IMA Fiction en 2006, Radigue habla de la forma de escuchar su obra como una cuestión de perspectiva y contemplación que puede llevar a una profunda introspección y consciencia del tejido sonoro o detonar la fuerza de la imaginación, permitiendo a la escucha crear su propia película:
-
-«Es como observar la superficie de un río. Hay una iridiscencia al rededor de los arrecifes, pero nunca es completamente la misma, de acuerdo con la forma como mires, verás visos dorados del sol o las profundidades del agua. En una piscina puedes ver la reflexión de ondas en el fondo o tener una visión general y no dejarte llevar, lo que llamo contemplar el sueño, o fijarte en un detalle y crear tu propio paisaje.»
-
-Cuando comenta sobre las reacciones que ha encontrado en sus oyentes con respecto a estos sonidos, ni siquiera se trata en sí de la música en un punto, sino que los sonidos actúan como un «espejo mental» y reflejan el estado de ánimo en el que se encuentre la escucha en ese momento. «Si realmente te abres a estos sonidos, si escuchas de verdad y te entregas a la escucha, muestran un poder magnético realmente fascinante», agrega la compositora. «Ni siquiera hablo de lo que he hecho con estos sonidos, esa es otra historia, la forma en la que los organicé. Por encima de cualquier cosa, los escucho bastante y con gran respeto, tratando de entender lo que tienen por decir.»
-
-Aún en colaboraciones, Radigue ha mantenido la inmersión y profundidad de su época con el ARP 2500, en general buscando siempre conducir las escuchas a «despertar la música dentro de sí». «Deberíamos dejarnos llevar por los sonidos, abrirnos a los sonidos, escuchar lo que resuena dentro de sí», dice en una conversación donde habla del sonido y su capacidad para permitirnos un desprendimiento del ego y expandir la imaginación. Es esta fuerza transformadora, intimista y trascendente la que hace de Radigue una maestra del tiempo y la materia sónica, capaz de ir más allá de los convencionalismos para abrirse paso en su propia filosofía de escucha, liberadora y profunda, capaz de atreverse a lo que a tantas personas nos da temor: el infinito.
-
-«Tan solo deja tu cuerpo flotando en la ondaY así mismo deja la menteEl espíritu flotando en el sonidoRevisa lo que sucede»
-
-—Éliane Radigue
-
-## Fuentes
-
-- Bécourt, Julien. Éliane Radigue: The Mysterious Power of The Infinitesimal, Red Bull Music Academy
-
-- Kaplan Howard. Composing a life, Rubin Museum
-
-- Lee, Risha. Listening and liberation: The World is Sound, Rubin Museum
-
-- Radigue, Éliane: Le temps n’a pas d’importance en Spectres: Composer L’ecoute. Shelter Press
-
-- Éliane Radigue: Trilogie de la Mort, en The Lab
-
-- Molleson, Kate. Interview: Éliane Radigue, en su blog
-
-- Dax, Max. Éliane Radigue: An Interview, Electronic Beats
-
-- Harper, Jonathan. Interview with Éliane Radigue, Purple Magazine
-
-- Retrato de Éliane Radigue, IMA
-
-12 notas para el ambient futuro
-
-Seduciendo a Baudrillard
-
-© 2026
-
-con ♡ en momoto`,
-        author: 'eme isaza',
-        date: '2022-06-29'
-    },
-    {
-        id: 4,
-        slug: 'seduciendo-a-baudrillard',
-        title: "Seduciendo a Baudrillard",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/07/seducing-baudrillard.png',
-        content: `# Seduciendo a Baudrillard
-
-Este texto fue escrito para la segunda edición del fanzine homónimo realizado por everybodyisagirl, un nuevo proyecto con sede en Londres que está rápidamente ganando terreno con su exploración en torno a being a girl online. Se trata de una pieza derivada de una combinación del trabajo de Achim Szepanski sobre Baudrillard en su libro In the Delirium of the Simulation (Becoming, 2024), así como mi propia investigación y lectura sobre Baudrillard que surgió como parte del capítulo que escribí para una publicación de Zer0 Books en 2025. El tema de este fanzine era la Seducción, que ha sido un aspecto importante de la obra de Baudrillard durante un buen tiempo, así que como ya estábamos siguiendo everybodyisagirl y anhelábamos publicar algo con ellos, cuando anunciaron el tema, fue perfecto. No estaba segura de si la pieza sería apropiada para el fanzine, pero para mi deleite lo fue, y este texto se puede encontrar en la publicación impresa, bellamente diseñada por el equipo de EIAG.
-
-Si bien este puede parecer un lugar poco probable para encontrar a cierto anciano francés de anteojos 🙄, en la obra de Jean Baudrillard, la idea de Seducción va mucho más allá del erotas🥵, y se entiende más bien como una fuerza o poder💥 que se relaciona específicamente con el simbolismo💱 y los signos⚠️. Jean escribe sobre un universo indeterminado o «secreto»🤫, en algún lugar dentro del cual se coagula el jardín🌳🌷 de nuestra experiencia, lo simbólico. ‘Lo simbólico’ es la codificación semiológica de ‘lo real’ 🌎 en ‘realidad’ 🗺, y en el trabajo de Jean manifiesta un profundo interés por la forma en que la realidad simula lo real, y cómo esa simulación en tanto sistema de signos, modelos y códigos, puede desviarse o virar💫 (como Lucrecio👨🏻‍🎓) hasta tal punto que ya no guardan ninguna semejanza👬 con el original y se convierten por ende en simulacros. Su preocupación general es la muerte☠️ de los signos, y cita que la realidad en la modernidad capitalista 💸, con su lógica productivista🛠️ de acumulación positiva✖️, unilineal y de proliferación infinita🔝, ha dejado de operar de acuerdo con su referente original (lo real). Si alguna vez te sientas a ver las noticias y piensas “¿cómo es esto realidad?”🫣😫, pues no lo es exactamente🫨🤯.
-
-Los escritos de Jean sostienen que la realidad ha sido seducida hacia la hiperrealidad 🌐, y un ejemplo de esto en la cultura popular sería el Realismo Capitalista de Mark Fisher, una condición caracterizada por la incapacidad de distinguir entre capitalismo y realidad🧐. Sin embargo, a pesar del reconocimiento que da Jean al papel de la seducción en la transformación de los signos🔣 (y la muerte de los signos🪦, cuando se considera la seducción dentro de su cosmología general🪐, también aparece como una fuerza subversiva importante para enfrentar la hegemonía heteropatriarcal del capitalismo global y su lógica productivista y modernista.
-
-Para Jean, la seducción no es, en absoluto❌ lo femenino︎♀︎ que se opone a una producción masculinizada ♂, ni tampoco es la negación🚫 de la producción, sino la transformación de la misma. Esto es importante❗️ porque para Jean, la tendencia en la filosofía 🧐 y el pensamiento🤔 occidentales de operar con un orden simbólico🫡 de pares de signos estructurados de manera oposicional es altamente problemática😤, porque la lógica productivista o el supuesto de acumulación unilineal 📈 de capital nos lleva🎀 a grados crecientes de abstracción🔮. La seducción es una estrategia♟️ para producir significados y valores, pero no opera en base a la lógica productiva, caracterizada por las adiciones➕, las acumulaciones🆙 y, sobre todo, el hacerse visibible💡. En todo caso, la seducción como proceso vuelve invisibles las cosas, guía a las identidades hacia su muerte💀, anulando así la hegemonía de la producción. Por ejemplo, si la Identidad ️entra en un proceso seductor con la identidad 🅱, tanto 🅰️ como 🅱 “morirán”😔🤷‍♀️, ya que se vuelven a caracterizar y a identificar como dos polos en un devenir irreversible el uno en el otro, sin necesariamente devenir nunca 🆎. Sin embargo, buscar la seducción en un par opuesto con la producción sería pasar dramáticamente por alto la idea central la obra de Baudrillard.
-
-Sadie Plant🤖 acusó a Jean de temer😨 a la Seducción🫦 ya que sentía que él tenía miedo del poder que tiene la seducción para disolver el concepto mismo de Hombre♂ que ella suponía que Jean defendería, sin embargo, dado el compromiso de Jean con criticar la lógica productivista de la modernidad😣 y el capital😩, es difícil creer que realmente temiera la Muerte de sí mismo como Hombre. Casi siempre, Jean escribe más como un «terrorista teórico», que intentó siempre bombardear 💣 las estructuras de oposición sagradas que sustentan el patriarcado👑 y la filosofía occidental🏛️. Jean escribió que la estructura de oposición de Masculinidad/Feminidad es siempre una oposición Masculina, donde lo masculino se afirma y lo femenino es alterizado. Al afirmar que lo femenino es simplemente lo otro de lo masculino, enmascara u oculta todo lo que no sigue una lógica productivista, y ahora sabemos por la teoría cuántica🔬 que nunca hubo un vacío🕳️ ausente de femenino a partir de los cuales se erigieron los objetos⚛ y las identidades👤🍆, siempre fue ruido y fluctuaciones, por lo que pensar lo ausente, invisible o secreto, como vacío, vacuo o inexistente, es una ilusión conjurada por el presente🎁. Confundir el ruido con el silencio es todo un error😅, y solo se puede explicar por una falta de voluntad del Hombre para escuchar😂. De acuerdo con esta forma de razonar, Jean escribió que, de ser algo, sería más razonable decir que no hay masculinidad o sexo Masculino🥺, dado lo mucho que se esfuerza por existir en contraste con un «otro» que lo abarca todo, y la inconsistencia asociada con la disfunción eréctil😳 hace que parezca más como si lo Masculino fuera el otro de lo Femenino🤭, que aparece y desaparece de la existencia erráticamente. Todos son niñas cuando los niños miran hacia otro lado. Esta es una transformación directa de la lógica de la producción, donde en lugar de la estructura opositora de El Uno sobre El Otro, solamente hay otro.
-
-Me encanta esto, en algún nivel esencial, la voluntad Gaiana🌍 de que todo se fusione; de ​​quemarlo y fundirlo todo en el núcleo de metal líquido de un nuevo planeta: SÍ; dios. Eso es caliente.🔥 Como sabemos por Jacques Derrida, la imagen de la estructura opositora binaria ha dominado la filosofía occidental a lo largo de la historia, desde el debate entre Perménides😬 y Heráclito🥰 sobre el Ser y el Devenir, o el motor inmóvil de Aristóteles🙄, o las formas-apariencias de Platón🙄, o el dualismo mente🧠-cuerpo🫀 de Descartes🙄. Sin embargo, Louis Althusser😙 escribe sobre una corriente subterránea de materialismo, que traza una línea desde Heráclito hasta Marx😍, y yo diría que Jean, con sus ideas de secreto y seducción, es parte de este movimiento cinético-materialista. Digo esto porque, si bien Jean también habla de un real doble, la principal diferencia es que los dos aspectos del real-simbólico de Jean son entendidos como uno y el mismo, y su dualidad ilusoria no está organizada como una estructura opositora masculinizada. No están abstraídos uno del otro. Junto con Jacques, Jean y Louis, estoy atrapada en la determinación de arreglar a otro veterano francés🇫🇷💂‍♀️ de la Teoría👨‍💻, un tal Francois, o Monsieur Laruelle😜, que escribió una especie de poema alegórico, con un tono palpable afrofuturista✨, sobre los dualismos occidentales🌎 llamado Universo Negro🖤. En este poema, Francois habla de un Negro▪️ que no puede definirse como el otro del Blanco▫️—es un Negro▪️ que lo abarca todo y que no se somete a la autoridad de la luz (a diferencia del color🎨, el Negro▪️ carece de posición). No es Negro▪️ como en Negro▪️/Blanco▫️, es algo más allá de eso, es ultranegro⚫️ (Szepanski🏴‍☠️). Francois escribe que el Universo y el Hombre, aunque tiene más sentido decir Ella-Misma, son Negros▪️, y que el Mundo y la Filósofx son Blancos▫️. El Mundo (▫️) es la realidad simbólica de Jean, y la Filósofx (▫️) es Ella-Sí-Misma (▪️) que piensa (▫️) el Universo (▪️) como el Mundo (▫️). Solo existe lo Negro▪️-en-Negro▪️, Ella-Sí-Misma en el Universo, pero a través del pensamiento/la filosofía, el Blanco▫️, una ilusión de posición▫️, aparece como residuo alrededor del Negro▪️ mientras se pliega sobre sí mismo al ser seducido (▪️).
-
-Thomas Nail😘, junto con Achim Szepanski🫡, reflejan el trabajo de Francois y Jean al presentar otro modelo del universo dual no oposicional, ubicando al universo como Ruido🔊—movimiento caótico—donde incluso en las trincheras más profundas🦑, uno solo encuentra grados crecientes de complejidad en oposición al vacío. Para Thomas y Achim, el ritmo es un patrón de movimiento metastásico que surge del ruido a medida que se mueve caóticamente😯, y el ritmo▫️ está en la posición▫️ de orden▫️, pero está irreversiblemente saturado de ruido en cada punto📍, por lo que, aunque el ritmo puede, con cierta lucha, erigirse a partir del ruido, es una formación temporal, y no es menos ruidoso. Así que el ruido y el ritmo constituyen el universo doble, diferenciado solo por el espacio-tiempo, o la posición-en-el-momento🌎📌. Ahora, aquí es donde tratamos de vincular todo esto con lo que, siguiendo a Lucrecio, podría argumentarse como la Diosa de lo Real: Venus 🖤💖 (Negra▪️).
-
-Pensando en Jean, la Diosa de lo real es la Diosa de la seducción👄, que es de naturaleza dual☯, y no es concebida a través de la lógica de la producción, sino por la transformación de la producción🙃😌. Afrodita🧝🏻‍♀️🐚 nació cuando Gaia🌏, avatar de Xaos❓, seduce a Tetis🌊, avatar de Gaia, para seducir a Xronos⏳, avatar de Tetis para castrar a Urano🌬️☁️, el cielo masculinizado a la tierra femenina—los genitales cercenados😿 del Padre caen al Océano🌊, y de la espuma🫧 (aphros) surge Afrodita🌹. Cuando caminó por las playas de Chipre🇨🇾, el Cielo había llegado a la Tierra. Afrodita es doble💞, es el objeto del deseo💘 y el deseo💘 mismo, y por lo tanto puede entenderse en términos de la seducción de Jean. Gaia🌏, a través de las ondas cíclicas 🌊 de Tetis㊌, capturó el aire como espuma🫧, produciendo así una representación aún más perfecta de Xaos que la propia Gaia; Venus es más Negra que el Negro🖤.
-
-Gaia [negra] produce Ouranos [blanco], una simulación [blanca] de lo real [negro], pero ella no produce a Afrodita [negra], al menos no por la lógica [blanca] productivista [blanca] de acumulación [blanca] unilineal [blanca]. En cambio, Afrodita nace a través de las relaciones lésbicas [negro-a-negro] entre la Tierra [negra] y el Océano [negro] usando los genitales cortados [negro-como-blanco-negado] del Cielo [blanco]. Más que un simple asunto engañoso, la historia del inicio de Afrodita podría leerse como una historia de revolución🫡✊, o performance 🎭️, o ritual🕯️🌀. Fue una estrategia para la reseducción💯 inmaculada (no reproducción) donde Gaia crea materia a partir de materia👏. La materia se crea a sí misma, ese es el secreto🤫, no reproduce representaciones de sí misma: reseduce más de sí misma. El secreto de la seducción es un negro tan negro que siempre encuentra la manera de volverse más negro. En lugar de producir copias de sí mismo, el secreto seduce a más-de-lo-mismo. Jean escribió que el ritual es el proceso a través del cual se forma lo simbólico como una simulación codificada de lo real, es la estrategia para la formación de signos a través de la seducción. La diosa Afrodita es el significante real de lo real, el resultado de la perfección del ritual, y eso es lo que la hace hermosa. Ella es el milagro de la vida, pero, al igual que la Diosa de la seducción, también es un Ángel de la Muerte, nacido del derrocamiento ritualizado (desaparición) de los cielos que nos permitió despertar un día, como Ella-Sí-Misma en el Universo y caminar sobre la Tierra como hija reuniéndose con la madre, como la primera mitosis perfecta, el primer latido en el ritmo del Universo.
-
-Por Palais Sinclaire
-
-traducido del Inglés
-
-Éliane Radigue: Budismo, Voltaje y una Escucha Infinita
-
-No es nada
-
-© 2026
-
-con ♡ en momoto`,
-        author: 'Palais Sinclaire',
-        date: '2024-07-26'
-    },
-    {
-        id: 5,
-        slug: 'no-es-nada',
-        title: "No es nada",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/10/1_Sfm-HujEslWPKPkAhQNaLA.webp',
-        content: `# No es nada
-
-### débil sonido de algo en su comienzo
-
-En marzo de 2009 me invitaron a dar una conferencia y un performance en el Festival GRM ‘Presences Electroniques’ en París. Durante mi tiempo libre visité el Musée Picasso para ver como cambiaban mis ideas con relación a la historia de la escucha al contemplar una notable secuencia de pinturas y construcciones en relieve que representaban instrumentos musicales, en particular guitarras.
-
-Mi cuaderno de notas de entonces registra progresiva perplejidad y emoción, dado que el misterio de que Picasso insistiese tanto en las guitarras y los violines estaba estimulado por pensamientos minuciosos sobre la representación de lo espacial, el tiempo capturado y los eventos auditivos en un medio por lo demás plano, estático y silencioso. En ese momento había terminado (o eso creía) la redacción de mi libro Sinister Resonance, en el que exploro la potencialidad de medios silenciosos (la pintura, por ejemplo) como dispositivos auditivos. La compulsión de escribir el libro surgió de la frustración con el discurso autolimitante de lo que conocemos como arte sonoro, un desfile centrípeto y repetitivo de «héroes» cuya previsibilidad sirvió para solidificar una práctica que de otro modo sería nula.
-
-Tal vez la improbabilidad de considerar a Picasso como un nodo de la antihistoria, incluso un destello primordial que activó el trabajo sonoro en el siglo XX, sea un estímulo para considerar seriamente la propuesta. Tomé notas sobre las construcciones en relieve que Picasso hizo en 1926. Los materiales eran una mezcla de papel de periódico, arpillera, clavos, cuerdas, un resorte, tachuelas y lienzo, todos llamados Guitarra: «La primera de estas amenazas: el agujero de sonido arrancado de la arpillera, los clavos que sobresalen señalando; la segunda se parecía más a la suave huella del pensamiento de una guitarra prensada en la arena. Aunque la correa sugiere una cuerda de arco tensa en ambos casos». Sobre Mandolina y Clarmet, de 1913, escribí: «En este, los instrumentos explotan, como si su resonancia interna se hubiera revertido».
-
-### débil sonido de ningún exterior, ningún interior
-
-Hay música implícita. Puede escucharse. Estas pinturas y construcciones. Plantean una pregunta que sólo se agranda al considerar el cubismo en su conjunto: El retorno obsesivo al instrumento musical como vida quieta en Picasso, Georges Braque y Juan Gris. Esta fijación con la tecnología sónica es inevitable; cualquier historia del cubismo pasará por un comentario mistificado antes de ir a cuestiones más resueltas. Con el creciente enfoque en el significado del objeto, especialmente en la exposición del MoMA –Picasso Guitars 1912-1914– la cuestión se examina más a fondo. «Picasso no tocaba un instrumento y se dice que no tenía paciencia con la mayoría de tipos de música», escribe Anne Umland en El catálogo del MoMA.[^1] Considera la atracción que la música de guitarra ejercía sobre Picasso —»sus asociaciones con la vida de café y con la música flamenca, un género contradictorio a la vez primitivo y moderno, español y gitano, fijo e improvisado…»[^2] antes de concluir que su decisión de construir una guitarra en 1912 fue «un acto que le permitió descubrir lo que, específicamente, la guitarra tenía para ofrecerle como estructura o modelo de una forma particular de espacialidad contenida y para un vocabulario particular de signos simples, separables e icónicos».[^3]
-
-Ambos puntos resuenan. Lewis Kachur examina más de cerca la rumorada indiferencia de Picasso hacia la música y encuentra una historia bien distinta, en la que sus gustos (como podríamos esperar de un pintor cuya visión era tan forzada) se dirigían a la expresión directa: el sonido áspero de una chirimía popular catalana llamada tenora, o, en el otro extremo de una escala imaginaria de refinamiento, las composiciones de Erik Satie (un maestro de la simplicidad engañosa) y Deodat de Severac. Vale la acotación: Kachur traza un paralelo entre los signos incrustados omnipresentes en el cubismo (el motivo del instrumento musical, los trozos de periódico y las partituras) y la estrategia común a los compositores de la época en la que se combinaban melodías folclóricas, canciones populares del music hall y el cabaret y el ragtime y el jazz estadounidenses, en el sentido de estar también incrustadas en el flujo de una partitura.[^4]
-
-### sonido débil de un sonoro débil no sonido
-
-«¿Sabes cómo limpiar sonidos?» escribió Satie en 1913. «Son un asunto sucio».[^5] Su ingenio irónico se aplica a la noción de materialidad sonora, al igual que el ingenio de Picasso se aplicaba al desmembramiento de las formas. El vacío de la guitarra, ese volumen del que emana volumen, se desata. El recipiente del sonido se abre, se vacía y lo que no es nada se vuelve sólido. Su Guitarra de 1913 en cartón ha sido descrita de diversas maneras como «un nuevo lenguaje escultórico» y «una ruptura crucial en la historia del arte moderno». En cuanto a Picasso, su reacción fue un encogimiento de hombros: «No es nada, es el guitare!«, una despreocupación replicada y amplificada por André Salmon: «Los compartimentos estancos están demolidos. Nos liberamos de la pintura y la escultura, que ya han sido liberadas de la tiranía de los géneros. No es ni esto ni aquello. No es nada. Es el guitare!«[^6]
-
-Junto a la imagen estampada de una botella de Anis del Mono, la Guitarra de 1913 se encontraba en una mesa, parcial y diminuta, pero no por ello menos «real», suspendida en el espacio delante de dos hojas de papel pintado superpuestas. También en 1913, Picasso realizó otra más compleja, Construcción con Guitarrista y Violín, una obra que sólo existe en fotografías de estudio de la época en la que solía colgar una guitarra real de una «pared» en la que se dibujaba el contorno de un guitarrista. Un brazo con una mano, hecho con papel de periódico, se extendía desde el perfil del guitarrista hasta la guitarra flotante. En la pared está el violín de papel de 1913 y delante hay una mesa de café con una botella de vino, una pipa y una taza. No hay nada en la pieza que sea sonido en sí, ni un sonido en proceso que devenga, y aún así se puede escuchar. «El arte no debe ser una trompe l’oeil, sino un una trompe l’esprit«, dijo Picasso.[^7] Al ojo no se le engaña; ni tampoco al oído. No hay nada, aún así la mente oye.
-
-- Umland, Anae. 2011. Picasso Guitars 1912-1914. Nueva York: The Museum of Modern Art. p.20. 
-- ibid, p.21. 
-- ibid. p.22. 
-- Kachur. Lewis. Picasso, música popular y collage. Cubism (1911-12). The Burlington Magazine, vol.135. No.1081, abril de 1993. p.256. 
-- Satie, Erik. citado en Perloff. Nancy. 1993. Art and the Everyday: Popular Entertainment and the Circle of Erik Satie. Oxford: Clarendon Press. p.83. 
-- Citado en Umland, Anne, op cit., p.27. 
-- Referenciado en Markus, Ruth. ‘Picasso’s Guitar, 1912: The Transition from Analytical to Synthetic Cubism’. Assaph, Studies in Art History 2. Universidad de Tel Aviv. 1996. p.238. 
-
-Traducido del Inglés.
-
-Seduciendo a Baudrillard
-
-Devenir y Deriva
-
-© 2026
-
-con ♡ en momoto`,
-        author: 'David Toop',
-        date: '2024-10-10'
-    },
-    {
-        id: 6,
-        slug: 'devenir-y-deriva',
-        title: "Devenir y Deriva",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/11/el-origen-de-las-especies-poster.jpg',
-        content: `# Devenir y Deriva
-
-El tiempo es clave para comprender y alterar. La temporalidad no es un simple flujo; habita en la materia, se entrelaza en sus mutaciones. Aquello que fuimos se entrecruza con el flujo de lo que somos y seremos, aun cuando ni siquiera sepamos que lo somos. Somos monstruxs, seres inmensxs, pequeñxs, etérexs, fugaces o sólidxs. Tenemos múltiples cualidades y estructuras, nos mantenemos o no, da igual el todo, da igual la nada. Estamos en cualquier límite, invadiéndolo toda idea, incluso la del silencio. Entre luz, víscera y concepto; memética y genética se follan entre sí a escondidas de la academia. En la oscuridad, las especies no parecen distinguir entre lo biológico y la manifestación temporal, ideal o relacional. En la penumbra, las especies difuminan las fronteras entre lo biológico y lo ideal, entre materia y conocimiento, en un juego hipersticional que desafía lo fijo y lo categórico. Aquí, las especies devienen en un rito anastrófico, entre la ensoñación y lo real, en hiperobjetividad plena. La función recién comienza.
-
-## Habituales puntos de luz
-
-Por eso quizá nadie sabe a la final para donde va, pero sabemos que vamos, que andamos: transitamos. Que somos mutaciones perpetuas, seres-en-movimiento, cruzándonos para engendrar constantemente no tanto la nueva forma como si la más reciente pregunta, que se actualiza en todos los espejos al tiempo que se desvanece. Nadie sabe a la final quien o qué es, pero sabemos que somos, que persistimos: transitamos. Pero no solamente somos sucesiones de puntos de luz en el espacio oscuro, aunque así pareciese. También somos el interrogante mismo, la grieta vertical, espacio perpetuo de transformación. Es entendible que las convenciones de la mente racional y las estructuras fundadas en taxonomías viciadas estén programadas para lacerarnos. Se suponen inocentes palabras esas que clasifican sin reconocer el daño que hacen a lxs sustantivxs mismxs, que una vez categorizados, caemos en manos ajenas, habitualmente malintencionadas, habitualmente falogocéntricas, habitualmente capitalistas, habitualmente… o sea en el tiempo, circunscritas a las ilusiones de las líneas.
-
-¿Cuáles escapes pueden quedar que no sean esa maraña del Capital? Quizá sea construir un flatline, abrazar la visión k-goth. Este escape se despliega en una hipnagogia extendida, en las zonas intersticiales de temporalidades cruzadas, donde las taxonomías aún no existen fuera del símbolo y la metáfora. Aquí, la analogía es resistencia poietica: conservar el poder del pliegue y (de)formación, sosteniendo una realidad que nos recuerda que toda cosa ‘nueva’ es siempre otra-aún-no-reconocida. En ese espacio de olvido, mientras nos sumergimos en lo que creemos ser, hay otros seres aconteciendo, habitando esos vacíos de definición. Imponer taxonomías es clausurar posibilidades; nos ancla a una única narrativa, dejando en las sombras a aquellxs que, sin nombre, pierden no solo su identidad sino también la posibilidad de ser. Nos convertimos en guardianes de categorías que, lejos de revelarnos algo esencial, sólo nos privan de sentir aunque sea un mínimo de expansión infinita.
-
-## El Origen de las Especies
-
-Nombrar un nuevo mundo es por tales motivos tarea imperiosa. Por eso la ficción nos ofrece herramientas poderosas y por eso ha que celebrar la manera en la que ilustran todas estas cosas lxs directorxs Tiagx Vélez  Juliana Zuluaga Montoya y Analú Laferal en El Origen de las Especies, un largometraje de ciencia ficción «mutante y capitular, que recoge el trabajo transfuturista del colectivo Crisálida Cine durante los últimos años.” Posporno, transhumanista, transfeminista, xenosemiológico, ritualista, íntimo, revelador. La política y la poética trabajan aquí de la mano de una manera insólita, revelando no solo la ya antes descrita ecología del infinito, sino también interpelando, alterando, distorsionando y subvirtiendo aquello mismo que trata. 
-
-La pieza expone una serie de dilemas ecológicos mediante un lenguaje visual y narrativo enmarcado en un ciberpunk transfuturista auténtico. En él, la contemplación abstracta del DIY abre puertas hacia la desterritorialización de objetos: ser compost, aprovechar la basura, redescubrir la especie, la incógnita, la anomalía. Aquí, lo extraño y lo queer se mezclan en una ecología fúngica, en saberes arcanos y resistencias decoloniales. Todo se cruza en un tecnomaterialismo chamánico, en una mística-ficción que, siendo también ciencia, asume una postura alquímica. Las especies se conciben aquí más allá de la lógica darwiniana, en una maraña cósmica de seres hipnagógicos, de materia que en lo muerto vibra con una vida oculta, caosmosis.
-
-## (In)comodidad
-
-El Origen de las Especies nos conduce a un cine crudo, sin temores a recorrer formatos, épocas y técnicas, amalgamando lo antiguo y lo venidero para dar vida a paisajes, texturas, mutaciones. La obra mezcla ensayo audiovisual, videoarte, música experimental y diseño (xeno)sonoro, logrando no sólo un cruce de formatos, sino también de lenguajes, estrategias narrativas y dimensiones especulativas. Cada una de estas herramientas entrelaza historias que podrían desplegarse en una narrativa lineal, pero que aquí emergen enredadas, como fugas, embrujos en cadena, parásitos reunidos. La estructura de la película es vertical: mantiene una misma dinámica subyacente, pero se llena de aristas inesperadas, rompiendo con la secuencia y estableciendo un espacio-ritual en el que parece conjurarse colectivamente un hechizo perenne.
-
-Escenas explícitas y momentos incómodos resuenan en la sala. Algunxs espectadorxs, otrxs se retiran; otrxs revisan sus celulares. La incomodidad marca la experiencia: para muchxs, reconocerse animal, cuestionarse, o asumir el engaño de la narrativa humana resulta incómodo, pues nos recuerda la profunda herida del trazo humano y el olvido de la esencia salvaje. La incomodidad es aquí en gran medida miedo al reconocimiento, de que eres podredumbre y pantano, al tiempo que nube y electrón. Todo esto trae un cuestionamiento inevitable que emerge y/o se instaura en las profundidades subconscientes que extrañamente se activan conforme avanza el filme. Todo eso que se vive alrededor termina siendo parte de la película. Aquí no es de gente comiendo crispetas sino animales siendo interpeladxs, convocadxs, reclamadxs. Aquí me recuerdan que a mis ancestras las asesinaron, que a lxs animales lxs seguimos mutilando, que lo que que creo ser, me ha sido impuesto y puedo cambiarlo.
-
-## Diseño (xeno)sónico
-
-El diseño sonoro evoca una forma revolucionaria y contemporánea de sonoridad, anclada en finas referencias a la ciencia ficción clásica y alimentada por recursos limitados que, lejos de restringir, potencian la experiencia. El uso del theremin como dispositivo retrofuturista resulta un guiño acertado, un instrumento que no se impone ubicuamente, sino que actúa como un eco del pasado que se inserta orgánicamente en la textura global. 
-
-La sonoridad aquí construida es alucinante, una magia sónica que opera en sincronía con imágenes que sin esos silencios, estruendos y cadenas granulares, carecerían de vida propia. No se encuentra aquí una colección disonante de sonidos que interrumpan la inmersión, ni los tapetes «vangelísticos» o los clichés familiares de la ciencia ficción. En su lugar, la sonoridad brota de figuras orgánicas, materiales, plásticas, y metáforas constantes a lo material-auditivo. Las texturas cobran vida a través de filtros comb que retuercen armónicos, transiciones sublimes de procesamiento granular, y masas sonoras líquidas que mutan hacia líneas finas de frecuencias resonantes y filtradas. En esta paleta sonora caben el drone, el dark ambient, lo industrial, la armonía y el noise, componiendo un paisaje acústico que desborda con un asombroso detalle microsónico.
-
-Cada elemento parece diseñado con precisión: desde el tono descendente de ranas y chicharras, como una suerte de efecto Schumann inverso que acompaña el ingreso a la selva pantanosa y a su ritual pagano, hasta las vibraciones electromagnéticas que giran al resedor de la sala, mientras tus ojos se fijan en la geometría de un poste de luz. Esta sonoridad establece condiciones especulativas que extienden el espacio mismo de la experiencia, otorgando a los materiales una vida autónoma. Las expresiones no diegéticas se despliegan como un ámbito expandido, denso en filigrana sónica y en silencios que también reverberan, una cacofonía que en ocasiones se vuelve incómoda, quizás por el simple acto de enfrentar lo inusual, de revelar la grieta.
-
-## Devenir y deriva
-
-“Devenir y deriva” aparece en la pantalla en un momento crucial, acompañando a una de las especies más abstractas del, que, a estas alturas, me atrevo a llamar documental. Surgen infinidad de voces de lo no-humano, de lo inhumano y de lo que trasciende lo humano. Es una inagotable proliferación de entidades: desde especies voraces que se tragan las estructuras patriarcales hasta trozos de materia que, atrapados en un bucle fragmentario, buscan encontrarse en su propio devenir. Lo humano se deja ver escasamente, y cuando lo hace, emerge como símbolo de hegemonía, catástrofe y descomposición. Lo queer remite justamente aquí a las posibilidades de lo descompuesto, lo viscoso, la transformación; ese “devenir”, esa “deriva”. No es una cuestión de identidad fija, de qué se es o se será, sino de en qué se deviene, en qué se deriva, en qué se fragmenta y se reproduce.
-
-## Teleología salvaje transanimal
-
-En El Origen de las Especies, lo salvaje no es solo una etapa superada por la razón, sino también un anhelo constante. La pérdida de la ferocidad no solo apunta a una domesticación progresiva, sino que está profundamente ligada a la maquinización, a la automatización y, en última instancia, a la pérdida de libertad. Lo salvaje no se presenta aquí como el opuesto de la máquina, sino como un camino de continuación, una línea de fuga que sugiere otra posibilidad.
-
-Quizá «esperanza» una palabra demasiado distante para el tono catastrófico que adopta el el colapso del espaciotiempo presente, reflejado en la textura oscilante de la película, pero aún la premisa es esa precisamente: “las criaturas del asteroide” encontramos esperanza en el reconocimiento y reclamo de nuestro devenir transmaterial. Este tono reactivo, anarquista y a su manera vitalista, que adquiere el performance en varios momentos, te permite vislumbrar una grieta, un escape, una interrogación abierta que invita a seguir buscando, soñando, consumiendo, sabiendo que en el proceso te devorarás a ti mismx. Aunque alguien diga que no es más que desecho, la basura siempre será algo nuevo para quien lo observe desde otra perspectiva. Aquí reside la posibilidad misma de la vida, en la putrefacción, en la eterealización, en la electrificación. Lo alien y mutante es en última instancia, lo único que queda cuando la inteligencia humana y sus monstruosidades resectivas, agotan su poder.
-
-## Ontogénesis post-mundo
-
-Conscientes de que estamos ante la despedida de nuestro planeta, nos reconocemos como mutaciones cósmicas, colectividades que aún se cruzan para soñar, olvidar y recrear un universo siguiente. A veces, simplemente dejarlo caer o no pensar en ello. Aparecer sin estar, sentir en silencio, buscar sin ser. Definirse y a la vez disolverse en el bucle que es la metáfora de la vida. El origen de las especies no es la categoría, ni la esencia, ni la historia: es la incógnita misma, la apertura perpetua, la pregunta que se devora a sí misma. 
-
-Es la bendición de la catástrofe, que se revela aquí se convierte aquí en la actualización de un futuro que es a la vez un pasado perdido o desconocido, como expone el juego hipersticional constante en la película: por momentos parece desarrollarse en un escenario apocalíptico futuro, en el cual la ficción emerge como realidad en el contexto de la catástrofe; en otros, evoca el pasado o un tiempo suspendido, con capas, formas primarias, otros estratos y escalas. Esta dinámica rizomática permite una narrativa no-lineal que se construye en las fugas mismas de la voz en off, el texto y las hábiles piruetas de síncresis alucinatoria. Aquí, el contrato audiovisual no opera bajo regímenes tradicionales o literales, sino que se filtra a través de la metáfora y la resignificación, explorando expresiones tanto atómicas como bacterianas, sin dejar de interpelar al macrocosmos y a manifestaciones hiper y meso objetivas. Considerar así el entramado cósmico desubica en tiempos mutantes, extraños, tanto cinematográfica como discursivamente. Las imágenes y sonidos, en conjunto con la densidad de las ideas sugeridas o susurradas, producen siempre un ángulo renovado, una reafirmación perpetua de la pregunta.
-
-## Maraña Ch’ixi
-
-Lo bello de la maraña y su contradicción, la maravilla y la muerte; encuentros simples o en el ruido, para buscarse y no, de amar(se/nos) en (des)composición. Aquí hay demonixs que te penetran para exponerte a tu propia fragilidad, también nuestra, también de nadie. A la vez sientes luces y calma, un extraño amor. Podría ser una eterna, expansiva, indomable, multidireccional regresión de objetos: transfinitud. Así se plantean aquí las especies, siempre capaces de trascenderse, subscenderce, implosionar o conectarse, chocar y aislarse, ser una y varias, todas y nada, partícula o universo. Cuando dejas de pensar en varias especies separadas y consideras la posibilidad de que todo el tiempo solo estuvo hablándote una voz, aparece la maraña misma, hablando en su oscuridad. La extrañeza de todas las cosas se expresa así en el silencio profundo que acoge a la voz que canta el origen transfinito de las especies. 
-
-Se narra así una maraña ch’ixi, la reunión de mezclas y tensiones que somos: todx con todx. Es poder encontrarte demonixs junto a larvas junto a luces. Es todx lx in/no/hiper/más-que humano, una oda al Chthuluceno. Los darwinistas que presencien la obra podrán tener quizá muchas pesadillas como también iluminarse profundamente con lo que aquí se constata y proyecta. Una ecología queer, xeno, oscura, postnaturaleza, abolicionista de cualquier categorización dicotómica rígida. La taxonomía como vía anclada a la poética, que es poiesis, vida-in-formación, en mutación.
-
-## Ficción como documental
-
-El Origen De Las Especies explora una ficción que deviene en simbiosis con la realidad vivida; una suerte de interfusión entre la narrativa y la identidad de lxs directorxs, quienes, al habitarse a sí mismxs como sujetxs políticxs, proyectan en el filme una constelación de seres múltiples y xenomórficosque ellxs mismas encarnan. Cuerpxs que son capaces de alienarse y reconocerse como extensiones mutantes, amantes, oscurxs o clarxs, sin color alguno: pura idea, cieno, penumbra, galaxia, destino, fugacidad. Se convierten en cosas olvidadas o insistentes, cada cual un punto en la maraña, existiendo a la vez como todo y nada, como la voz en la pantalla negra y su silencio. 
-
-La película termina, pero su hechizo persiste; se convierte en un ritual del cual el espectador ha sido parte. Las especies que ocupaban la pantalla se materializan entre el público, levantándose con rostros que reflejan esa misma alienación, conmoción, y extrañamiento. Algunas sensaciones confusas alcanzarán el inconsciente, otras residirán en lo inmediato, para jamás abandonarnos. Fuera de la sala, esas especies continúan pululando, unas hechas de materia vigilante, otras de etéreas sedas traídas de dimensiones solo accesibles en un espacio sin peso ni gravedad.
-
-Se revela aquí crucial conducirse hacia la alienación audiovisual: desprenderse de los parámetros convencionales, cuestionar, criticar, subvertir y trascender la matriz audiovisual misma. Día a día, fuerzas invisibles—corporaciones, algoritmos, empresarixs, políticxs—manipulan las cosas mediante los lenguajes de esa matriz, y no es la tecnología en sí el problema, sino su intención, control y programación. De ahí que sea urgente la premisa xeno-hacker de abstraer, revertir(se) y refuncionalizar las herramientas con las que nos subyugan, desmantelando sus códigos y rescatando su potencial disruptivo. Entrópico, concreto, alienante, desgarrador, visceral, espectral y revolucionario. El Origen de Las Especies es un clamor por mantener viva la invocación de mitos, de elevar lo salvaje y de concebir una tecnología que no se idealiza como redentora, sino como una textura emergente del caosmos de todas las cosas y especies, incluidas aquellas que aún no nombramos.
-
-Crisálida Cine
-
-No es nada
-
-Sobre los senderos del jardín
-
-© 2026
-
-con ♡ en momoto`,
-        author: 'eme isaza',
-        date: '2024-10-31'
-    },
-    {
-        id: 7,
-        slug: 'sobre-los-senderos-del-jardin',
-        title: "Sobre los senderos del jard\u00edn",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/12/jardin-senderos.jpg',
-        content: `# Sobre los senderos del jardín
-
-¿Cual práctica consiste en encontrar cosas –en este caso, sistemas para producir sonidos o lo que sea que pueda extraerse o introducirse mediante sonidos– y luego presentárselas a los músicos?
-
-Digo encontrar para no tener que decidir entre inventar o descubrir, aunque mi corazón ya se haya decantado por el descubrimiento. Un algoritmo de síntesis sonora o un modelo generativo con propiedades extrañamente agradables no son invenciones que surjan de la nada. Creo en su preexistencia, como parte de un universo en el que he aprendido a caminar. En Recoltes et Semailles, Grothendieck habla de estructuras que ‘no nos esperan para ser, para ser exactamente lo que son’, estructuras que sólo necesitan ser «descubiertas y puestas a sonar». Yo no invento nada: deambulo, algo capta mi atención, observo más atentamente, lo documento y luego vuelvo a nuestro mundo para presentarlo. Una expedición, como las que emprenden los entomólogos o los botánicos.[^1]
-
-¿Dónde encuentras nuevas plantas o insectos? En la naturaleza, se hallan en los tipos de ecosistemas adecuados. Ecosistemas lo suficientemente grandes y complejos para que estas especies prosperen, pero lo suficientemente pequeños y cómodos para que nosotras, las exploradoras, no nos perdamos en ellos, y donde además se pueda seguir algún tipo de hilo conductor de modo que, al abrirnos paso a través del matorral, podamos por casualidad percatarnos de una mariquita que no estábamos buscando.
-
-Los algoritmos que animan nuestras máquinas de sonido se encuentran en espacios con propiedades similares. Podríamos esperar lo vasto y complejo: las matemáticas y la informática teórica proporcionan numerosos ejemplos de sistemas donde se generan ricos comportamientos mediante reglas o leyes que pueden enunciarse en unos pocos signos o líneas de código. Pero, ¿qué tienen que ver aquí lo pequeño y lo cómodo? 
-
-A lo largo de su historia, los instrumentos musicales nunca han logrado escapar a las leyes de la física o la economía. Los fabricantes de instrumentos han dejado inexploradas zonas enteras del espacio de posibilidades de los instrumentos: ‘un contrabajo de plástico de entre cinco y doce metros de alto’, por ejemplo, o ‘flautas y oboes toroidales’. Si en cambio se centraron en lo que parece un número bastante pequeño de formas y procesos, a veces con gran tenacidad y un afán por la perfección en los detalles (el mecanismo de la tecla del piano o el sistema de Boehm es para ellos lo que el ojo es para los teóricos de la evolución), es porque se trata de un tipo de espacios de posibilidad, espacios que favorecen el descubrimiento.
-
-¿Qué tipos de física y economía actúan como restricciones sobre el espacio en el que descubrimos los sintetizadores? Es claro que hay parámetros físicos y económicos extrínsecos que, al combinarse, definen lo que es técnica y comercialmente viable para el ingeniero-fabricante de instrumentos. El número posible de transistores (Moog modular), circuitos integrados por canal (Prophet 5), operadores por nota (DX7) o líneas de código por bloque de síntesis (todo lo que siguió) siempre se puede contar con los dedos de una mano (y quizás algunos de los pies). Igualmente lo puede ser el número de empleados en los laboratorios o empresas que han traído al mundo esos instrumentos, o el número de años que han tardado en hacerlo. Los enfoques maximalistas que llevan tal o cual parámetro, tamaño, coste, número de botones o relación señal/ruido más allá de los límites razonables impuestos por el zeitgeist tecnológico de su tiempo, sólo han producido curiosidades (o misiones espaciales). Por otra parte, existe un delicioso folklore que narra cómo las características sonoras de ciertos instrumentos famosos son el resultado de decisiones económicas tan básicas como la compra de un lote de transistores defectuosos a precio en descuento.
-
-Pero desde hace más de una década ya, la potencia de cálculo disponible en un aparato barato permite hacer cosas que se salen de la escala de los dedos de una mano. ¿Cual sería el enfoque a adoptar cuando se pueden permitir cien mil operaciones por sample, cuando la economía y la física extrínsecas ya no son restrictivas sino demasiado generosas? ¿A dónde vas a buscar mariposas en un sistema solar?
-
-Hay quienes suben de escala y juegan con trucos de abstracción (después de todo, cien mil no son más que unos pocos dedos de una mano elevados a la potencia de los otros dedos), manipulando pequeñas cantidades de bloques de alto nivel o circuitos hechos de transistores y componentes simulados. El cálculo intensivo crea un mundo cuya escala nos resulta familiar de nuevo.
-
-Otras –y soy una de ellas– se someten a una física y una economía intrínsecas: a sistemas de reglas y restricciones que sirven para reducir las opciones cuando la física y la economía de lo real, o de lo virtual minuciosamente calculado, ya no lo hacen.
-
-¿Cuáles son estas restricciones? Disfruto de la limpidez del código bien escrito y desprecio las soluciones que no están claramente expuestas o que llenan más de una página de pantalla. Tal vez sea el mismo goce estético de la explicación lo que hace un matemático que ante dos pruebas igualmente válidas, elige el camino más directo –o el que ofrece la visión más hermosa. Por supuesto, nada de esto tendrá efecto alguno sobre lo que el músico obtiene de ello: la calidad literaria y la concisión del código fuente no tienen relación con su ejecución. Y sin embargo, este sueño estético de ser sucinto y hermoso me ha hecho elegir ciertas rutas y rechazar otras, y lo que escuchas no se habría encontrado de otra forma. ¿Dónde leemos el cigarrillo fumado entre la escritura de dos párrafos? ¿En qué paratexto existe? ¡Qué tipo de escritura tan extraña es la que se «compila», es decir, se traduce sistemáticamente y se despoja por completo de su estilo[^2], solo para luego ser interpretada por un dispositivo técnico que reproduce su semántica exactamente, ¡en sonidos!
-
-También me gusta la pereza y las preferencias que suscita, como su imagen especular. El placer de decir no, no iré allí, o sí, me gusta la calidez de ese rincón, así que volveré allí, todos los beneficios de reducir el espacio que se va a sonorizar a una trama cada vez más familiar. ¡La exhaustividad es tan estéril! Prefiero el encanto de las expediciones repetidas, de las variaciones sutiles de mi atención cuando vuelvo a recorrer un camino y me prometo que no volveré a cometer los mismos errores, o que no buscaré en el mismo lugar que antes.
-
-Entro en esos espacios, busco y descubro. Luego salgo y presento. No se trata de enumerar o documentar, sino de dar acceso a un músico a mi experiencia, para que esta pueda ser utilizada luego como una herramienta. En el caso más brutal e ingenuo, se podría simplemente extraer la planta rara que se ha descubierto y el pequeño cubo del universo que la rodea, y dejarlo así. Al ofrecer acceso a este sin ningún mapa, cada coordenada de su espacio-tiempo es tan válida como cualquier otra. Es un planteamiento que puede ser inspirador para el instinto explorador de quien se adentra en él, pero yo prefiero los jardines botánicos a las reservas naturales, porque en ellos se pueden abrir caminos.
-
-Senderos que van de planta en planta, de ida y vuelta entre todas las que ya he encontrado. Senderos que recorren (o reinventan) la cronología de esos descubrimientos. Senderos que permiten apreciar lo que a mí me pareció bello. Senderos cromáticos, dialécticos, didácticos. Senderos que ralentizan el tiempo y abren espacio cuando hay mucho que ver, y cortan la hierba árida. Más espesos aquí, más finos por allá. Senderos que conducen a otros. Senderos que se pueden recorrer una o dos veces, desde los que se pueden ver las especies más llamativas, y desde los que se puede divergir gradualmente hasta que tal vez se note una nueva flor que se ha instalado en este jardín. Así puedes deambular y aprender –porque lo que se encuentra también se puede enseñar.
-
-- Los frutos aún no patentados y no pertenecen a nadie más que a la comunidad. Sobre este tema, escuchen lo que Albert Jacquard tiene que decir sobre la propiedad intelectual 
-- El código abierto es un intento de resistir a esta pérdida del texto, a la invasión de las limitaciones que lo han engendrado. 
-
-Traducido del Inglés
-
-Devenir y Deriva
-
-El tiempo no tiene importancia
-
-© 2026
-
-con ♡ en momoto`,
-        author: 'Émilie Gillet',
-        date: '2024-12-17'
-    },
-    {
-        id: 8,
-        slug: 'el-tiempo-no-tiene-importancia',
-        title: "El tiempo no tiene importancia",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2025/02/Dayal_ElianeRadigue_2.jpg',
-        content: `# El tiempo no tiene importancia
-
-El tiempo no tiene importancia. Lo que cuenta es la duración necesaria para que se desarrolle sin fisuras. Mi música evoluciona orgánicamente. Es como una planta. Nunca vemos que una planta se mueva, pero crece continuamente. Como las plantas, inmóviles, pero siempre en crecimiento, mi música nunca es estable. Siempre está cambiando. Pero los cambios son tan sutiles que son casi imperceptibles y solo se hacen evidentes tras del hecho. Esta música, tal como la concibo, no puede contener ninguna interrupción. Por eso la estructura es muy simple, basada en el uso de fundidos: fundido de entrada, fundido de salida y fundido cruzado. Por cierto, cuando solía hacer estos fundidos a mano, utilizando grabadoras de cinta magnética, el resultado parecía mucho más sutil que los fundidos digitales que se utilizan hoy en día, que me parecen demasiado mecánicos.
-
-Aprendí a trabajar con cintas y grabadoras junto a Pierre Schaeffer y Pierre Henry, abandonando el serialismo para sumergirme en el universo de los sonidos. Con Fierre Henry en particular, aprendí a trabajar con feedback y reinyección. Lo que he conservado de ese aprendizaje es la concentración y la lentitud necesarias para una manipulación sutil de potenciómetros y micrófonos. Con el feedback, debes caminar por esa línea invisible, ese ligero movimiento del micrófono (demasiado cerca y explota todo, demasiado lejos y se apaga). Con la distancia adecuada, el gesto adecuado, podía generar sonidos sostenidos, suavemente vibrantes y ondulantes. De manera similar, utilizaba el feedback por reinyección, moviendo el potenciómetro de reproducción o grabación muy levemente para producir una variación minúscula, un cambio imperceptible. Intervenía muy poco. Simplemente, dejé que el sonido evolucionara, para aprender a escuchar y tratar de descubrir cómo me hablaba. Una vez que lo había oído, podía, en cierto sentido, entablar una conversación con él. Intentar escucharlo y respetarlo por sí mismo.
-
-Esta relación de escucha contemplativa del sonido es algo que siempre he cultivado. Recuerdo cómo, cuando vivía cerca del aeropuerto de Niza, durante todo el día escuchaba los pocos aviones que salían de allí, intentando distinguir las variaciones de su estruendo. El oído tiene la capacidad de navegar dentro de una masa sonora y, dentro del continuo de este temblor, buscaba una música. Los paisajes sonoros de la región de Niza eran inagotables. Una de mis primeras obras, Elemental, fue compuesta a partir de grabaciones que hice con una pequeña grabadora SteIIavox. Había grabado sonidos del mar, del viento, de la lluvia, de los corrimientos de tierra. Y fue en el estudio de Pierre Henry donde utilicé estos elementos para componer el primer Elemental.
-
-Más tarde descubrí los sonidos electrónicos y los sintetizadores, pero siempre he seguido aplicando las técnicas aprendidas en los estudios de música concreta. Así pues, mi música se desarrolla a partir de dos elementos primordiales: una escucha contemplativa, profunda y extremadamente atenta, y una metodología heredada de mis largas horas de trabajo en el estudio con cintas magnéticas y magnetófonos. Al descubrir técnicas de montaje, mezcla y transformación, desarrollé una instrumentación que se adaptaba a mi música, a la que luego se añadiría el sintetizador. Porque había una música que yo quería escuchar, y descubrí sus principios fundamentales al encontrarme con estos materiales electrónicos que me resultaron tan fascinantes.
-
-Si mi música se desarrolla con cierta lentitud es por tres razones. En primer lugar, siempre he preferido los movimientos lentos de la música clásica. A menudo, cuando estoy escuchando un disco, empiezo directamente con el segundo movimiento y, una vez terminado, me apresuro a quitar el disco antes de que empiece el scherzo. La segunda razón es que detrás de cada una de mis piezas hay una historia, una referencia, una experiencia con la que se relaciona la obra. Se trata de temas que quiero abordar y que necesitan tiempo para desarrollarse, o de impresiones que he sentido, experiencias que he vivido y que evoco con mi música. Estas historias, estos estados, tienen su propia duración y han de desarrollarse dentro de esa misma duración. La tercera y última razón se relaciona con algo que considero fundamental para mi trabajo: la exploración de estados intermedios. Todo es un intervalo, siempre estamos en medio. Y en este intervalo, entre dos estados, hay una expresión continua de variaciones invisibles, transiciones imperceptibles. Todos los intermedios son fundamentales, como lo ilustran, por ejemplo, los seis estados intermedios del Bardo Thödol, el Libro Tibetano de los Muertos. En mi música, los espacios intermedios son como una costa transformada por cambios progresivos, lentos y continuos que vienen en olas, como la marea. 
-
-Mi trabajo de composición electrónica se desarrolla lentamente –los primeros pasos, en todo caso. Nunca empiezo de la nada; Tengo en mente «la historia» y la estructura. Entonces empiezo a buscar, haciendo sonidos pensados ​​para esta o aquella parte, de manera aleatoria. Tomo notas, lo dejo así un mes o dos. Luego vuelvo a escuchar todos los sonidos que he recogido, elimino algunos, busco posibles maneras de combinarlos y rehago nuevos sonidos que estén en línea con los que ya tengo. Después viene la estructuración, que hago con la ayuda de una partitura dibujada. Finalmente, llega el momento de la mezcla, que se hace en una sola pasada, algo que exige una atención extremadamente minuciosa, ya que, si algo sale mal en el minuto cincuenta y dos, por ejemplo, habrá que volver a hacer todo desde el principio.
-
-Esta atención extremadamente minuciosa, que empieza con mi propia escucha y continúa en mis gestos, en la cinta magnética, se transmite después a través del difuminado de la pieza y la escucha del oyente. Hay una especie de transferencia gradual de energía que impregna, uno a uno, cada uno de los pasos que producen la experiencia musical. Pero toda experiencia musical es siempre más que musical. Fue a través de la música como conocí el Budismo, pero siempre me he sentido atraída por la espiritualidad. Considero que la música y la espiritualidad son dos carriles que llevan el mismo vehículo, pero que se distinguen entre sí y rara vez se unen (la excepción son Songs of Milarepa y Jetsun Mila). Sin embargo, ambas están relacionadas con una experiencia meditativa y un trabajo progresivo y solitario. Al final, mi música es como un espejo que refleja mi estado interior y resuena con él. Es de esta manera que puede ofrecer, a quien quiera escucharla, una experiencia singular de la duración.
-
-Recopilado por François Bonnet.
-
-Traducido del Inglés
-
-Sobre los senderos del jardín
-
-Síntesis de Género
-
-© 2026
-
-con ♡ en momoto`,
-        author: 'Éliane Radigue',
-        date: '2025-02-06'
-    },
-    {
         id: 9,
         slug: 'sintesis-de-genero',
         title: "S\u00edntesis de G\u00e9nero",
@@ -740,5 +233,512 @@ El tiempo no tiene importancia
 con ♡ en momoto`,
         author: 'Maya B. Kronic',
         date: '2026-01-09'
+    },
+    {
+        id: 8,
+        slug: 'el-tiempo-no-tiene-importancia',
+        title: "El tiempo no tiene importancia",
+        thumbnail: 'https://cosiampira.com/wp-content/uploads/2025/02/Dayal_ElianeRadigue_2.jpg',
+        content: `# El tiempo no tiene importancia
+
+El tiempo no tiene importancia. Lo que cuenta es la duración necesaria para que se desarrolle sin fisuras. Mi música evoluciona orgánicamente. Es como una planta. Nunca vemos que una planta se mueva, pero crece continuamente. Como las plantas, inmóviles, pero siempre en crecimiento, mi música nunca es estable. Siempre está cambiando. Pero los cambios son tan sutiles que son casi imperceptibles y solo se hacen evidentes tras del hecho. Esta música, tal como la concibo, no puede contener ninguna interrupción. Por eso la estructura es muy simple, basada en el uso de fundidos: fundido de entrada, fundido de salida y fundido cruzado. Por cierto, cuando solía hacer estos fundidos a mano, utilizando grabadoras de cinta magnética, el resultado parecía mucho más sutil que los fundidos digitales que se utilizan hoy en día, que me parecen demasiado mecánicos.
+
+Aprendí a trabajar con cintas y grabadoras junto a Pierre Schaeffer y Pierre Henry, abandonando el serialismo para sumergirme en el universo de los sonidos. Con Fierre Henry en particular, aprendí a trabajar con feedback y reinyección. Lo que he conservado de ese aprendizaje es la concentración y la lentitud necesarias para una manipulación sutil de potenciómetros y micrófonos. Con el feedback, debes caminar por esa línea invisible, ese ligero movimiento del micrófono (demasiado cerca y explota todo, demasiado lejos y se apaga). Con la distancia adecuada, el gesto adecuado, podía generar sonidos sostenidos, suavemente vibrantes y ondulantes. De manera similar, utilizaba el feedback por reinyección, moviendo el potenciómetro de reproducción o grabación muy levemente para producir una variación minúscula, un cambio imperceptible. Intervenía muy poco. Simplemente, dejé que el sonido evolucionara, para aprender a escuchar y tratar de descubrir cómo me hablaba. Una vez que lo había oído, podía, en cierto sentido, entablar una conversación con él. Intentar escucharlo y respetarlo por sí mismo.
+
+Esta relación de escucha contemplativa del sonido es algo que siempre he cultivado. Recuerdo cómo, cuando vivía cerca del aeropuerto de Niza, durante todo el día escuchaba los pocos aviones que salían de allí, intentando distinguir las variaciones de su estruendo. El oído tiene la capacidad de navegar dentro de una masa sonora y, dentro del continuo de este temblor, buscaba una música. Los paisajes sonoros de la región de Niza eran inagotables. Una de mis primeras obras, Elemental, fue compuesta a partir de grabaciones que hice con una pequeña grabadora SteIIavox. Había grabado sonidos del mar, del viento, de la lluvia, de los corrimientos de tierra. Y fue en el estudio de Pierre Henry donde utilicé estos elementos para componer el primer Elemental.
+
+Más tarde descubrí los sonidos electrónicos y los sintetizadores, pero siempre he seguido aplicando las técnicas aprendidas en los estudios de música concreta. Así pues, mi música se desarrolla a partir de dos elementos primordiales: una escucha contemplativa, profunda y extremadamente atenta, y una metodología heredada de mis largas horas de trabajo en el estudio con cintas magnéticas y magnetófonos. Al descubrir técnicas de montaje, mezcla y transformación, desarrollé una instrumentación que se adaptaba a mi música, a la que luego se añadiría el sintetizador. Porque había una música que yo quería escuchar, y descubrí sus principios fundamentales al encontrarme con estos materiales electrónicos que me resultaron tan fascinantes.
+
+Si mi música se desarrolla con cierta lentitud es por tres razones. En primer lugar, siempre he preferido los movimientos lentos de la música clásica. A menudo, cuando estoy escuchando un disco, empiezo directamente con el segundo movimiento y, una vez terminado, me apresuro a quitar el disco antes de que empiece el scherzo. La segunda razón es que detrás de cada una de mis piezas hay una historia, una referencia, una experiencia con la que se relaciona la obra. Se trata de temas que quiero abordar y que necesitan tiempo para desarrollarse, o de impresiones que he sentido, experiencias que he vivido y que evoco con mi música. Estas historias, estos estados, tienen su propia duración y han de desarrollarse dentro de esa misma duración. La tercera y última razón se relaciona con algo que considero fundamental para mi trabajo: la exploración de estados intermedios. Todo es un intervalo, siempre estamos en medio. Y en este intervalo, entre dos estados, hay una expresión continua de variaciones invisibles, transiciones imperceptibles. Todos los intermedios son fundamentales, como lo ilustran, por ejemplo, los seis estados intermedios del Bardo Thödol, el Libro Tibetano de los Muertos. En mi música, los espacios intermedios son como una costa transformada por cambios progresivos, lentos y continuos que vienen en olas, como la marea. 
+
+Mi trabajo de composición electrónica se desarrolla lentamente –los primeros pasos, en todo caso. Nunca empiezo de la nada; Tengo en mente «la historia» y la estructura. Entonces empiezo a buscar, haciendo sonidos pensados ​​para esta o aquella parte, de manera aleatoria. Tomo notas, lo dejo así un mes o dos. Luego vuelvo a escuchar todos los sonidos que he recogido, elimino algunos, busco posibles maneras de combinarlos y rehago nuevos sonidos que estén en línea con los que ya tengo. Después viene la estructuración, que hago con la ayuda de una partitura dibujada. Finalmente, llega el momento de la mezcla, que se hace en una sola pasada, algo que exige una atención extremadamente minuciosa, ya que, si algo sale mal en el minuto cincuenta y dos, por ejemplo, habrá que volver a hacer todo desde el principio.
+
+Esta atención extremadamente minuciosa, que empieza con mi propia escucha y continúa en mis gestos, en la cinta magnética, se transmite después a través del difuminado de la pieza y la escucha del oyente. Hay una especie de transferencia gradual de energía que impregna, uno a uno, cada uno de los pasos que producen la experiencia musical. Pero toda experiencia musical es siempre más que musical. Fue a través de la música como conocí el Budismo, pero siempre me he sentido atraída por la espiritualidad. Considero que la música y la espiritualidad son dos carriles que llevan el mismo vehículo, pero que se distinguen entre sí y rara vez se unen (la excepción son Songs of Milarepa y Jetsun Mila). Sin embargo, ambas están relacionadas con una experiencia meditativa y un trabajo progresivo y solitario. Al final, mi música es como un espejo que refleja mi estado interior y resuena con él. Es de esta manera que puede ofrecer, a quien quiera escucharla, una experiencia singular de la duración.
+
+Recopilado por François Bonnet.
+
+Traducido del Inglés
+
+Sobre los senderos del jardín
+
+Síntesis de Género
+
+© 2026
+
+con ♡ en momoto`,
+        author: 'Éliane Radigue',
+        date: '2025-02-06'
+    },
+    {
+        id: 7,
+        slug: 'sobre-los-senderos-del-jardin',
+        title: "Sobre los senderos del jard\u00edn",
+        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/12/jardin-senderos.jpg',
+        content: `# Sobre los senderos del jardín
+
+¿Cual práctica consiste en encontrar cosas –en este caso, sistemas para producir sonidos o lo que sea que pueda extraerse o introducirse mediante sonidos– y luego presentárselas a los músicos?
+
+Digo encontrar para no tener que decidir entre inventar o descubrir, aunque mi corazón ya se haya decantado por el descubrimiento. Un algoritmo de síntesis sonora o un modelo generativo con propiedades extrañamente agradables no son invenciones que surjan de la nada. Creo en su preexistencia, como parte de un universo en el que he aprendido a caminar. En Recoltes et Semailles, Grothendieck habla de estructuras que ‘no nos esperan para ser, para ser exactamente lo que son’, estructuras que sólo necesitan ser «descubiertas y puestas a sonar». Yo no invento nada: deambulo, algo capta mi atención, observo más atentamente, lo documento y luego vuelvo a nuestro mundo para presentarlo. Una expedición, como las que emprenden los entomólogos o los botánicos.[^1]
+
+¿Dónde encuentras nuevas plantas o insectos? En la naturaleza, se hallan en los tipos de ecosistemas adecuados. Ecosistemas lo suficientemente grandes y complejos para que estas especies prosperen, pero lo suficientemente pequeños y cómodos para que nosotras, las exploradoras, no nos perdamos en ellos, y donde además se pueda seguir algún tipo de hilo conductor de modo que, al abrirnos paso a través del matorral, podamos por casualidad percatarnos de una mariquita que no estábamos buscando.
+
+Los algoritmos que animan nuestras máquinas de sonido se encuentran en espacios con propiedades similares. Podríamos esperar lo vasto y complejo: las matemáticas y la informática teórica proporcionan numerosos ejemplos de sistemas donde se generan ricos comportamientos mediante reglas o leyes que pueden enunciarse en unos pocos signos o líneas de código. Pero, ¿qué tienen que ver aquí lo pequeño y lo cómodo? 
+
+A lo largo de su historia, los instrumentos musicales nunca han logrado escapar a las leyes de la física o la economía. Los fabricantes de instrumentos han dejado inexploradas zonas enteras del espacio de posibilidades de los instrumentos: ‘un contrabajo de plástico de entre cinco y doce metros de alto’, por ejemplo, o ‘flautas y oboes toroidales’. Si en cambio se centraron en lo que parece un número bastante pequeño de formas y procesos, a veces con gran tenacidad y un afán por la perfección en los detalles (el mecanismo de la tecla del piano o el sistema de Boehm es para ellos lo que el ojo es para los teóricos de la evolución), es porque se trata de un tipo de espacios de posibilidad, espacios que favorecen el descubrimiento.
+
+¿Qué tipos de física y economía actúan como restricciones sobre el espacio en el que descubrimos los sintetizadores? Es claro que hay parámetros físicos y económicos extrínsecos que, al combinarse, definen lo que es técnica y comercialmente viable para el ingeniero-fabricante de instrumentos. El número posible de transistores (Moog modular), circuitos integrados por canal (Prophet 5), operadores por nota (DX7) o líneas de código por bloque de síntesis (todo lo que siguió) siempre se puede contar con los dedos de una mano (y quizás algunos de los pies). Igualmente lo puede ser el número de empleados en los laboratorios o empresas que han traído al mundo esos instrumentos, o el número de años que han tardado en hacerlo. Los enfoques maximalistas que llevan tal o cual parámetro, tamaño, coste, número de botones o relación señal/ruido más allá de los límites razonables impuestos por el zeitgeist tecnológico de su tiempo, sólo han producido curiosidades (o misiones espaciales). Por otra parte, existe un delicioso folklore que narra cómo las características sonoras de ciertos instrumentos famosos son el resultado de decisiones económicas tan básicas como la compra de un lote de transistores defectuosos a precio en descuento.
+
+Pero desde hace más de una década ya, la potencia de cálculo disponible en un aparato barato permite hacer cosas que se salen de la escala de los dedos de una mano. ¿Cual sería el enfoque a adoptar cuando se pueden permitir cien mil operaciones por sample, cuando la economía y la física extrínsecas ya no son restrictivas sino demasiado generosas? ¿A dónde vas a buscar mariposas en un sistema solar?
+
+Hay quienes suben de escala y juegan con trucos de abstracción (después de todo, cien mil no son más que unos pocos dedos de una mano elevados a la potencia de los otros dedos), manipulando pequeñas cantidades de bloques de alto nivel o circuitos hechos de transistores y componentes simulados. El cálculo intensivo crea un mundo cuya escala nos resulta familiar de nuevo.
+
+Otras –y soy una de ellas– se someten a una física y una economía intrínsecas: a sistemas de reglas y restricciones que sirven para reducir las opciones cuando la física y la economía de lo real, o de lo virtual minuciosamente calculado, ya no lo hacen.
+
+¿Cuáles son estas restricciones? Disfruto de la limpidez del código bien escrito y desprecio las soluciones que no están claramente expuestas o que llenan más de una página de pantalla. Tal vez sea el mismo goce estético de la explicación lo que hace un matemático que ante dos pruebas igualmente válidas, elige el camino más directo –o el que ofrece la visión más hermosa. Por supuesto, nada de esto tendrá efecto alguno sobre lo que el músico obtiene de ello: la calidad literaria y la concisión del código fuente no tienen relación con su ejecución. Y sin embargo, este sueño estético de ser sucinto y hermoso me ha hecho elegir ciertas rutas y rechazar otras, y lo que escuchas no se habría encontrado de otra forma. ¿Dónde leemos el cigarrillo fumado entre la escritura de dos párrafos? ¿En qué paratexto existe? ¡Qué tipo de escritura tan extraña es la que se «compila», es decir, se traduce sistemáticamente y se despoja por completo de su estilo[^2], solo para luego ser interpretada por un dispositivo técnico que reproduce su semántica exactamente, ¡en sonidos!
+
+También me gusta la pereza y las preferencias que suscita, como su imagen especular. El placer de decir no, no iré allí, o sí, me gusta la calidez de ese rincón, así que volveré allí, todos los beneficios de reducir el espacio que se va a sonorizar a una trama cada vez más familiar. ¡La exhaustividad es tan estéril! Prefiero el encanto de las expediciones repetidas, de las variaciones sutiles de mi atención cuando vuelvo a recorrer un camino y me prometo que no volveré a cometer los mismos errores, o que no buscaré en el mismo lugar que antes.
+
+Entro en esos espacios, busco y descubro. Luego salgo y presento. No se trata de enumerar o documentar, sino de dar acceso a un músico a mi experiencia, para que esta pueda ser utilizada luego como una herramienta. En el caso más brutal e ingenuo, se podría simplemente extraer la planta rara que se ha descubierto y el pequeño cubo del universo que la rodea, y dejarlo así. Al ofrecer acceso a este sin ningún mapa, cada coordenada de su espacio-tiempo es tan válida como cualquier otra. Es un planteamiento que puede ser inspirador para el instinto explorador de quien se adentra en él, pero yo prefiero los jardines botánicos a las reservas naturales, porque en ellos se pueden abrir caminos.
+
+Senderos que van de planta en planta, de ida y vuelta entre todas las que ya he encontrado. Senderos que recorren (o reinventan) la cronología de esos descubrimientos. Senderos que permiten apreciar lo que a mí me pareció bello. Senderos cromáticos, dialécticos, didácticos. Senderos que ralentizan el tiempo y abren espacio cuando hay mucho que ver, y cortan la hierba árida. Más espesos aquí, más finos por allá. Senderos que conducen a otros. Senderos que se pueden recorrer una o dos veces, desde los que se pueden ver las especies más llamativas, y desde los que se puede divergir gradualmente hasta que tal vez se note una nueva flor que se ha instalado en este jardín. Así puedes deambular y aprender –porque lo que se encuentra también se puede enseñar.
+
+- Los frutos aún no patentados y no pertenecen a nadie más que a la comunidad. Sobre este tema, escuchen lo que Albert Jacquard tiene que decir sobre la propiedad intelectual 
+- El código abierto es un intento de resistir a esta pérdida del texto, a la invasión de las limitaciones que lo han engendrado. 
+
+Traducido del Inglés
+
+Devenir y Deriva
+
+El tiempo no tiene importancia
+
+© 2026
+
+con ♡ en momoto`,
+        author: 'Émilie Gillet',
+        date: '2024-12-17'
+    },
+    {
+        id: 6,
+        slug: 'devenir-y-deriva',
+        title: "Devenir y Deriva",
+        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/11/el-origen-de-las-especies-poster.jpg',
+        content: `# Devenir y Deriva
+
+El tiempo es clave para comprender y alterar. La temporalidad no es un simple flujo; habita en la materia, se entrelaza en sus mutaciones. Aquello que fuimos se entrecruza con el flujo de lo que somos y seremos, aun cuando ni siquiera sepamos que lo somos. Somos monstruxs, seres inmensxs, pequeñxs, etérexs, fugaces o sólidxs. Tenemos múltiples cualidades y estructuras, nos mantenemos o no, da igual el todo, da igual la nada. Estamos en cualquier límite, invadiéndolo toda idea, incluso la del silencio. Entre luz, víscera y concepto; memética y genética se follan entre sí a escondidas de la academia. En la oscuridad, las especies no parecen distinguir entre lo biológico y la manifestación temporal, ideal o relacional. En la penumbra, las especies difuminan las fronteras entre lo biológico y lo ideal, entre materia y conocimiento, en un juego hipersticional que desafía lo fijo y lo categórico. Aquí, las especies devienen en un rito anastrófico, entre la ensoñación y lo real, en hiperobjetividad plena. La función recién comienza.
+
+## Habituales puntos de luz
+
+Por eso quizá nadie sabe a la final para donde va, pero sabemos que vamos, que andamos: transitamos. Que somos mutaciones perpetuas, seres-en-movimiento, cruzándonos para engendrar constantemente no tanto la nueva forma como si la más reciente pregunta, que se actualiza en todos los espejos al tiempo que se desvanece. Nadie sabe a la final quien o qué es, pero sabemos que somos, que persistimos: transitamos. Pero no solamente somos sucesiones de puntos de luz en el espacio oscuro, aunque así pareciese. También somos el interrogante mismo, la grieta vertical, espacio perpetuo de transformación. Es entendible que las convenciones de la mente racional y las estructuras fundadas en taxonomías viciadas estén programadas para lacerarnos. Se suponen inocentes palabras esas que clasifican sin reconocer el daño que hacen a lxs sustantivxs mismxs, que una vez categorizados, caemos en manos ajenas, habitualmente malintencionadas, habitualmente falogocéntricas, habitualmente capitalistas, habitualmente… o sea en el tiempo, circunscritas a las ilusiones de las líneas.
+
+¿Cuáles escapes pueden quedar que no sean esa maraña del Capital? Quizá sea construir un flatline, abrazar la visión k-goth. Este escape se despliega en una hipnagogia extendida, en las zonas intersticiales de temporalidades cruzadas, donde las taxonomías aún no existen fuera del símbolo y la metáfora. Aquí, la analogía es resistencia poietica: conservar el poder del pliegue y (de)formación, sosteniendo una realidad que nos recuerda que toda cosa ‘nueva’ es siempre otra-aún-no-reconocida. En ese espacio de olvido, mientras nos sumergimos en lo que creemos ser, hay otros seres aconteciendo, habitando esos vacíos de definición. Imponer taxonomías es clausurar posibilidades; nos ancla a una única narrativa, dejando en las sombras a aquellxs que, sin nombre, pierden no solo su identidad sino también la posibilidad de ser. Nos convertimos en guardianes de categorías que, lejos de revelarnos algo esencial, sólo nos privan de sentir aunque sea un mínimo de expansión infinita.
+
+## El Origen de las Especies
+
+Nombrar un nuevo mundo es por tales motivos tarea imperiosa. Por eso la ficción nos ofrece herramientas poderosas y por eso ha que celebrar la manera en la que ilustran todas estas cosas lxs directorxs Tiagx Vélez  Juliana Zuluaga Montoya y Analú Laferal en El Origen de las Especies, un largometraje de ciencia ficción «mutante y capitular, que recoge el trabajo transfuturista del colectivo Crisálida Cine durante los últimos años.” Posporno, transhumanista, transfeminista, xenosemiológico, ritualista, íntimo, revelador. La política y la poética trabajan aquí de la mano de una manera insólita, revelando no solo la ya antes descrita ecología del infinito, sino también interpelando, alterando, distorsionando y subvirtiendo aquello mismo que trata. 
+
+La pieza expone una serie de dilemas ecológicos mediante un lenguaje visual y narrativo enmarcado en un ciberpunk transfuturista auténtico. En él, la contemplación abstracta del DIY abre puertas hacia la desterritorialización de objetos: ser compost, aprovechar la basura, redescubrir la especie, la incógnita, la anomalía. Aquí, lo extraño y lo queer se mezclan en una ecología fúngica, en saberes arcanos y resistencias decoloniales. Todo se cruza en un tecnomaterialismo chamánico, en una mística-ficción que, siendo también ciencia, asume una postura alquímica. Las especies se conciben aquí más allá de la lógica darwiniana, en una maraña cósmica de seres hipnagógicos, de materia que en lo muerto vibra con una vida oculta, caosmosis.
+
+## (In)comodidad
+
+El Origen de las Especies nos conduce a un cine crudo, sin temores a recorrer formatos, épocas y técnicas, amalgamando lo antiguo y lo venidero para dar vida a paisajes, texturas, mutaciones. La obra mezcla ensayo audiovisual, videoarte, música experimental y diseño (xeno)sonoro, logrando no sólo un cruce de formatos, sino también de lenguajes, estrategias narrativas y dimensiones especulativas. Cada una de estas herramientas entrelaza historias que podrían desplegarse en una narrativa lineal, pero que aquí emergen enredadas, como fugas, embrujos en cadena, parásitos reunidos. La estructura de la película es vertical: mantiene una misma dinámica subyacente, pero se llena de aristas inesperadas, rompiendo con la secuencia y estableciendo un espacio-ritual en el que parece conjurarse colectivamente un hechizo perenne.
+
+Escenas explícitas y momentos incómodos resuenan en la sala. Algunxs espectadorxs, otrxs se retiran; otrxs revisan sus celulares. La incomodidad marca la experiencia: para muchxs, reconocerse animal, cuestionarse, o asumir el engaño de la narrativa humana resulta incómodo, pues nos recuerda la profunda herida del trazo humano y el olvido de la esencia salvaje. La incomodidad es aquí en gran medida miedo al reconocimiento, de que eres podredumbre y pantano, al tiempo que nube y electrón. Todo esto trae un cuestionamiento inevitable que emerge y/o se instaura en las profundidades subconscientes que extrañamente se activan conforme avanza el filme. Todo eso que se vive alrededor termina siendo parte de la película. Aquí no es de gente comiendo crispetas sino animales siendo interpeladxs, convocadxs, reclamadxs. Aquí me recuerdan que a mis ancestras las asesinaron, que a lxs animales lxs seguimos mutilando, que lo que que creo ser, me ha sido impuesto y puedo cambiarlo.
+
+## Diseño (xeno)sónico
+
+El diseño sonoro evoca una forma revolucionaria y contemporánea de sonoridad, anclada en finas referencias a la ciencia ficción clásica y alimentada por recursos limitados que, lejos de restringir, potencian la experiencia. El uso del theremin como dispositivo retrofuturista resulta un guiño acertado, un instrumento que no se impone ubicuamente, sino que actúa como un eco del pasado que se inserta orgánicamente en la textura global. 
+
+La sonoridad aquí construida es alucinante, una magia sónica que opera en sincronía con imágenes que sin esos silencios, estruendos y cadenas granulares, carecerían de vida propia. No se encuentra aquí una colección disonante de sonidos que interrumpan la inmersión, ni los tapetes «vangelísticos» o los clichés familiares de la ciencia ficción. En su lugar, la sonoridad brota de figuras orgánicas, materiales, plásticas, y metáforas constantes a lo material-auditivo. Las texturas cobran vida a través de filtros comb que retuercen armónicos, transiciones sublimes de procesamiento granular, y masas sonoras líquidas que mutan hacia líneas finas de frecuencias resonantes y filtradas. En esta paleta sonora caben el drone, el dark ambient, lo industrial, la armonía y el noise, componiendo un paisaje acústico que desborda con un asombroso detalle microsónico.
+
+Cada elemento parece diseñado con precisión: desde el tono descendente de ranas y chicharras, como una suerte de efecto Schumann inverso que acompaña el ingreso a la selva pantanosa y a su ritual pagano, hasta las vibraciones electromagnéticas que giran al resedor de la sala, mientras tus ojos se fijan en la geometría de un poste de luz. Esta sonoridad establece condiciones especulativas que extienden el espacio mismo de la experiencia, otorgando a los materiales una vida autónoma. Las expresiones no diegéticas se despliegan como un ámbito expandido, denso en filigrana sónica y en silencios que también reverberan, una cacofonía que en ocasiones se vuelve incómoda, quizás por el simple acto de enfrentar lo inusual, de revelar la grieta.
+
+## Devenir y deriva
+
+“Devenir y deriva” aparece en la pantalla en un momento crucial, acompañando a una de las especies más abstractas del, que, a estas alturas, me atrevo a llamar documental. Surgen infinidad de voces de lo no-humano, de lo inhumano y de lo que trasciende lo humano. Es una inagotable proliferación de entidades: desde especies voraces que se tragan las estructuras patriarcales hasta trozos de materia que, atrapados en un bucle fragmentario, buscan encontrarse en su propio devenir. Lo humano se deja ver escasamente, y cuando lo hace, emerge como símbolo de hegemonía, catástrofe y descomposición. Lo queer remite justamente aquí a las posibilidades de lo descompuesto, lo viscoso, la transformación; ese “devenir”, esa “deriva”. No es una cuestión de identidad fija, de qué se es o se será, sino de en qué se deviene, en qué se deriva, en qué se fragmenta y se reproduce.
+
+## Teleología salvaje transanimal
+
+En El Origen de las Especies, lo salvaje no es solo una etapa superada por la razón, sino también un anhelo constante. La pérdida de la ferocidad no solo apunta a una domesticación progresiva, sino que está profundamente ligada a la maquinización, a la automatización y, en última instancia, a la pérdida de libertad. Lo salvaje no se presenta aquí como el opuesto de la máquina, sino como un camino de continuación, una línea de fuga que sugiere otra posibilidad.
+
+Quizá «esperanza» una palabra demasiado distante para el tono catastrófico que adopta el el colapso del espaciotiempo presente, reflejado en la textura oscilante de la película, pero aún la premisa es esa precisamente: “las criaturas del asteroide” encontramos esperanza en el reconocimiento y reclamo de nuestro devenir transmaterial. Este tono reactivo, anarquista y a su manera vitalista, que adquiere el performance en varios momentos, te permite vislumbrar una grieta, un escape, una interrogación abierta que invita a seguir buscando, soñando, consumiendo, sabiendo que en el proceso te devorarás a ti mismx. Aunque alguien diga que no es más que desecho, la basura siempre será algo nuevo para quien lo observe desde otra perspectiva. Aquí reside la posibilidad misma de la vida, en la putrefacción, en la eterealización, en la electrificación. Lo alien y mutante es en última instancia, lo único que queda cuando la inteligencia humana y sus monstruosidades resectivas, agotan su poder.
+
+## Ontogénesis post-mundo
+
+Conscientes de que estamos ante la despedida de nuestro planeta, nos reconocemos como mutaciones cósmicas, colectividades que aún se cruzan para soñar, olvidar y recrear un universo siguiente. A veces, simplemente dejarlo caer o no pensar en ello. Aparecer sin estar, sentir en silencio, buscar sin ser. Definirse y a la vez disolverse en el bucle que es la metáfora de la vida. El origen de las especies no es la categoría, ni la esencia, ni la historia: es la incógnita misma, la apertura perpetua, la pregunta que se devora a sí misma. 
+
+Es la bendición de la catástrofe, que se revela aquí se convierte aquí en la actualización de un futuro que es a la vez un pasado perdido o desconocido, como expone el juego hipersticional constante en la película: por momentos parece desarrollarse en un escenario apocalíptico futuro, en el cual la ficción emerge como realidad en el contexto de la catástrofe; en otros, evoca el pasado o un tiempo suspendido, con capas, formas primarias, otros estratos y escalas. Esta dinámica rizomática permite una narrativa no-lineal que se construye en las fugas mismas de la voz en off, el texto y las hábiles piruetas de síncresis alucinatoria. Aquí, el contrato audiovisual no opera bajo regímenes tradicionales o literales, sino que se filtra a través de la metáfora y la resignificación, explorando expresiones tanto atómicas como bacterianas, sin dejar de interpelar al macrocosmos y a manifestaciones hiper y meso objetivas. Considerar así el entramado cósmico desubica en tiempos mutantes, extraños, tanto cinematográfica como discursivamente. Las imágenes y sonidos, en conjunto con la densidad de las ideas sugeridas o susurradas, producen siempre un ángulo renovado, una reafirmación perpetua de la pregunta.
+
+## Maraña Ch’ixi
+
+Lo bello de la maraña y su contradicción, la maravilla y la muerte; encuentros simples o en el ruido, para buscarse y no, de amar(se/nos) en (des)composición. Aquí hay demonixs que te penetran para exponerte a tu propia fragilidad, también nuestra, también de nadie. A la vez sientes luces y calma, un extraño amor. Podría ser una eterna, expansiva, indomable, multidireccional regresión de objetos: transfinitud. Así se plantean aquí las especies, siempre capaces de trascenderse, subscenderce, implosionar o conectarse, chocar y aislarse, ser una y varias, todas y nada, partícula o universo. Cuando dejas de pensar en varias especies separadas y consideras la posibilidad de que todo el tiempo solo estuvo hablándote una voz, aparece la maraña misma, hablando en su oscuridad. La extrañeza de todas las cosas se expresa así en el silencio profundo que acoge a la voz que canta el origen transfinito de las especies. 
+
+Se narra así una maraña ch’ixi, la reunión de mezclas y tensiones que somos: todx con todx. Es poder encontrarte demonixs junto a larvas junto a luces. Es todx lx in/no/hiper/más-que humano, una oda al Chthuluceno. Los darwinistas que presencien la obra podrán tener quizá muchas pesadillas como también iluminarse profundamente con lo que aquí se constata y proyecta. Una ecología queer, xeno, oscura, postnaturaleza, abolicionista de cualquier categorización dicotómica rígida. La taxonomía como vía anclada a la poética, que es poiesis, vida-in-formación, en mutación.
+
+## Ficción como documental
+
+El Origen De Las Especies explora una ficción que deviene en simbiosis con la realidad vivida; una suerte de interfusión entre la narrativa y la identidad de lxs directorxs, quienes, al habitarse a sí mismxs como sujetxs políticxs, proyectan en el filme una constelación de seres múltiples y xenomórficosque ellxs mismas encarnan. Cuerpxs que son capaces de alienarse y reconocerse como extensiones mutantes, amantes, oscurxs o clarxs, sin color alguno: pura idea, cieno, penumbra, galaxia, destino, fugacidad. Se convierten en cosas olvidadas o insistentes, cada cual un punto en la maraña, existiendo a la vez como todo y nada, como la voz en la pantalla negra y su silencio. 
+
+La película termina, pero su hechizo persiste; se convierte en un ritual del cual el espectador ha sido parte. Las especies que ocupaban la pantalla se materializan entre el público, levantándose con rostros que reflejan esa misma alienación, conmoción, y extrañamiento. Algunas sensaciones confusas alcanzarán el inconsciente, otras residirán en lo inmediato, para jamás abandonarnos. Fuera de la sala, esas especies continúan pululando, unas hechas de materia vigilante, otras de etéreas sedas traídas de dimensiones solo accesibles en un espacio sin peso ni gravedad.
+
+Se revela aquí crucial conducirse hacia la alienación audiovisual: desprenderse de los parámetros convencionales, cuestionar, criticar, subvertir y trascender la matriz audiovisual misma. Día a día, fuerzas invisibles—corporaciones, algoritmos, empresarixs, políticxs—manipulan las cosas mediante los lenguajes de esa matriz, y no es la tecnología en sí el problema, sino su intención, control y programación. De ahí que sea urgente la premisa xeno-hacker de abstraer, revertir(se) y refuncionalizar las herramientas con las que nos subyugan, desmantelando sus códigos y rescatando su potencial disruptivo. Entrópico, concreto, alienante, desgarrador, visceral, espectral y revolucionario. El Origen de Las Especies es un clamor por mantener viva la invocación de mitos, de elevar lo salvaje y de concebir una tecnología que no se idealiza como redentora, sino como una textura emergente del caosmos de todas las cosas y especies, incluidas aquellas que aún no nombramos.
+
+Crisálida Cine
+
+No es nada
+
+Sobre los senderos del jardín
+
+© 2026
+
+con ♡ en momoto`,
+        author: 'eme isaza',
+        date: '2024-10-31'
+    },
+    {
+        id: 5,
+        slug: 'no-es-nada',
+        title: "No es nada",
+        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/10/1_Sfm-HujEslWPKPkAhQNaLA.webp',
+        content: `# No es nada
+
+### débil sonido de algo en su comienzo
+
+En marzo de 2009 me invitaron a dar una conferencia y un performance en el Festival GRM ‘Presences Electroniques’ en París. Durante mi tiempo libre visité el Musée Picasso para ver como cambiaban mis ideas con relación a la historia de la escucha al contemplar una notable secuencia de pinturas y construcciones en relieve que representaban instrumentos musicales, en particular guitarras.
+
+Mi cuaderno de notas de entonces registra progresiva perplejidad y emoción, dado que el misterio de que Picasso insistiese tanto en las guitarras y los violines estaba estimulado por pensamientos minuciosos sobre la representación de lo espacial, el tiempo capturado y los eventos auditivos en un medio por lo demás plano, estático y silencioso. En ese momento había terminado (o eso creía) la redacción de mi libro Sinister Resonance, en el que exploro la potencialidad de medios silenciosos (la pintura, por ejemplo) como dispositivos auditivos. La compulsión de escribir el libro surgió de la frustración con el discurso autolimitante de lo que conocemos como arte sonoro, un desfile centrípeto y repetitivo de «héroes» cuya previsibilidad sirvió para solidificar una práctica que de otro modo sería nula.
+
+Tal vez la improbabilidad de considerar a Picasso como un nodo de la antihistoria, incluso un destello primordial que activó el trabajo sonoro en el siglo XX, sea un estímulo para considerar seriamente la propuesta. Tomé notas sobre las construcciones en relieve que Picasso hizo en 1926. Los materiales eran una mezcla de papel de periódico, arpillera, clavos, cuerdas, un resorte, tachuelas y lienzo, todos llamados Guitarra: «La primera de estas amenazas: el agujero de sonido arrancado de la arpillera, los clavos que sobresalen señalando; la segunda se parecía más a la suave huella del pensamiento de una guitarra prensada en la arena. Aunque la correa sugiere una cuerda de arco tensa en ambos casos». Sobre Mandolina y Clarmet, de 1913, escribí: «En este, los instrumentos explotan, como si su resonancia interna se hubiera revertido».
+
+### débil sonido de ningún exterior, ningún interior
+
+Hay música implícita. Puede escucharse. Estas pinturas y construcciones. Plantean una pregunta que sólo se agranda al considerar el cubismo en su conjunto: El retorno obsesivo al instrumento musical como vida quieta en Picasso, Georges Braque y Juan Gris. Esta fijación con la tecnología sónica es inevitable; cualquier historia del cubismo pasará por un comentario mistificado antes de ir a cuestiones más resueltas. Con el creciente enfoque en el significado del objeto, especialmente en la exposición del MoMA –Picasso Guitars 1912-1914– la cuestión se examina más a fondo. «Picasso no tocaba un instrumento y se dice que no tenía paciencia con la mayoría de tipos de música», escribe Anne Umland en El catálogo del MoMA.[^1] Considera la atracción que la música de guitarra ejercía sobre Picasso —»sus asociaciones con la vida de café y con la música flamenca, un género contradictorio a la vez primitivo y moderno, español y gitano, fijo e improvisado…»[^2] antes de concluir que su decisión de construir una guitarra en 1912 fue «un acto que le permitió descubrir lo que, específicamente, la guitarra tenía para ofrecerle como estructura o modelo de una forma particular de espacialidad contenida y para un vocabulario particular de signos simples, separables e icónicos».[^3]
+
+Ambos puntos resuenan. Lewis Kachur examina más de cerca la rumorada indiferencia de Picasso hacia la música y encuentra una historia bien distinta, en la que sus gustos (como podríamos esperar de un pintor cuya visión era tan forzada) se dirigían a la expresión directa: el sonido áspero de una chirimía popular catalana llamada tenora, o, en el otro extremo de una escala imaginaria de refinamiento, las composiciones de Erik Satie (un maestro de la simplicidad engañosa) y Deodat de Severac. Vale la acotación: Kachur traza un paralelo entre los signos incrustados omnipresentes en el cubismo (el motivo del instrumento musical, los trozos de periódico y las partituras) y la estrategia común a los compositores de la época en la que se combinaban melodías folclóricas, canciones populares del music hall y el cabaret y el ragtime y el jazz estadounidenses, en el sentido de estar también incrustadas en el flujo de una partitura.[^4]
+
+### sonido débil de un sonoro débil no sonido
+
+«¿Sabes cómo limpiar sonidos?» escribió Satie en 1913. «Son un asunto sucio».[^5] Su ingenio irónico se aplica a la noción de materialidad sonora, al igual que el ingenio de Picasso se aplicaba al desmembramiento de las formas. El vacío de la guitarra, ese volumen del que emana volumen, se desata. El recipiente del sonido se abre, se vacía y lo que no es nada se vuelve sólido. Su Guitarra de 1913 en cartón ha sido descrita de diversas maneras como «un nuevo lenguaje escultórico» y «una ruptura crucial en la historia del arte moderno». En cuanto a Picasso, su reacción fue un encogimiento de hombros: «No es nada, es el guitare!«, una despreocupación replicada y amplificada por André Salmon: «Los compartimentos estancos están demolidos. Nos liberamos de la pintura y la escultura, que ya han sido liberadas de la tiranía de los géneros. No es ni esto ni aquello. No es nada. Es el guitare!«[^6]
+
+Junto a la imagen estampada de una botella de Anis del Mono, la Guitarra de 1913 se encontraba en una mesa, parcial y diminuta, pero no por ello menos «real», suspendida en el espacio delante de dos hojas de papel pintado superpuestas. También en 1913, Picasso realizó otra más compleja, Construcción con Guitarrista y Violín, una obra que sólo existe en fotografías de estudio de la época en la que solía colgar una guitarra real de una «pared» en la que se dibujaba el contorno de un guitarrista. Un brazo con una mano, hecho con papel de periódico, se extendía desde el perfil del guitarrista hasta la guitarra flotante. En la pared está el violín de papel de 1913 y delante hay una mesa de café con una botella de vino, una pipa y una taza. No hay nada en la pieza que sea sonido en sí, ni un sonido en proceso que devenga, y aún así se puede escuchar. «El arte no debe ser una trompe l’oeil, sino un una trompe l’esprit«, dijo Picasso.[^7] Al ojo no se le engaña; ni tampoco al oído. No hay nada, aún así la mente oye.
+
+- Umland, Anae. 2011. Picasso Guitars 1912-1914. Nueva York: The Museum of Modern Art. p.20. 
+- ibid, p.21. 
+- ibid. p.22. 
+- Kachur. Lewis. Picasso, música popular y collage. Cubism (1911-12). The Burlington Magazine, vol.135. No.1081, abril de 1993. p.256. 
+- Satie, Erik. citado en Perloff. Nancy. 1993. Art and the Everyday: Popular Entertainment and the Circle of Erik Satie. Oxford: Clarendon Press. p.83. 
+- Citado en Umland, Anne, op cit., p.27. 
+- Referenciado en Markus, Ruth. ‘Picasso’s Guitar, 1912: The Transition from Analytical to Synthetic Cubism’. Assaph, Studies in Art History 2. Universidad de Tel Aviv. 1996. p.238. 
+
+Traducido del Inglés.
+
+Seduciendo a Baudrillard
+
+Devenir y Deriva
+
+© 2026
+
+con ♡ en momoto`,
+        author: 'David Toop',
+        date: '2024-10-10'
+    },
+    {
+        id: 4,
+        slug: 'seduciendo-a-baudrillard',
+        title: "Seduciendo a Baudrillard",
+        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/07/seducing-baudrillard.png',
+        content: `# Seduciendo a Baudrillard
+
+Este texto fue escrito para la segunda edición del fanzine homónimo realizado por everybodyisagirl, un nuevo proyecto con sede en Londres que está rápidamente ganando terreno con su exploración en torno a being a girl online. Se trata de una pieza derivada de una combinación del trabajo de Achim Szepanski sobre Baudrillard en su libro In the Delirium of the Simulation (Becoming, 2024), así como mi propia investigación y lectura sobre Baudrillard que surgió como parte del capítulo que escribí para una publicación de Zer0 Books en 2025. El tema de este fanzine era la Seducción, que ha sido un aspecto importante de la obra de Baudrillard durante un buen tiempo, así que como ya estábamos siguiendo everybodyisagirl y anhelábamos publicar algo con ellos, cuando anunciaron el tema, fue perfecto. No estaba segura de si la pieza sería apropiada para el fanzine, pero para mi deleite lo fue, y este texto se puede encontrar en la publicación impresa, bellamente diseñada por el equipo de EIAG.
+
+Si bien este puede parecer un lugar poco probable para encontrar a cierto anciano francés de anteojos 🙄, en la obra de Jean Baudrillard, la idea de Seducción va mucho más allá del erotas🥵, y se entiende más bien como una fuerza o poder💥 que se relaciona específicamente con el simbolismo💱 y los signos⚠️. Jean escribe sobre un universo indeterminado o «secreto»🤫, en algún lugar dentro del cual se coagula el jardín🌳🌷 de nuestra experiencia, lo simbólico. ‘Lo simbólico’ es la codificación semiológica de ‘lo real’ 🌎 en ‘realidad’ 🗺, y en el trabajo de Jean manifiesta un profundo interés por la forma en que la realidad simula lo real, y cómo esa simulación en tanto sistema de signos, modelos y códigos, puede desviarse o virar💫 (como Lucrecio👨🏻‍🎓) hasta tal punto que ya no guardan ninguna semejanza👬 con el original y se convierten por ende en simulacros. Su preocupación general es la muerte☠️ de los signos, y cita que la realidad en la modernidad capitalista 💸, con su lógica productivista🛠️ de acumulación positiva✖️, unilineal y de proliferación infinita🔝, ha dejado de operar de acuerdo con su referente original (lo real). Si alguna vez te sientas a ver las noticias y piensas “¿cómo es esto realidad?”🫣😫, pues no lo es exactamente🫨🤯.
+
+Los escritos de Jean sostienen que la realidad ha sido seducida hacia la hiperrealidad 🌐, y un ejemplo de esto en la cultura popular sería el Realismo Capitalista de Mark Fisher, una condición caracterizada por la incapacidad de distinguir entre capitalismo y realidad🧐. Sin embargo, a pesar del reconocimiento que da Jean al papel de la seducción en la transformación de los signos🔣 (y la muerte de los signos🪦, cuando se considera la seducción dentro de su cosmología general🪐, también aparece como una fuerza subversiva importante para enfrentar la hegemonía heteropatriarcal del capitalismo global y su lógica productivista y modernista.
+
+Para Jean, la seducción no es, en absoluto❌ lo femenino︎♀︎ que se opone a una producción masculinizada ♂, ni tampoco es la negación🚫 de la producción, sino la transformación de la misma. Esto es importante❗️ porque para Jean, la tendencia en la filosofía 🧐 y el pensamiento🤔 occidentales de operar con un orden simbólico🫡 de pares de signos estructurados de manera oposicional es altamente problemática😤, porque la lógica productivista o el supuesto de acumulación unilineal 📈 de capital nos lleva🎀 a grados crecientes de abstracción🔮. La seducción es una estrategia♟️ para producir significados y valores, pero no opera en base a la lógica productiva, caracterizada por las adiciones➕, las acumulaciones🆙 y, sobre todo, el hacerse visibible💡. En todo caso, la seducción como proceso vuelve invisibles las cosas, guía a las identidades hacia su muerte💀, anulando así la hegemonía de la producción. Por ejemplo, si la Identidad ️entra en un proceso seductor con la identidad 🅱, tanto 🅰️ como 🅱 “morirán”😔🤷‍♀️, ya que se vuelven a caracterizar y a identificar como dos polos en un devenir irreversible el uno en el otro, sin necesariamente devenir nunca 🆎. Sin embargo, buscar la seducción en un par opuesto con la producción sería pasar dramáticamente por alto la idea central la obra de Baudrillard.
+
+Sadie Plant🤖 acusó a Jean de temer😨 a la Seducción🫦 ya que sentía que él tenía miedo del poder que tiene la seducción para disolver el concepto mismo de Hombre♂ que ella suponía que Jean defendería, sin embargo, dado el compromiso de Jean con criticar la lógica productivista de la modernidad😣 y el capital😩, es difícil creer que realmente temiera la Muerte de sí mismo como Hombre. Casi siempre, Jean escribe más como un «terrorista teórico», que intentó siempre bombardear 💣 las estructuras de oposición sagradas que sustentan el patriarcado👑 y la filosofía occidental🏛️. Jean escribió que la estructura de oposición de Masculinidad/Feminidad es siempre una oposición Masculina, donde lo masculino se afirma y lo femenino es alterizado. Al afirmar que lo femenino es simplemente lo otro de lo masculino, enmascara u oculta todo lo que no sigue una lógica productivista, y ahora sabemos por la teoría cuántica🔬 que nunca hubo un vacío🕳️ ausente de femenino a partir de los cuales se erigieron los objetos⚛ y las identidades👤🍆, siempre fue ruido y fluctuaciones, por lo que pensar lo ausente, invisible o secreto, como vacío, vacuo o inexistente, es una ilusión conjurada por el presente🎁. Confundir el ruido con el silencio es todo un error😅, y solo se puede explicar por una falta de voluntad del Hombre para escuchar😂. De acuerdo con esta forma de razonar, Jean escribió que, de ser algo, sería más razonable decir que no hay masculinidad o sexo Masculino🥺, dado lo mucho que se esfuerza por existir en contraste con un «otro» que lo abarca todo, y la inconsistencia asociada con la disfunción eréctil😳 hace que parezca más como si lo Masculino fuera el otro de lo Femenino🤭, que aparece y desaparece de la existencia erráticamente. Todos son niñas cuando los niños miran hacia otro lado. Esta es una transformación directa de la lógica de la producción, donde en lugar de la estructura opositora de El Uno sobre El Otro, solamente hay otro.
+
+Me encanta esto, en algún nivel esencial, la voluntad Gaiana🌍 de que todo se fusione; de ​​quemarlo y fundirlo todo en el núcleo de metal líquido de un nuevo planeta: SÍ; dios. Eso es caliente.🔥 Como sabemos por Jacques Derrida, la imagen de la estructura opositora binaria ha dominado la filosofía occidental a lo largo de la historia, desde el debate entre Perménides😬 y Heráclito🥰 sobre el Ser y el Devenir, o el motor inmóvil de Aristóteles🙄, o las formas-apariencias de Platón🙄, o el dualismo mente🧠-cuerpo🫀 de Descartes🙄. Sin embargo, Louis Althusser😙 escribe sobre una corriente subterránea de materialismo, que traza una línea desde Heráclito hasta Marx😍, y yo diría que Jean, con sus ideas de secreto y seducción, es parte de este movimiento cinético-materialista. Digo esto porque, si bien Jean también habla de un real doble, la principal diferencia es que los dos aspectos del real-simbólico de Jean son entendidos como uno y el mismo, y su dualidad ilusoria no está organizada como una estructura opositora masculinizada. No están abstraídos uno del otro. Junto con Jacques, Jean y Louis, estoy atrapada en la determinación de arreglar a otro veterano francés🇫🇷💂‍♀️ de la Teoría👨‍💻, un tal Francois, o Monsieur Laruelle😜, que escribió una especie de poema alegórico, con un tono palpable afrofuturista✨, sobre los dualismos occidentales🌎 llamado Universo Negro🖤. En este poema, Francois habla de un Negro▪️ que no puede definirse como el otro del Blanco▫️—es un Negro▪️ que lo abarca todo y que no se somete a la autoridad de la luz (a diferencia del color🎨, el Negro▪️ carece de posición). No es Negro▪️ como en Negro▪️/Blanco▫️, es algo más allá de eso, es ultranegro⚫️ (Szepanski🏴‍☠️). Francois escribe que el Universo y el Hombre, aunque tiene más sentido decir Ella-Misma, son Negros▪️, y que el Mundo y la Filósofx son Blancos▫️. El Mundo (▫️) es la realidad simbólica de Jean, y la Filósofx (▫️) es Ella-Sí-Misma (▪️) que piensa (▫️) el Universo (▪️) como el Mundo (▫️). Solo existe lo Negro▪️-en-Negro▪️, Ella-Sí-Misma en el Universo, pero a través del pensamiento/la filosofía, el Blanco▫️, una ilusión de posición▫️, aparece como residuo alrededor del Negro▪️ mientras se pliega sobre sí mismo al ser seducido (▪️).
+
+Thomas Nail😘, junto con Achim Szepanski🫡, reflejan el trabajo de Francois y Jean al presentar otro modelo del universo dual no oposicional, ubicando al universo como Ruido🔊—movimiento caótico—donde incluso en las trincheras más profundas🦑, uno solo encuentra grados crecientes de complejidad en oposición al vacío. Para Thomas y Achim, el ritmo es un patrón de movimiento metastásico que surge del ruido a medida que se mueve caóticamente😯, y el ritmo▫️ está en la posición▫️ de orden▫️, pero está irreversiblemente saturado de ruido en cada punto📍, por lo que, aunque el ritmo puede, con cierta lucha, erigirse a partir del ruido, es una formación temporal, y no es menos ruidoso. Así que el ruido y el ritmo constituyen el universo doble, diferenciado solo por el espacio-tiempo, o la posición-en-el-momento🌎📌. Ahora, aquí es donde tratamos de vincular todo esto con lo que, siguiendo a Lucrecio, podría argumentarse como la Diosa de lo Real: Venus 🖤💖 (Negra▪️).
+
+Pensando en Jean, la Diosa de lo real es la Diosa de la seducción👄, que es de naturaleza dual☯, y no es concebida a través de la lógica de la producción, sino por la transformación de la producción🙃😌. Afrodita🧝🏻‍♀️🐚 nació cuando Gaia🌏, avatar de Xaos❓, seduce a Tetis🌊, avatar de Gaia, para seducir a Xronos⏳, avatar de Tetis para castrar a Urano🌬️☁️, el cielo masculinizado a la tierra femenina—los genitales cercenados😿 del Padre caen al Océano🌊, y de la espuma🫧 (aphros) surge Afrodita🌹. Cuando caminó por las playas de Chipre🇨🇾, el Cielo había llegado a la Tierra. Afrodita es doble💞, es el objeto del deseo💘 y el deseo💘 mismo, y por lo tanto puede entenderse en términos de la seducción de Jean. Gaia🌏, a través de las ondas cíclicas 🌊 de Tetis㊌, capturó el aire como espuma🫧, produciendo así una representación aún más perfecta de Xaos que la propia Gaia; Venus es más Negra que el Negro🖤.
+
+Gaia [negra] produce Ouranos [blanco], una simulación [blanca] de lo real [negro], pero ella no produce a Afrodita [negra], al menos no por la lógica [blanca] productivista [blanca] de acumulación [blanca] unilineal [blanca]. En cambio, Afrodita nace a través de las relaciones lésbicas [negro-a-negro] entre la Tierra [negra] y el Océano [negro] usando los genitales cortados [negro-como-blanco-negado] del Cielo [blanco]. Más que un simple asunto engañoso, la historia del inicio de Afrodita podría leerse como una historia de revolución🫡✊, o performance 🎭️, o ritual🕯️🌀. Fue una estrategia para la reseducción💯 inmaculada (no reproducción) donde Gaia crea materia a partir de materia👏. La materia se crea a sí misma, ese es el secreto🤫, no reproduce representaciones de sí misma: reseduce más de sí misma. El secreto de la seducción es un negro tan negro que siempre encuentra la manera de volverse más negro. En lugar de producir copias de sí mismo, el secreto seduce a más-de-lo-mismo. Jean escribió que el ritual es el proceso a través del cual se forma lo simbólico como una simulación codificada de lo real, es la estrategia para la formación de signos a través de la seducción. La diosa Afrodita es el significante real de lo real, el resultado de la perfección del ritual, y eso es lo que la hace hermosa. Ella es el milagro de la vida, pero, al igual que la Diosa de la seducción, también es un Ángel de la Muerte, nacido del derrocamiento ritualizado (desaparición) de los cielos que nos permitió despertar un día, como Ella-Sí-Misma en el Universo y caminar sobre la Tierra como hija reuniéndose con la madre, como la primera mitosis perfecta, el primer latido en el ritmo del Universo.
+
+Por Palais Sinclaire
+
+traducido del Inglés
+
+Éliane Radigue: Budismo, Voltaje y una Escucha Infinita
+
+No es nada
+
+© 2026
+
+con ♡ en momoto`,
+        author: 'Palais Sinclaire',
+        date: '2024-07-26'
+    },
+    {
+        id: 3,
+        slug: 'eliane-radigue-budismo-voltaje-y-una-escucha-infinita',
+        title: "\u00c9liane Radigue: Budismo, Voltaje y una Escucha Infinita",
+        thumbnail: 'https://cosiampira.com/wp-content/uploads/2022/06/radigue-purple.jpg',
+        content: `# Éliane Radigue: Budismo, Voltaje y una Escucha Infinita
+
+«Para los fieles, una ofrenda, y Para los hambrientos, un medio de sustento, y   Para los apasionados, un balanceo de la mente—   Todo esto surge de la habilidad en la música.» 
+
+—Sakya Pandita
+
+La música electrónica no es un género, ni propiamente un estilo, tampoco se limita a una serie de métodos técnicos. Más allá de las discusiones categóricas, estamos hablando de la introducción de la dimensión eléctrica, electrónica, analógica y digital en los procesos de creación musical, por ende conservando las ideas previas que pudiesen existir sobre la música, el sonido, la escucha, el ruido, el silencio y demás elementos asociados. Y si nos permitimos, la música electrónica puede ser también una salida de los cánones en la era pre-electrónica, en tanto las máquinas en una relación con las entidades orgánicas fueron gestando nuevos paradigmas cíborg, abriendo paso a figuras transgresoras, futuristas y subversivas en el panorama musical, capaces de trascender el antropocentrismo sónico y de paso, la hegemonía musical, puesto que la música electrónica tiene madres, como Daphne Oram en la clásica Radiophonic Workshop de la BBC, figuras emblemáticas como Pauline Oliveros, en nuestros días con artistas como Suzanne Cianni o más cercanas en nuestro contexto local con Jacqueline Nova.
+
+## De la cinta al voltaje
+
+En la historia del movimiento francés de la música electrónica y experimental también hay una figura pionera que comenzó a la par de músicos como Pierre Schaeffer y Pierre Henry, aunque alcanzando confines estéticos, conceptuales y espirituales nunca antes presenciados en sus colegas. Hablamos de Éliane Radigue, una artista cuya obra, aún activa, refleja una de las búsquedas más profundas que podrían hallarse en la música de nuestros días, todos los días en el tiempo de Radigue, quien desde su nacimiento en una familia de mercaderes en París hasta su más reciente concierto en el festival presences electroniques 2022 en el legendario Acusmonium de INA-GRM, ha manifestado una excepcional revelación sónica de la más elevada -aunque no por ello inaccesible- mística electrónica.
+
+La obra de Radigue comenzó con experimentos en cinta magnética característicos de la escuela de la música concreta, donde era usual utilizar grabaciones de todo tipo para descomponerlas, repetirlas y generar desde allí nuevos compuestos. Fue interna del Studio d’Essai en la RTF en 1958, donde trabajó de la mano con Pierre Schaeffer y y Pierre Henry en los comienzos de la llamada música concreta, aunque luego partió de allí a raíz de su desacuerdo con la forma como el par de machos se contrariaban por los créditos en composiciones originarias del entonces naciente estilo experimental, o sus posturas intelectuales que los llevarían a una serie de discusiones que le sugerían a la compositora que ella no tendría lugar, ni siquiera reconociéndola como asistente.
+
+De allí se movió hacia la exploración del feedback y realizó, entre 1969 y 1974 varios experimentos con paisajes sonoros basados en bucles de varias cintas reproducidas en simultáneo. Posteriormente, viajó a Nueva York, donde se reconoció en movimientos como la escuela minimalista, dedicando allí sus esfuerzos al aprendizaje de la composición clásica en instrumentos como el arpa y el piano, conocimientos que confluirían en lo que sería una de sus momentos más prolíficos: su encuentro con los sintetizadores, un amor que la cautivó a ella y a su obra, detonado al toparse con un sintetizador Buchla que se hallaba en un estudio de Nueva York que creó en colaboración con otra mente maestra de la música electrónica, Laurie Spiegel.
+
+Aunque no sería el Buchla el instrumento donde encontraría su pasión analógica, sino en un ARP 2500, que ha usado siempre sin teclado, con osciladores crudos, buscando una expresión directa desde los potenciómetros del que llamaba «el stradivarius de los sintetizadores», instrumento analógico que exploró de una forma totalmente única y delicada, y que sería el único (junto a su máquina de cinta) con el que constituiría su obra por los siguientes 25 años, comenzando con la pieza Adnos I (1974) hasta L’Ile Re-Sonante (2000), en las que, conservando su influencia con previos procesos con cinta y feedback, se adentraría en una búsqueda de la continuidad sónica en capas, la variación sutil, el cambio infinitesimal, la detención ante el microsonido y la oda perpetua a la lentitud, carente de narrativa estricta y colmada de una honda indagación en la resonancia. 
+
+Radigue rechaza la idea del drone, en tanto no concibe su música como estática ni preocupada por los fundamentales, sino todo lo contrario: siempre variable y en constante desarrollo. «Amo cuando los cambios suceden sin que nos demos cuenta», le cuenta a Kate Molleson en una entrevista, idea que expande en un corto ensayo titulado Le temps n’a pas d’importance (El tiempo no tiene importancia):
+
+«El tiempo no tiene importancia. Todo lo que cuenta es la duración necesaria para un desarrollo fluido. Mi música evoluciona orgánicamente. Es como una planta. Nunca vemos una planta moverse, pero está creciendo continuamente. Como las plantas, inmóvil pero siempre en crecimiento, es mi música nunca estable. Siempre está cambiando. Pero los cambios son tan ligeros que son casi imperceptibles, y solo se vuelven aparentes tras el hecho. Esta música, como la concibo, no puede contener ningún corte, así que la estructura es bastante simple, basada en desvanecimientos -fade in, fade out y crossfade.»
+
+Según cuenta la compositora, cuando trabajaba con Buchla, a veces era complicado no alterar radicalmente lo que estaba haciendo al desconectar algo que no debía o al realizar algún movimiento en falso. «El ARP me ofreció una lectura inmediata», cuenta en otra entrevista, «los osciladores que ingresaban a un módulo o salida en particular estaban todos frente a mí», agregando que los artefactos ruidosos a menudo generados por los interruptores del ARP 2500, le atrajeron más que el sonido claro y metálico que encontraba en el Buchla o en el Moog Modular. Sus exploraciones continuaron expandiendo su filosofía de escucha y su idea de la corporeidad sonora, plasmada en piezas como ψ 847 de 1973, donde se vislumbran ya puntos que serían transversales en su música, como los juegos de resonancias, el llamado a la contemplación de las ondas y la carencia de cortes o estructuras evidentes.
+
+## Budismo sónico
+
+Decir que el ARP 2500 fue el componente central de su obra durante este período no es del todo exacto, en tanto faltaría el otro elemento que vendría a completar la ecuación de Radigue: el Budismo, concretamente el Budismo Tántrico o Vajrayana, en el cual, además de la meditación, se integran una serie de procesos tántricos, de cuerpo-mente, orientados a transmutar la energía vital en torno a la liberación del sufrimiento; técnicas en las que a menudo se da una importancia capital a la sonoridad, como se evidencia en la recitación de mantras y la profundización en la escucha como vía de liberación, elementos que no podrían ser más compatibles con la dimensión meditativa de la propuesta sonora de Radigue.
+
+Éliane Radigue, fotografía de Jacques Risseaut
+
+La compositora conoce el Budismo en 1975 de la mano de un grupo de escuchas, estudiantes de Robert Ashley en el Mills College, a donde Radigue había atendido para dar un recital, tras el cual se acercaron algunas personas de la audienciapara hablarse sobre la cercanía que encontraban entre el Budismo y su obra, ya para ese entonces meditativa y pausada, colmada de atributos que sugerían a creces una búsqueda espiritual. Quienes se acercaron, le lanzaron una pregunta que transformaría por completo su camino: «¿Sabías que no eres tú la que hace la música?». Los tres eran discípulos del Lama Kunga Rimpoche, y a la par de la inquietud, le dejaron una dirección al centro de prácticas Budistas del linaje Karma Kagyu en París, a donde la compositora cuenta haber ido recién regresó a Francia, para «nunca más mirar atrás.»
+
+Fue tal el impacto que sintió ante la forma de vida budista, que dejó durante tres años su actividad musical para dedicarse plenamente a la práctica y el estudio del Budismo ante las enseñanzas de su gurú, su eminencia Tsuglak Mawe Wangchuk, 10a reencarnación del gran Pawo Rimpoche, reconocido maestro del mencionado linaje. Radigue pasaría toda esta época siguiendo las instrucciones de sus maestros, las cuales concluyeron en el mismo lugar donde comenzó todo: en la música, pues fue su guía espiritual mismo quien la incitó a retornar a su obra, que si bien continuó con la trilogía Adnos y las versiones II y III, posteriormente comenzó a integrar una influencia más directa de sus conocimientos budistas.
+
+Durante este período, que en su obra se rastrea a finales de los 70, Radigue comienza una exploración conceptual y sónica donde se integran sus búsquedas espirituales con sus métodos de creación y la estética minimalista y atenta al detalle que ya la caracterizaba. Dedica varias obras al santo Milarepa del Tibet, excelso poeta, cantor e iluminado que dejó su relato en canciones que son a menudo parte de las plegarias y prácticas espirituales de los practicantes de esta forma de Budismo. Esto se refleja en piezas como 5 songs of Milarepa y Jetsun Mila, donde además incluye las voces del compositor Robert Ashley y su maestro Lama Kunga Rimpoche. 
+
+Posteriormente llegaría el que sería uno de sus más célebres trabajos: Trilogie de la Mort, una trilogía influenciada en su totalidad por la filosofía Budista y la cual podría considerarse una condensación de los componentes esenciales de la obra de Radigue, en tanto no solo expresa directamente su fascinación e influencia espiritual sino también porque en ella están presentes los elementos sónicos que ha estado plasmando en su obra durante sus años de conexión con el ARP 2500. Una profunda meditación sobre la muerte, colmada de patrones tonales dilatados, a menudo caracterizados por una evolución lenta de los armónicos, variaciones sutiles de los osciladores y filtros, y una extensión de las piezas que invita a una escucha detenida, pausada, introspectiva y a la larga reveladora, en tanto la permanencia en la quietud a la que suscita, conlleva a estados de consciencia que pueden ser tan sosegados como alterados, dependiendo de la temperatura espiritual de quien escuche. Nos recuerda Radigue: «son dos extremos: uno en el que dejas ir todo, o el otro en el que te dejas cautivar.»
+
+Trilogie de la Mort by Eliane Radigue
+
+La trilogía de la muerte se compone de las piezas Kyema, Kailasha y Koumé. La primera, Kyema, finalizada por la artista en 1988, tomando inspiración en los seis estados intermedios o Bardos que se describen en el Bardo Thodol, traducido como La liberación por audición durante el estado intermedio y conocido coloquialmente como Libro Tibetano de los Muertos, en el cual se establecen coordenadas de los estados intermedios de la conciencia en los que, según la tradición, navegamos tanto las personas como otras formas de vida, y constituyen el ciclo perpetuo de la existencia, la cual se presenta como una forma dinámica en el vacío, analogía perfecta para la música, en palabras de Radigue: «un silencio que es base del sonido – cuando comienza a vibrar.»
+
+La segunda pieza, Kailasha se estructura como una peregrinación imaginaria al Monte Kailāsh, considerada una de las montañas sagradas de la humanidad, ubicada en los elevados Himalayas en Tibet, de compartida veneración por parte de Budistas e Hinduistas, lugar de milagros, crónicas y eventos espirituales, al que atiende Radigue conceptualmente para edificar la pieza, completada en 1991 como un viaje sónico interior que a su vez es un tributo a su hijo Yves, quien fallecería por esos días a los 34 años en un accidente automovilístico, un suceso que, sumado a la muerte de su maestro Kunga Rimpoche, que la llevaría a Nepal para su cremación, dieron paso al cierre de la trilogía, en la pieza Koumé, en 1993 cuando Radigue concluye la pieza, la cual ahonda en la trascendencia de la muerte y su comprensión de la misma como parte del ciclo de la vida.
+
+## Liberación en la escucha
+
+En el siglo XXI la obra de Radigue mantiene su estética pausada y de evolución casi imperceptible, aunque ha cobrado un nuevo giro al enfocarse en instrumentos acústicos y electroacústicos como el bajo eléctrico, computadoras con patches de Max/MSP y en los últimos años el arpa y los vientos, en obras a menudo colaborativas en las que compone «para el intérprete y no para el instrumento», como se refleja en piezas Naldjoriak con artistas como Charles Curtis, Carol Robinson y Bruno Martinez y la serie de piezas para arpa Occam que comenzaron con la primera creada para el arpista Rhodri Davies y ha continuado con numerosas expansiones que al día de hoy continúan el espíritu de la prolífica compositora.
+
+Otra de sus recientes colaboraciones fue una instalación junto a su colega y estudiante, Laetitia Sonami, también devota del Budismo y cuñada de Kunga Rimpoche. Aunque Sonami trabaja desde una estética diferente a la de Radigue, ambas se unieron en a partir de su concepción de la sonoridad, encuentro que materializaron en la obra Le corps sonore creada por Sonami, Radigue y el ingeniero de sonido Bob Bielecki. Fue una obra de instalación in-situ en la parte central de la exposición The World Is Sound en el Museo Rubin en Manhattan. La pieza se reproducía desde el suelo hacia el techo y cambiaba a medida que las personas subían las escaleras, alterando la escucha desde una perspectiva ascendente, integrando así la arquitectura espiral del edificio y expandiendo la perspectiva típica del estéreo horizontal hacia una escucha vertical que se abre paso entre la impermanencia de las ondas rebotando en el espacio acústico.
+
+Radigue en medio del una obra de Arman, su difunto esposo. Cortesía ADAGP, París, 2019
+
+Cuando trata su filosofía de escucha en un pequeño retrato en video realizado por IMA Fiction en 2006, Radigue habla de la forma de escuchar su obra como una cuestión de perspectiva y contemplación que puede llevar a una profunda introspección y consciencia del tejido sonoro o detonar la fuerza de la imaginación, permitiendo a la escucha crear su propia película:
+
+«Es como observar la superficie de un río. Hay una iridiscencia al rededor de los arrecifes, pero nunca es completamente la misma, de acuerdo con la forma como mires, verás visos dorados del sol o las profundidades del agua. En una piscina puedes ver la reflexión de ondas en el fondo o tener una visión general y no dejarte llevar, lo que llamo contemplar el sueño, o fijarte en un detalle y crear tu propio paisaje.»
+
+Cuando comenta sobre las reacciones que ha encontrado en sus oyentes con respecto a estos sonidos, ni siquiera se trata en sí de la música en un punto, sino que los sonidos actúan como un «espejo mental» y reflejan el estado de ánimo en el que se encuentre la escucha en ese momento. «Si realmente te abres a estos sonidos, si escuchas de verdad y te entregas a la escucha, muestran un poder magnético realmente fascinante», agrega la compositora. «Ni siquiera hablo de lo que he hecho con estos sonidos, esa es otra historia, la forma en la que los organicé. Por encima de cualquier cosa, los escucho bastante y con gran respeto, tratando de entender lo que tienen por decir.»
+
+Aún en colaboraciones, Radigue ha mantenido la inmersión y profundidad de su época con el ARP 2500, en general buscando siempre conducir las escuchas a «despertar la música dentro de sí». «Deberíamos dejarnos llevar por los sonidos, abrirnos a los sonidos, escuchar lo que resuena dentro de sí», dice en una conversación donde habla del sonido y su capacidad para permitirnos un desprendimiento del ego y expandir la imaginación. Es esta fuerza transformadora, intimista y trascendente la que hace de Radigue una maestra del tiempo y la materia sónica, capaz de ir más allá de los convencionalismos para abrirse paso en su propia filosofía de escucha, liberadora y profunda, capaz de atreverse a lo que a tantas personas nos da temor: el infinito.
+
+«Tan solo deja tu cuerpo flotando en la ondaY así mismo deja la menteEl espíritu flotando en el sonidoRevisa lo que sucede»
+
+—Éliane Radigue
+
+## Fuentes
+
+- Bécourt, Julien. Éliane Radigue: The Mysterious Power of The Infinitesimal, Red Bull Music Academy
+
+- Kaplan Howard. Composing a life, Rubin Museum
+
+- Lee, Risha. Listening and liberation: The World is Sound, Rubin Museum
+
+- Radigue, Éliane: Le temps n’a pas d’importance en Spectres: Composer L’ecoute. Shelter Press
+
+- Éliane Radigue: Trilogie de la Mort, en The Lab
+
+- Molleson, Kate. Interview: Éliane Radigue, en su blog
+
+- Dax, Max. Éliane Radigue: An Interview, Electronic Beats
+
+- Harper, Jonathan. Interview with Éliane Radigue, Purple Magazine
+
+- Retrato de Éliane Radigue, IMA
+
+12 notas para el ambient futuro
+
+Seduciendo a Baudrillard
+
+© 2026
+
+con ♡ en momoto`,
+        author: 'eme isaza',
+        date: '2022-06-29'
+    },
+    {
+        id: 2,
+        slug: '12-notas-para-el-ambient-futuro',
+        title: "12 notas para el ambient futuro",
+        thumbnail: 'https://cosiampira.com/wp-content/uploads/2022/05/music-for-airports.png',
+        content: `# 12 notas para el ambient futuro
+
+¿Cuál es el valor del ambient en una época en la que reina la distracción, y la música es a menudo tan solo otro flujo de datos más para filtrar la cotidianidad? Si luchamos por mantener nuestra atención incluso en las más dinámicas experiencias, ¿cómo puede una música de tintes y matices mantener su significado y relevancia? Cuando Eno formalizó el ambient, el mundo que rodeaba la música era radicalmente diferente en casi todos los niveles y aún así, es en las provocaciones iniciales de Eno donde podría encontrarse una comprensión fresca del por qué debería persistir el ambient.
+
+Estas provocaciones tempranas han actuado más como un mantra que como una oportunidad para investigar con respecto a la intención del ambient. En el texto del disco Music for Airports, Eno escribió, «La música ambient debe ser capaz de adaptarse a muchos niveles de atención en la escucha sin forzar uno en particular; debe ser tan ignorable como interesante». Esta frase ‘tan ignorable como interesante’ que se ha hecho eco desde la publicación del disco, siempre me ha parecido problemática en la medida en que contrarresta las palabras precedentes de su declaración. Escuchar es agencia y aplicación; implica que nos involucremos en algo; ignorar la música no es escucharla. No es oír esos sonidos como música, sino dejar que se deslice en el flujo subconsciente de filtrado acústico que es nuestro diario ensueño sónico. Es esta afirmación irresoluta la que siento que desbloquea el núcleo del valor futuro de la música ambient.
+
+Es fundamental comprender cómo la música ambient se encuentra y cómo crea, aumenta e incluso interrumpe los espacios. Cuando escuchamos música ambient, ya sea para trabajar o incluso para dormir, la estamos eligiendo dentro un rango específico de condiciones que puede llevarnos a tomar consciencia en los lugares donde trabajamos y vivimos. Es importante también comprender cómo ese proceso crea una atmósfera temporalmente única que transgrede los límites de nuestro pensamiento y sentimiento interior, y la exterioridad de los lugares en los que nos encontramos. Felicia Atkinson lo resume: «La música ambient se deriva del impresionismo, enfatiza la singularidad de la percepción, y busca crear un entorno imaginativo».
+
+No debe confundirse con la Discreet Music de Eno; el ambient es, en la experiencia, discreto en tanto lugar y tiempo mantienen una relación afectiva con la música y al mismo tiempo con nosotrxs como escuchas. Independientemente de la forma en que se encuentre la música ambient (en los auriculares yendo al trabajo, mientras se cocina en el hogar o en la cama justo antes de dormir) en estos momentos, el lugar y la música interactúan y nuestro rol como escuchas se realiza e idealmente se potencia. Como escuchas, perpetuamente llegamos a la música de nuevas maneras, ya que las relaciones entre ella y los eventos que suceden en paralelo –así como nuestras capacidades para la escucha–, redefinen la dinámica de la composición. Cada impresión, parafraseando a Atkinson, es ligeramente diferente de la anterior y reconocemos claramente la naturaleza de las masas acústicas compuestas. Siempre podemos decir que la niebla es niebla, pero los detalles que existen dentro de ella nunca son idénticos.
+
+Así pues, para ayudar a definir una condición (en lugar de la condición) que crea el ambient, debemos reconocer que esta música es un tipo de contrato tácito. Se trata de reconocer como una cuestión primaria, el hecho de que la experiencia musical sea un diálogo abierto entre la interioridad de nuestra escucha afectiva y la exterioridad de los espacios y lugares que contienen la música tal como la experimentamos. El ambient abarca las variables de la situación en la que se encuentre, renuncia a cualquier sentido de control a favor de priorizar una perspectiva subjetiva discreta. Esto es primordial como preocupación definitoria de la música ambient.
+
+Además, las partes implícitas en este contrato, quien compone y quien escucha, deben reconocer que nunca se puede lograr el control total y que la identidad de la música nunca es del todo suya, sino que es constante devenir. Después de cada re-escucha, en un lugar diferente, en un momento diferente, a través de una situación de reproducción diferente, la música misma evoluciona. Vive dentro de la complejidad de estas relaciones y se trata principalmente de, para usar la provocación inicial de Eno, «acomodar muchos niveles de atención auditiva sin aplicar una en particular».
+
+David Toop avanza este examen de la relación entre el ambient y la escucha: «Hay otra posibilidad de escuchar que se abre ante nosotrxs, en un momento en que prevalecen los parlantes y ser escucha es ser consideradx como un copo de nieve, lentx o débil o ineficaz. A esto añadirle nuevas ideas sobre ecología, fluidez de género, anti-especismo y la vivacidad de la materia y los objetos, y así el futuro tiene el potencial de ser casi irreconocible. Potencial, a pesar de que nuestras perspectivas actuales apunten a otra parte. Eso significa que emerge una nueva concepción del medio ambiente y, por lo tanto, de la música ambient (ambient significa «alrededores») posee todas sus cualidades radicales.»
+
+Es en este espacio radical y relacional donde el ambient puede colapsar en una crisis de la mitad de su vida. No hay, ni debería haber, una respuesta simple y singular a la pregunta de qué es el ambient o, más aún, qué puede llegar a ser. Más bien, ambient, para usar otro Eno-ismo, debe ser «constante pero nunca sólido», una música que es consciente de cómo puede existir en el mundo y también de cómo da forma a nuestro mundo (por dentro y por fuera). Es una música contractual que requiere del cumplimiento de ciertas condiciones si se quiere realizar de manera significativa. El ambient siempre debe ser un proceso de transformación, como las atmósferas que pretende crear. Debería estar en los estados de llegada y salida simultáneamente. Cada encuentro que tenemos con él, como creadorxs y escuchas, afecta la forma en que existe la música ambient. En esencia, alteramos la potencial realización de la música ambient.
+
+Con este fin, y dado que hemos llegado a esta clase de edad media para la música ambient, quería proponer algunas (no tan) suaves provocaciones para estimular futuras conversaciones a medida que esta música persiste en el futuro.
+
+### 12 notas para el ambient futuro
+
+El ambient es una música de momentos vividos.
+
+El ambient reconoce que el control debe olvidarse con respecto a como la música es encontrada (mas no como está compuesta).
+
+El ambient es discreto en la experiencia, aunque no musicalmente.
+
+El ambient reconoce el engaño que es la promesa de la repetición.
+
+El ambient nunca es meramente música para el escapismo. Es una zona de participación en la búsqueda de una audiencia musical que reconoce los valores potenciales del sonido en esferas más amplias (social, política, cultural, etc.). Es una liberación, una apertura y una profundización, simultáneamente.
+
+El ambient pulsa; lleva su curso. El ritmo es un raro amigo de esta música.
+
+El ambient nunca es solo música. Es una confluencia de sonido, situación y escucha; además, es un contrato tácito entre quien crea, quien oye, y el lugar, buscando lograr un tipo específico de experiencia musical.
+
+El ambient trata de la primacía de la escucha (para el público y quien la crea). La música y los espacios y lugares (interiores y exteriores) que ocupa son cruciales para la forma en que se aprecia, se comprende y se consume.
+
+El ambient es trascendente pero no busca un plano más elevado. No es música new age. Más bien la trascendencia de la música ambient está dentro de nosotros y nos invita a profundizar en la vivencia de lo cotidiano.
+
+El ambient nunca es documentación de algún lugar o momento. En cambio, crea un lugar individuado, impresionista e imaginario. Se realiza en medio de nuestro yo interno y externo.
+
+El ambient es una música de perspectivas. Nunca es completamente cognoscible, ya que es música que se filtra constantemente entre las perspectivas (micro y macro) y las dimensiones de la escucha. Mantiene una sensación con lo misterioso (como señaló Mark Fisher).
+
+El ambient es amigo del ruido, del volumen y la fisicalidad. Sin embargo, es un enemigo del dinamismo no calculado.
+
+El ambient nunca termina. Es un proceso experiencial de devenir –para quienes oyen, quienes crean y más ampliamente, en tanto filosofía musical.
+
+—
+
+Un agradecimiento especial a David Toop, Felicia Atkinson, Mark Fisher, Simon Reynolds, Peter y Dale Fogarty y las muchas personas con las que tuve el placer de hablar en los últimos meses.
+
+Lawrence English es un productor de música y comanda el sello Room40.
+
+Artículo extraído de ‘Ambient music at 40‘,  publicado en FACT Magazine en Febrero de 2018.
+
+Traducción por eme isaza bajo autorización del autor.
+
+Manifiesto del Futurismo Rural
+
+Éliane Radigue: Budismo, Voltaje y una Escucha Infinita
+
+© 2026
+
+con ♡ en momoto`,
+        author: 'Lawrence English',
+        date: '2022-05-29'
+    },
+    {
+        id: 1,
+        slug: 'manifiesto-del-futurismo-rural',
+        title: "Manifiesto del Futurismo Rural",
+        thumbnail: 'https://cosiampira.com/wp-content/uploads/2022/04/futurismo-rural.jpg',
+        content: `# Manifiesto del Futurismo Rural
+
+## Ruralidad
+
+La centralización de las urbes nos ha llevado a menudo a pensar la ruralidad como el afuera de un supuesto adentro, como la zona fronteriza, en última instancia la zona olvidada, el espacio distante, el lugar lejano con respecto al que se nombra central, aquel espacio que no participa en la dinámica industrialista o incluso, civilizada. Paralelo a esta pobre consideración espacial, se da una configuración temporal: lo rural suele considerarse en otro tiempo, cosa del pasado, dinámica carente de evolución, un punto muerto, carente de avance y modernismo.
+
+Estas formas de considerar la ruralidad dan pie a muchas interpretaciones nefastas de los lugares que habitamos, nociones que el modelo imperial aprovecha en ambas direcciones: espacialmente, asumiendo lo rural como lugar distante y explotable, un afuera inútil directamente para el centro sistemático pero sí apto para la invasión industrial. Y por otro lado, en términos de su paralelo temporal, esto es, lo rural como el antepasado de superstición y tendencia retrógrada con respecto al centro evolutivo. Estos dos asuntos, crean una distorsión espaciotemporal que diseña una topografía limitante, confinada a la explotación para bien del centro establecido y pocas veces valorada por sus capacidades internas y las formas de conocimiento que allí se desarrollan. Limitar la ruralidad a lo limítrofe, nos vuelve incapaces de reconocer el estatuto ontológico de los espacios, a menudo llegando a la conclusión de que es la ciudad el modelo no solo central, sino válido, y con ello teniendo una desafortunada consecuencia: el sacrificio, reemplazo y olvido de los entornos rurales por la necesidad de favorecer un futuro impuesto desde las urbes, las cual pese a agonizar entre sus delirios del concreto, se imponen a menudo como la panacea ante nuestras condiciones ecológicas.
+
+La afirmación de este espaciotiempo fragmentado nos deja ante una ruralidad marginal, abandonada y pobre, pero al mismo tiempo, cuando no es el supuesto centro quien toma las riendas de la discusión, las cuestiones de lo rural se pueden plantear dentro de la ruralidad misma, no necesariamente pretendiendo ser centro ni compararse con las formas de las ciudades, por ende no explorándose en respuesta a otro punto del cual es distante y más bien disponiéndose como una red de hábitats multiformes y posibles. Igualmente sucede en el tiempo, dado que podríamos no limitar lo rural al pasado y el agotamiento, aunque tampoco situarlo como una suerte de presente idílico y fructífero, palabras que suelen nacer del humano invadido de ciudad, o que nacen como conceptos que entienden la potencialidad y los recursos como materia prima para la industria y en última instancia perpetúan la obsesión modernista de explotar la tierra sin importar el daño causado en múltiples escalas sobre los territorios y sus agentes, sus intercambios y las manifestaciones que se conjugan en estos.
+
+## Futurismo Rural
+
+En tanto la ruralidad no es centro ni se limita a este, se puede proponer como un espacio abierto de experimentación con la espacialidad misma, un lugar sembrado bajo sus propias condiciones, siempre variable, rizomático, colmado de aristas y posibilidades para un intercambio no solo con sus propios elementos ─en gran medida clichés también ultrajados por la dinámica modernista─ como la agricultura, la calma y el bienestar, sino también con las formas del desarrollo y la civilización materialista, como lo son el discurso y la investigación, el arte y la tecnología, la ecología y el pensamiento, de tal forma que se abra así paso para indagar no solo en nuevas formas del espacio, sino también del tiempo, esto es: un futurismo, como plantea el investigador y curador Leandro Pisano a partir de proyectos iniciados hace más de 10 años en el festival Interferenze de nuevas artes y su evolución en proyectos de arte electrónico y sonoro como Mediaterrae Vol.1, Barsento Mediascape y Liminaria, este último curado junto a la teórica Beatrice Ferrara, y pensado como una plataforma abierta de investigación, dedicada específicamente al desarrollo de prácticas de arte y tecnología en espacios limítrofes a las grandes ciudades, zonas rurales principalmente del Sur de Italia, en lugares como el área periférica de Palermo, Irpinia, Sannio, Cilento, Fortore, la región de Campania, entre otras.
+
+Su idea de un futurismo rural, aunque apoyada en múltiples investigaciones y procesos teóricos relacionados con la post-colonialidad, la reconfiguración política de los territorios y las artes propias de la tecnocultura, es un proceso que nace ante todo desde el ejercicio de la percepción y la indagación práctica, de la experiencia y el encuentro mediante la creación. Propone en este sentido una postura decolonial desde su método mismo de funcionamiento, prescindiendo de la exclusividad que suele asignarse al logocentrismo y la primacía del discurso académico a la hora de investigar, para proponer las artes y la apropiación (rural) de la tecnología como estrategias de exploración, indagación y especulación, teniendo como idea central de generar una «intersección entre la cultura rural y la tecnología con la finalidad de explorar territorios rurales, considerados invisibles o destinados a la desaparición por discursos del modernismo y el capitalismo contemporáneo, para convertirlos en espacios y lugares de acción e imaginación de futuros posibles».
+
+No es pues el futurismo imperial y fascista de las máquinas industriales y se trata más de las lucha por los futuros alternos presentados en el panorama poscolonial «en los cuales las tecnologías se convierten en herramientas de consciencia y resistencia para afirmar una serie de contra-narrativas en relación a posiciones de desigualdad y diferencia», asumiendo la ruralidad en términos de una danza de coexistencias, aliadas y en conflicto, que revelan sus entornos como una dimensión compleja, principalmente en términos de su significación para el antropoceno y con ello la apertura a un diálogo abierto entre máquinas, comunidades humanas, dinámicas del pasado y formas no-humanas. Es por ello que el reto no radica en lo rural como objeto de estudio aplicado a métodos típicos de exploración, sino que, al no ser considerado desde un análisis confinado a un método positivista, sus métodos varían, en este caso rechazando la primacía del logos como dispositivo crítico único y optar por una búsqueda epistemológica mediante otras tecnologías, saberes y procesos, en el caso del futurismo rural, marcado radicalmente por la cuestión sonora y la escucha, entendidas como vías de conocimiento a la hora de asumir paradigmas y discursos establecidos.
+
+Las residencias y procesos artísticos que ha llevado Pisano y su equipo, se ha desarrollado a partir de varias ediciones y eventos en los últimos años, integrando artistas sonoros, de nuevos medios, poetas, investigadores y todo tipo de colectivos y agentes artísticos internacionales que han explorado las diversas posibilidades de estos territorios rurales, haciendo un particular énfasis en la cuestión de lo sonoro principalmente por ser este «una herramienta de investigación en sí misma, que permite abordar varios procesos culturales, sociales, económicos y ecológicos más allá de lo meramente «visual», con ello accediendo a capas imperceptibles a la vista».
+
+La escucha se revela así como un proceso acustemológico, esto es, una forma sónica de conocimiento, que además interpela al artista en cuanto tal y lo conduce fuera de la galería y de las burbujas del arte de la ciudad, creando una invitación a sumergirse y moldearse desde otras geografías y comunidades. La sonoridad es en este caso una puerta no al futuro, sino a la incubación de múltiples formas del tiempo mismo, una oportunidad para recuperar la consciencia sobre las posibilidades del hábitat rural, sus formas y expresiones, cuestionando la idea misma de la separación y la frontera, al tiempo que se aprovecha la distinción para que emerja la resistencia: lo rural como vientre de realidades, de futuros posibles, de otros mundos.
+
+## Manifiesto del Futurismo Rural
+
+Escrito por Beatrice Ferrara y Leandro Pisano.
+
+### I.
+
+El “Futurismo rural” es un reto dirigido a los actuales discursos sobre la ruralidad en tanto auténtica, utópica, anacrónica, provincial, tradicional y estable, y las lógicas binarias que sustentan tales discursos: pertenencia vs. alienación, desarrollo vs. retroceso.
+
+### II.
+
+Un enfoque crítico de la ruralidad es necesario, hoy más que nunca; imaginar otros futuros para las comunidades, territorios y espacios rurales más allá de la dicotomía de “otredad” vs. “identidad”.
+
+### III.
+
+Se torna evidente que la ruralidad hoy día no puede verse meramente como un espacio geográfico; en vez de ello ha de ser vista como una expresión de “posicionalidad”, en términos de la actual posición política.
+
+### IV.
+
+Necesitamos entender las zonas rurales como espacios complejos activamente envueltos en el dinamismo de encuentros, corrientes y flujos de las geografías contemporáneas, y cuestionar de forma crítica discursos modernos de capitalismo y metropolitanismo en las cuales los territorios rurales son marginalizados y considerados como condenados al olvido.
+
+### V.
+
+El “Futurismo rural” asume la compleja dinámica entre el territorio rural y el espacio urbano a través de la tecnocultura, abarcando un abanico de asuntos como “generación” y “tiempo” dentro de las comunidades locales (despoblación, movimiento, resiliencia y herencia cultural) y las características geofísicas de los lugares (distanciamiento, viento, energía, infraestructura y/o falta de estos).
+
+### VI.
+
+Diferentes formas de vida (humanas y no-humanas) existen e insisten en un territorio, cualquiera que sea, y están mutuamente implicadas entre sí. Algunas veces, co-existen mutuamente de formas pacíficas; en otras ocasiones, están en conflicto unas con otras. Las coexistencias en conflicto son también valiosas, en tanto generan “zonas grises” dentro de un territorio rural, las cuales pueden productivamente retar cualquier noción heredada de “entorno”, “naturaleza”, y “ecología”. A través de sus co-existencias (y co-existencias en conflicto), el territorio rural puede de hecho abordarse de otra manera, dejando a un lado clichés contemplativos, románticos o decadentes con respecto a la ruralidad.
+
+### VII.
+
+Incluso aunque las narrativas dominantes insisten en que los espacios rurales deberían ser relegados a un espaciotiempo que solo puede traer involución, hay muchas prácticas ─ teóricas, artísticas, agrícolas y tecnológicas ─ que atestiguan la resistencia potencial de la ruralidad.
+
+### VIII.
+
+El “Futurismo Rural” es una perspectiva crítica, en la cual convergen múltiples puntos de vista (y escucha): el arte, y más específicamente las tecno-culturas, proveen nuevas y notables maneras de repensar lo que la “ruralidad” es (y podría ser). De esta forma, las áreas rurales pueden convertirse en espacios de experimentación, performatividad, investigación crítica y cambio. Es posible crear escenarios futuros, comenzando con el ensamblaje de lo visto y lo no visto, de elementos humanos y no-humanos. Estos objetos, materiales, diálogos, infraestructuras relacionales y tecnologías, dan forma a (y están formadas por) modos específicos de gobernanza.
+
+### IX.
+
+A través de la práctica de la escucha es posible obtener un sentido de la complejidad y la dinámica desde la cual el territorio se revela a sí mismo mediante formas inesperadas y perspectivas diferentes. Esto enfatiza el valor y los valores de “escucha profunda” en aras de sentir las diferentes topologías de un territorio rural. Tonos, armonías y disonancias vibran mientras estos procesos tienen lugar, y pueden ser registrados a través de un enfoque “acustemológico”.
+
+### X.
+
+En su materialidad, el sonido nos invita a experimentar las locaciones rurales y lugares abandonados como espacios en los cuales cuestionar nuestra acercamiento a la historia y el paisaje, nuestro sensación de vivir en un lugar específico y la relación que tenemos con este. El sonido de entornos, espacios y paisajes revela los retos y transformaciones territoriales que informan los ecosistemas ideológicos, infraestructurales y biológicos de los que formamos parte. En este sentido, las prácticas de escucha se despliegan como una manera de atravesar críticamente los “territorios fronterizos” de los entornos rurales, retando las nociones insistentes de “marginalidad inescapable”, “residualidad” y “periferia”.
+
+## Autores
+
+Beatrice Ferrara es una investigadora independiente, PhD en Estudios Culturales y Postcoloniales. Se dedica a la enseñanza e investigación en medios y estudios culturales, con un enfoque en la tecnocultura desde una perspectiva transcultural, habiendo publicado extensivamente en journals y colecciones de ensayos. Ha sido curadora, junto a Leandro Pisano, del proyecto Liminaria.
+
+Leandro Pisano. PhD en Estudios Culturales y Post-Coloniales. Curador, escritor e investigador independiente, interesado particularmente en la ecología política de los territorios rurales, marginales y remotos. Ha curado varias exhibiciones de arte sonoro al rededor del mundo y es . Autor del libro Nuove geografie del suono. Spazi e territori nell’epoca postdigitale («Nuevas geografías del sonido. Espacios y territorios en la era post-digital»).
+
+Introducción y traducción al Español por eme isaza bajo autorización y revisión de sus autores.
+
+Versión en Inglés e Italiano: A Manifesto of Rural Futurism. Rethinking a New Rurality
+
+12 notas para el ambient futuro
+
+© 2026
+
+con ♡ en momoto`,
+        author: 'Beatrice Ferrara y Leandro Pisano',
+        date: '2022-04-29'
     },
 ];
