@@ -2,8 +2,9 @@ import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
 const NodeContainer = styled.div`
-  position: absolute;
-  width: 420px;
+  position: relative;
+  width: 100%;
+  max-width: 450px;
   cursor: pointer;
   transition: transform 0.2s ease, filter 0.2s ease;
   z-index: 1;
@@ -12,7 +13,6 @@ const NodeContainer = styled.div`
 const Thumbnail = styled.div`
   width: 100%;
   aspect-ratio: 1;
-  /* Removed border-radius for square look */
   overflow: hidden;
   position: relative;
   transition: filter 0.3s ease, box-shadow 0.3s ease;
@@ -34,7 +34,6 @@ const Thumbnail = styled.div`
   }
 
   ${NodeContainer}:hover & img {
-    /* transform: scale(1.1); Removed scale on hover */
     opacity: 0.1; /* More ghost-like transparency */
     filter: blur(2px); /* Subtle blur to enhance ghostly feel */
     transform: scale(1.05); /* Very subtle movement */
@@ -73,30 +72,9 @@ const Meta = styled.div`
   letter-spacing: 1px;
 `;
 
-// Plasma texture overlay removed
-
-const ArticleNode = ({ article, index }) => {
-  // Centered grid layout - 2 columns
-  const col = index % 2;
-  const row = Math.floor(index / 2);
-
-  // Center the grid and make items larger
-  const columnWidth = 450;
-  const rowHeight = 500;
-  const gridWidth = columnWidth * 2;
-
-  // Calculate centered position
-  const startX = `calc(50% - ${gridWidth / 2}px)`;
-  const offsetX = col * columnWidth;
-  const offsetY = row * rowHeight;
-
+const ArticleNode = ({ article }) => {
   return (
-    <NodeContainer
-      style={{
-        left: `calc(${startX} + ${offsetX}px)`,
-        top: `${offsetY}px`
-      }}
-    >
+    <NodeContainer>
       <Thumbnail>
         <img src={article.thumbnail} alt={article.title} />
         <Overlay>

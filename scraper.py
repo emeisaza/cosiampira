@@ -72,9 +72,16 @@ def extract_content(html_content, url):
     
     raw_content = content_match.group(1) if content_match else ""
     
+    # Preserve footnotes before cleaning tags
+    # Handle sup tags like <sup><a href="#fn1" id="ref1">1</a></sup>
+    content = re.sub(r'<sup[^>]*>.*?<a[^>]*>(.*?)</a>.*?</sup>', r'[^\1]', raw_content)
+    
+    # Also handle straight sup tags
+    content = re.sub(r'<sup[^>]*>(.*?)</sup>', r'[^\1]', content)
+
     # Convert HTML to Markdown-ish text
     # Replace headers
-    content = re.sub(r'<h1[^>]*>(.*?)</h1>', r'# \1\n\n', raw_content)
+    content = re.sub(r'<h1[^>]*>(.*?)</h1>', r'# \1\n\n', content)
     content = re.sub(r'<h2[^>]*>(.*?)</h2>', r'## \1\n\n', content)
     content = re.sub(r'<h3[^>]*>(.*?)</h3>', r'### \1\n\n', content)
     content = re.sub(r'<h4[^>]*>(.*?)</h4>', r'#### \1\n\n', content)
@@ -82,10 +89,24 @@ def extract_content(html_content, url):
     # Replace paragraphs
     content = re.sub(r'<p[^>]*>(.*?)</p>', r'\1\n\n', content, flags=re.DOTALL)
     
+    # Handle footnote list items (usually in a div/ol with class footnotes or similar, or just at bottom)
+    # The current regex for LI might destroy the id/href needed to identify it.
+    # We'll try to guess based on structure if we can't parse full HTML structure cleanly with regex.
+    # But usually footnotes are like: <li id="fn1"> ... <a href="#fnref1">↩︎</a></li>
+    
+    def repl_footnote(match):
+        text = match.group(1)
+        # Check if text starts with a number or we can infer it? 
+        # Actually proper footnotes in HTML usually have an id.
+        # But for now, let's just make sure <li> becomes - generally.
+        return f"- {text}\n"
+
     # Replace list items
-    content = re.sub(r'<li[^>]*>(.*?)</li>', r'- \1\n', content, flags=re.DOTALL)
+    content = re.sub(r'<li[^>]*>(.*?)</li>', repl_footnote, content, flags=re.DOTALL)
     content = re.sub(r'<ul[^>]*>', r'\n', content)
     content = re.sub(r'</ul>', r'\n', content)
+    content = re.sub(r'<ol[^>]*>', r'\n', content)
+    content = re.sub(r'</ol>', r'\n', content)
     
     # Remove remaining tags
     content = re.sub(r'<[^>]+>', '', content)
@@ -96,6 +117,9 @@ def extract_content(html_content, url):
     # Cleanup whitespace
     content = re.sub(r'\n\s+\n', '\n\n', content)
     content = content.strip()
+    
+    # Post-processing: try to fix footnote definition format if possible
+    # Not easy without seeing exact HTML. But this at least keeps [^1] in text.
     
     # Add title as H1 at top if missing
     if not content.startswith('# '):
@@ -139,5 +163,5 @@ for article in articles:
     js_content += "    },\n"
 js_content += "];\n"
 
-with open('/Users/m/Documents/cosiampira/cosiampira/src/data/articles.js', 'w') as f:
+with open('src/data/articles.js', 'w') as f:
     f.write(js_content)

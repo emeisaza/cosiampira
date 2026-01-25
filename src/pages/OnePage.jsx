@@ -81,7 +81,18 @@ const DriftSpace = styled.div`
   position: relative;
   width: 100%;
   min-height: 100vh;
-  transition: height 0.3s ease;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  justify-items: center;
+  padding-bottom: 4rem;
+
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 900px;
+    margin: 0 auto;
+    gap: 4rem;
+  }
 `;
 
 const AboutSection = styled.section`
@@ -289,24 +300,68 @@ const OnePage = () => {
     }
   }, [slug, navigate]);
 
-  // Calculate grid height to prevent overlap
-  // 2 columns, 500px row height, plus some top/bottom padding
-  const ROW_HEIGHT = 500;
-  const totalRows = Math.ceil(articles.length / 2);
-  const gridHeight = totalRows * ROW_HEIGHT + 200;
+  // Grid layout logic moved to CSS
 
-  // Simple markdown renderer
+
+  // Simple markdown renderer with footnote support
+  const parseInline = (text) => {
+    // Split by footnote references like [^1], [^23]
+    const parts = text.split(/(\[\^\d+\])/);
+    return parts.map((part, index) => {
+      const match = part.match(/^\[\^(\d+)\]$/);
+      if (match) {
+        const num = match[1];
+        return (
+          <sup key={index} id={`ref-${num}`}>
+            <a
+              href={`#fn-${num}`}
+              onClick={(e) => {
+                e.preventDefault();
+                const element = document.getElementById(`fn-${num}`);
+                if (element) {
+                  element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                  // Highlight effect
+                  element.style.backgroundColor = 'rgba(255, 255, 255, 0.1)';
+                  setTimeout(() => element.style.backgroundColor = 'transparent', 1000);
+                }
+              }}
+              style={{
+                color: 'var(--color-accent)',
+                textDecoration: 'none',
+                marginLeft: '2px',
+                cursor: 'pointer'
+              }}
+            >
+              [{num}]
+            </a>
+          </sup>
+        );
+      }
+      return part;
+    });
+  };
+
   const renderContent = (content) => {
     const lines = content.split('\n');
     const elements = [];
     let currentParagraph = [];
     let listItems = [];
     let inList = false;
+    let inFootnotes = false;
+    let footnoteIndex = 0;
 
     lines.forEach((line, i) => {
+      // Check for footnote section headers
+      if (line.match(/^##\s+.*(NOTAS|REFERENCIAS|BIBLIOGRAFÍA|Notes|References)/i) ||
+        line.includes('NOTAS DE TRADUCCIÓN')) {
+        inFootnotes = true;
+      }
+
+      const processText = (text) => parseInline(text);
+
       if (line.startsWith('# ')) {
         if (currentParagraph.length > 0) {
-          elements.push(<p key={`p-${i}`}>{currentParagraph.join(' ')}</p>);
+          elements.push(<p key={`p-${i}`}>{currentParagraph}</p>);
           currentParagraph = [];
         }
         if (inList && listItems.length > 0) {
@@ -314,10 +369,10 @@ const OnePage = () => {
           listItems = [];
           inList = false;
         }
-        elements.push(<h1 key={i}>{line.substring(2)}</h1>);
+        elements.push(<h1 key={i}>{processText(line.substring(2))}</h1>);
       } else if (line.startsWith('## ')) {
         if (currentParagraph.length > 0) {
-          elements.push(<p key={`p-${i}`}>{currentParagraph.join(' ')}</p>);
+          elements.push(<p key={`p-${i}`}>{currentParagraph}</p>);
           currentParagraph = [];
         }
         if (inList && listItems.length > 0) {
@@ -325,10 +380,10 @@ const OnePage = () => {
           listItems = [];
           inList = false;
         }
-        elements.push(<h2 key={i}>{line.substring(3)}</h2>);
+        elements.push(<h2 key={i}>{processText(line.substring(3))}</h2>);
       } else if (line.startsWith('### ')) {
         if (currentParagraph.length > 0) {
-          elements.push(<p key={`p-${i}`}>{currentParagraph.join(' ')}</p>);
+          elements.push(<p key={`p-${i}`}>{currentParagraph}</p>);
           currentParagraph = [];
         }
         if (inList && listItems.length > 0) {
@@ -336,18 +391,43 @@ const OnePage = () => {
           listItems = [];
           inList = false;
         }
-        elements.push(<h3 key={i}>{line.substring(4)}</h3>);
+        elements.push(<h3 key={i}>{processText(line.substring(4))}</h3>);
       } else if (line.match(/^\d+\.\s/) || line.startsWith('- ')) {
         if (currentParagraph.length > 0) {
-          elements.push(<p key={`p-${i}`}>{currentParagraph.join(' ')}</p>);
+          elements.push(<p key={`p-${i}`}>{currentParagraph}</p>);
           currentParagraph = [];
         }
         inList = true;
         const text = line.replace(/^\d+\.\s/, '').replace(/^-\s/, '');
-        listItems.push(<li key={`li-${i}`}>{text}</li>);
+
+        let itemContent = processText(text);
+        let itemProps = { key: `li-${i}` };
+
+        if (inFootnotes) {
+          footnoteIndex++;
+          itemProps.id = `fn-${footnoteIndex}`;
+          // Append back link
+          itemContent = (
+            <>
+              {itemContent}
+              <a
+                href={`#ref-${footnoteIndex}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  document.getElementById(`ref-${footnoteIndex}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }}
+                style={{ marginLeft: '10px', textDecoration: 'none', cursor: 'pointer' }}
+              >
+                ↩
+              </a>
+            </>
+          );
+        }
+
+        listItems.push(<li {...itemProps}>{itemContent}</li>);
       } else if (line.trim() === '') {
         if (currentParagraph.length > 0) {
-          elements.push(<p key={`p-${i}`}>{currentParagraph.join(' ')}</p>);
+          elements.push(<p key={`p-${i}`}>{currentParagraph}</p>);
           currentParagraph = [];
         }
         if (inList && listItems.length > 0) {
@@ -361,12 +441,17 @@ const OnePage = () => {
           listItems = [];
           inList = false;
         }
-        currentParagraph.push(line);
+        // Accumulate paragraph text with parsing
+        if (currentParagraph.length > 0) {
+          // Add space between lines
+          currentParagraph.push(' ');
+        }
+        currentParagraph.push(processText(line));
       }
     });
 
     if (currentParagraph.length > 0) {
-      elements.push(<p key="final-p">{currentParagraph.join(' ')}</p>);
+      elements.push(<p key="final-p">{currentParagraph}</p>);
     }
     if (inList && listItems.length > 0) {
       elements.push(<ul key="final-ul">{listItems}</ul>);
@@ -405,14 +490,12 @@ const OnePage = () => {
               <CatalogTitle>ARCHIVO</CatalogTitle>
             </CatalogHeader>
 
-            <DriftSpace style={{ height: `${gridHeight}px` }}>
+            <DriftSpace>
               {articles.map((article, index) => (
-                <div key={article.id} onClick={() => handleArticleClick(article)}>
+                <div key={article.id} onClick={() => handleArticleClick(article)} style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
                   <ArticleNode
                     article={article}
                     index={index}
-                    containerWidth={dimensions.width}
-                    containerHeight={dimensions.height}
                   />
                 </div>
               ))}
