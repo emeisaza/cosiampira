@@ -49,7 +49,7 @@ def extract_content(html_content, url):
     if "baudrillard" in url: author = "Palais Sinclaire"
     if "no-es-nada" in url: author = "David Toop"
     if "devenir" in url: author = "eme isaza"
-    if "senderos" in url: author = "François J. Bonnet"
+    if "senderos" in url: author = "Émilie Gillet"
     if "el-tiempo" in url: author = "Éliane Radigue"
     if "sintesis" in url: author = "Maya B. Kronic"
 
