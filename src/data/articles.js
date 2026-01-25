@@ -420,7 +420,7 @@ Sobre los senderos del jardín
 © 2026
 
 con ♡ en momoto`,
-        author: 'Crisálida Cine',
+        author: 'eme isaza',
         date: '2024-10-31'
     },
     {
