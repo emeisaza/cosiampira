@@ -114,6 +114,9 @@ def extract_content(html_content, url):
     # Decode entities
     content = html.unescape(content)
     
+    # Remove existing back-arrow characters that might be in the source HTML text
+    content = re.sub(r'↩︎?', '', content)
+    
     # Cleanup whitespace
     content = re.sub(r'\n\s+\n', '\n\n', content)
     content = content.strip()
