@@ -76,7 +76,7 @@ Beatrice Ferrara es una investigadora independiente, PhD en Estudios Culturales
 
 Leandro Pisano. PhD en Estudios Culturales y Post-Coloniales. Curador, escritor e investigador independiente, interesado particularmente en la ecología política de los territorios rurales, marginales y remotos. Ha curado varias exhibiciones de arte sonoro al rededor del mundo y es . Autor del libro Nuove geografie del suono. Spazi e territori nell’epoca postdigitale («Nuevas geografías del sonido. Espacios y territorios en la era post-digital»).
 
-Introducción y traducción al Español por Miguel Isaza bajo autorización y revisión de sus autores.
+Introducción y traducción al Español por eme isaza bajo autorización y revisión de sus autores.
 
 Versión en Inglés e Italiano: A Manifesto of Rural Futurism. Rethinking a New Rurality
 
@@ -149,7 +149,7 @@ Lawrence English es un productor de música y comanda el sello Room40.
 
 Artículo extraído de ‘Ambient music at 40‘,  publicado en FACT Magazine en Febrero de 2018.
 
-Traducción por Miguel Isaza bajo autorización del autor.
+Traducción por eme isaza bajo autorización del autor.
 
 Manifiesto del Futurismo Rural
 
@@ -257,7 +257,7 @@ Seduciendo a Baudrillard
 © 2026
 
 con ♡ en momoto`,
-        author: 'Miguel Isaza',
+        author: 'eme isaza',
         date: '2022-06-29'
     },
     {

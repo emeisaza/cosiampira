@@ -54,8 +54,7 @@ def extract_content(html_content, url):
     if "sintesis" in url: author = "Maya B. Kronic"
 
     # Normalize 'Miguel Isaza' to 'eme isaza' generally in author field
-    if "Miguel Isaza" in author:
-        author = author.replace("Miguel Isaza", "eme isaza")
+    author = re.sub(r'Miguel Isaza', 'eme isaza', author, flags=re.IGNORECASE)
 
     # Extract Image
     image = "/thumbnails/default.jpg"
@@ -122,7 +121,7 @@ def extract_content(html_content, url):
     content = re.sub(r'↩︎?', '', content)
 
     # General replacements in content
-    content = content.replace("Miguel Isaza", "eme isaza")
+    content = re.sub(r'Miguel Isaza', 'eme isaza', content, flags=re.IGNORECASE)
     
     # Cleanup whitespace
     content = re.sub(r'\n\s+\n', '\n\n', content)
