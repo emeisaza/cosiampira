@@ -3,7 +3,7 @@ export const articles = [
         id: 9,
         slug: 'sintesis-de-genero',
         title: "S\u00edntesis de G\u00e9nero",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2026/01/gs.png',
+        thumbnail: '/thumbnails/sintesis de genero.png',
         content: `# Síntesis de Género
 
 A quién le importa. Es difícil de explicar. Digamos que desde antes de empezar la transición, M[…] lleva esbozando mentalmente un fanzine que exponga claramente y lo resuelva todo sobre este tema. […] Cuando eres trans, se supone que lo sabes todo sobre los hombres y todo sobr las mujeres y su forma de interactuar […] ¿Y cuando recién transitas? Crees que lo sabes todo […] Y sólo quieres hablar de ello, todo el tiempo, porque te sientes como en una revelación […] Ya luego, tras haberte sentido muy inteligente y perspicaz durante un buen rato, empiezas a darte cuenta de que todas tus percepciones son un poco estúpidas […].Hay tantas variables que es como si vieras todas las construcciones, todas las conexiones, y más o menos las entendieras, pero si alguna vez consideras intentar darles sentido, será mejor que lo hagas en una cueva en una montaña en algún lugar lejos de otras personas […] Todo esto del género es estúpido y es tan complicado que es imposible darle sentido.
@@ -94,6 +94,8 @@ No es que yo haya crecido como hombre y tenga una pequeña femúncula de mujer
 
 Y, nuevamente, hay una cuestión de temporalidad, porque el proceso naturalmente lleva a tratar de explicar las cosas en términos de “esa parte de mí que siempre estuvo ahí, pero que no podía o no sabía encontrar”. Y hay algo de verdad en eso. De hecho, hay algo que “siempre estuvo ahí”, pero no es una imagen plenamente formada del “verdadero yo” esperando salir, es más bien como un pálpito. Es un conjunto de tensiones entre el cuerpo que habitas y el cuerpo que podrías ser, o las cosas en las que tu cuerpo desea desplegarse. Todo esto—la transición, el movimiento, la navegación—es trabajo trans, es una labor en el sentido alquímico. No simplemente te “liberas”: tienes que hacer un esfuerzo continuo para atravesar este terreno, y transformar los elementos del mismo.
 
+![Síntesis de Género](/thumbnails/gs synth.png)
+
 Volviendo a la asimetría entre transmasc y transfem: Obviamente me alegra escapar de ser hombre, y he dicho que se trata realmente de abrir un campo más allá de lo binario. Pero tuve una larga conversación con un amigo transmasculino que fue bastante chistosa, porque me demostró cómo su viaje no fue de ninguna manera uno «opuesto» al mío. No, podemos llevar otra dimensión la forma de entenderlo, hemos de pensarlo de otra manera. Lxs dos hablábamos básicamente de la misma experiencia, compartiendo detalles y riéndonos –sí, así es como se siente, sí, eso es lo que se siente–, pero luego llegábamos a ciertos puntos él me decía «Ahora me agrada ir a una tienda y no tener que mirar la sección de ropa de mujer», y le respondía «¿Qué? ¿Me estás jodiendo? La sección de hombres es tan monótona y aburrida, ¡todas esas prendas son como una prisión! Me costó ponerme en el lugar de ver las cosas al revés. Hablaba de cómo, cuando era adolescentes, odiaba tener tirantes en el bra, esos tirantes de espagueti, “Yo sentía que me cortaban y tenía que ir al baño y quitármelos para liberarme durante un minuto.” Esos tirantes son un ejemplo de prendas codificadas como femeninas que he llevado y he experimentado algo que he visto en las mujeres, pero que ahora siento «desde dentro» como fuente de euforia. Fue para mí una experiencia placentera por ser un remapeo de mi cuerpo a partir de algo que había visto desde la distancia con placer o anhelo pero que nunca había soñado que yo misma podría sentir. Durante esta conversación empecé a comprender poco a poco las razones por las que alguien desearía ir en la dirección «opuesta» a la mía, a la vez que comprendía que no hay «opuesto» porque ambxs estamos haciendo lo mismo, sumergiéndonos en el huevo. Pero aún así hay una asimetría. La asimetría es que, en general, los hombres no están anclados a un cuerpo del mismo modo que las mujeres. De la misma manera que Frantz Fanon habla de la doble identidad en el caso de la raza, que un individuo negro no puede ser sólo un individuo, además es consciente de estar apareciendo ante los demás como una persona negra, por lo que siempre tiene dos identidades con las que tiene que lidiar y entre las que tiene que moverse. No puedes salir a la calle y ser una persona neutral entre la gente, porque también eres Negra. La experiencia de una mujer como sujeto es algo similar: no puedes ser simplemente una persona, siempre eres también una mujer, y en determinados momentos vas a ser consciente de que eres una mujer y de cuál es el papel social y la posición social de la mujer. Una parte de lo que impulsa la disforia de muchos transmascs parece ser que no quieren ser siempre interpolados como mujeres: “Sólo quiero ser una persona, en realidad me gustaría poder ser ese sujeto invisible, básico.” A algunas personas les toca ser dobles, lo cual es trabajo extra. Los hombres (blancos) no tienen que hacerlo y creo que la ropa de hombre lo refleja: la ropa de hombre te ayuda a convertirte en ese sujeto básico por defecto y desaparecer en lo neutro. Algo que para mí es una imposición angustiosa y desagradable, pero que para otrxs es una liberación.
 
 Otro aspecto de la asimetría era que, para mí, gran parte del énfasis radica en poder sentir mi cuerpo, mientras que para mi amigo, como transmasculino, el enfoque estaba en gran medida en lo que podía hacer gracias a su cuerpo: “Quiero vestirme de una forma que me permita ir a dar un paseo en bici y ensuciarme, quiero vestirme de una forma que me permita ir al pub a ver el rugby sin que nadie me mire y pasar desapercibido.” Muchas de las situaciones que para mí eran horribles porque implicaban tener que ‘ser un hombre’ y que me hacían sentir muy llamativo, para él eran una oportunidad de ser un hombre entre hombres y no estar sujeto a que la mirasen ‘como a una mujer’ todo el tiempo. A la inversa, aunque ahora probablemente llame más la atención por mi forma de vestir, me siento mucho más tranquila y relajada socialmente porque no intento «ser un hombre» y doy una señal clara de que no voy a entrar en ese juego….
@@ -106,15 +108,21 @@ Esto también nos lleva al concepto de autoginefilia, que es muy poco popular en
 
 En mi diagrama he conservado los estratos del primer modelo que he mencionado –tienes estas diferentes temporalidades, la filogénesis, que es el proceso de evolución que produce la reproducción sexual dimórfica, algo que está ya codificado en el ADN humano; la ontogénesis, es decir, la producción real de seres humanos, que se da a través de las hormonas que se retroalimentan con la anatomía; la sociogénesis, y la producción del individuo como ser social. Obviamente, en la sociedad actual tenemos esta interfaz entre reproducción sexual y reproducción social en la que la anatomía determina tu identidad institucional: cuando naces te asignan una u otra. Y, por último, eso alimenta tu papel social, que luego afecta tu conducta, la forma en que te comportas como persona.
 
+![Síntesis de Género 1](/thumbnails/sintesis-de-genero-1.png)
+
 Veamos primero este bucle entre el cuerpo virtual, la propiocepción y el acoplamiento (rigging). Rigging puede significar montar una máquina, también significa maquillarse, producirse, ponerse una máscara, hacer una presentación de uno mismo, y también significa el aparejo de un barco. Y creo que está bien usarlo porque el aparejo es lo que te permite izar la vela y moverte. Y aparejar también puede significar manipular las cosas a tu favor.
 
 No creo que se pueda considerar ese primer bucle sin tener en cuenta cómo se conecta con todo lo demás. Es como la persona encerrada en su habitación experimentando por su cuenta, eso no va a ninguna parte, en realidad no basta para «hacer el género». Lo que hace que haya género es este otro bucle:
+
+![Síntesis de Género 2](/thumbnails/sintesis-de-genero-2.png)
 
 Te preparas y te exhibes a través de la infraestructura tecnológica. ‘Tecnología’ puede significar cualquier cosa: hace trescientos años podía ser que vas a la plaza del pueblo, que también es una tecnología social. Sin embargo, hoy en día las redes sociales son bastante rápidas y esa velocidad marca la diferencia. Sea cual sea el caso, te presentas a través de la infraestructura tecnológica. Entonces has asumido un compromiso en el ámbito social que retroalimenta las actitudes de los demás hacia ti y su confirmación de quién eres; te has presentado socialmente, y entonces logras este proceso de ratificación colectiva: los demás te reconocen y dicen sí, ahora te reconocemos ocupando un lugar diferente en nuestro esquema conceptual y nuestras prácticas.
 
 Todo eso ocurre gracias a la tecnología, y lo interesante de la tecnología es que atraviesa todos esos estratos. La tecnología no pertenece a lo personal, lo social, lo biológico o lo evolutivo, es algo que puede intervenir en todos estos niveles. Eso es lo asombroso del desarrollo de la cultura humana, que dispone de herramientas capaces de intervenir en todos esos niveles.
 
 La ratificación colectiva también plantea nuevas exigencias a la tecnología. Al enviar nuevas señales sobre el género a la esfera social, también estás produciendo deseo, estás ayudando a crear una demanda de nuevas tecnologías que hagan posible el género de diferentes maneras. Obviamente, hay intervenciones a nivel de presentación cosmética mediada, hay intervenciones a nivel de las hormonas, tal vez habrá intervenciones a nivel del ADN. Pero el punto es que este bucle social no sólo se está expandiendo de ser una cosa personal a ser una cosa social, sino que también está impulsando el cambio en términos de lo que la tecnología hace al intervenir.
+
+![Síntesis de Género 3](/thumbnails/sintesis-de-genero-3.png)
 
 Y, obviamente, todo esto también va a parar a la memoria social, es decir, al archivo colectivo de todo lo que sabemos sobre nosotrxs mismxs y sobre lxs demás. Esa memoria social también está cambiando el abanico de roles de género disponibles. Por lo tanto, este proceso de sociogénesis también es eficaz a la hora de moldear la realidad, porque en el futuro habrá, como mínimo, un rango más amplio de roles sociales que se te puedan asignar.
 
@@ -178,9 +186,13 @@ Hay otra forma de pensar en la transplasticidad en relación con el sonido, y es
 
 Una de los más brillantes entrenadoras de voz en YouTube, transvoicelessons, procede en su primera lección de tono a peso a resonancia, literalmente como un curso de sintetizadores, introduciendo a todos los parámetros, pero con la dificultad adicional de que no hay perillas para girar. Aprender a controlar cada uno de estos parámetros de forma aislada es una cuestión que requiere estar muy atentx a la retroalimentación de tu propix cuerpx y oídos, y una gran cantidad de práctica. Antes de poder controlar e interpretar tu propia música, tienes que aprender a oír. Una vez más, tenemos un bucle de retroalimentación pragmática.
 
-La voz humana es producida (simplificando un poco) por dos cámaras de resonancia, y sólo aprendiendo a sentir, atender y discriminar entre estos espacios de tu cuerpx y conocer cómo pueden ser alterados, puedes esperar aprender a controlarlos y volver a trazar la relación entre tu género, tus intenciones vocales y la producción sonora e tu cuerpx.
+La voz humana es producida (simplificando un poco) por dos cámaras de resonancia, y sólo aprendiendo a sentir, atender y discriminar entre estos espacios de tu cuerpx y conocer cómo pueden ser alterados, puedes esperar aprender a controlarlos y volver a trazar la relación entre tu género, tus intenciones vocales y la producción sonora en tu cuerpx.
+
+![Género Síntesis 2](/thumbnails/genero-sintesis-2.png)
 
 De lo que estamos hablando aquí es de acceder a tu sintetizador vocal, a tu voz-huevo. Y, una vez más, lo que tienes que hacer cuando perseveres en este difícil proceso es mantener la mirada en el horizonte, en la continuidad ideal del huevo de voz, mientras empiezas pragmáticamente desde donde estás, aprendiendo a construir tu sensibilidad hacia el instrumento que estás tocando —tu voz— y, a través de la práctica, desarrollando la capacidad de navegar, de ser capaz de reconocer los parámetros y ajustar deliberadamente los mandos y diales de tu sintetizador vocal.
+
+![Género Síntesis 1](/thumbnails/genero-sintesis-1.png)
 
 ## REFERENCIAS
 
@@ -238,7 +250,7 @@ con ♡ en momoto`,
         id: 8,
         slug: 'el-tiempo-no-tiene-importancia',
         title: "El tiempo no tiene importancia",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2025/02/Dayal_ElianeRadigue_2.jpg',
+        thumbnail: '/thumbnails/el tiempo no tiene importancia.jpg',
         content: `# El tiempo no tiene importancia
 
 El tiempo no tiene importancia. Lo que cuenta es la duración necesaria para que se desarrolle sin fisuras. Mi música evoluciona orgánicamente. Es como una planta. Nunca vemos que una planta se mueva, pero crece continuamente. Como las plantas, inmóviles, pero siempre en crecimiento, mi música nunca es estable. Siempre está cambiando. Pero los cambios son tan sutiles que son casi imperceptibles y solo se hacen evidentes tras del hecho. Esta música, tal como la concibo, no puede contener ninguna interrupción. Por eso la estructura es muy simple, basada en el uso de fundidos: fundido de entrada, fundido de salida y fundido cruzado. Por cierto, cuando solía hacer estos fundidos a mano, utilizando grabadoras de cinta magnética, el resultado parecía mucho más sutil que los fundidos digitales que se utilizan hoy en día, que me parecen demasiado mecánicos.
@@ -273,7 +285,7 @@ con ♡ en momoto`,
         id: 7,
         slug: 'sobre-los-senderos-del-jardin',
         title: "Sobre los senderos del jard\u00edn",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/12/jardin-senderos.jpg',
+        thumbnail: '/thumbnails/sobre los senderos del jardin.jpg',
         content: `# Sobre los senderos del jardín
 
 ¿Cual práctica consiste en encontrar cosas –en este caso, sistemas para producir sonidos o lo que sea que pueda extraerse o introducirse mediante sonidos– y luego presentárselas a los músicos?
@@ -321,7 +333,7 @@ con ♡ en momoto`,
         id: 6,
         slug: 'devenir-y-deriva',
         title: "Devenir y Deriva",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/11/el-origen-de-las-especies-poster.jpg',
+        thumbnail: '/thumbnails/devenir y deriva.jpg',
         content: `# Devenir y Deriva
 
 El tiempo es clave para comprender y alterar. La temporalidad no es un simple flujo; habita en la materia, se entrelaza en sus mutaciones. Aquello que fuimos se entrecruza con el flujo de lo que somos y seremos, aun cuando ni siquiera sepamos que lo somos. Somos monstruxs, seres inmensxs, pequeñxs, etérexs, fugaces o sólidxs. Tenemos múltiples cualidades y estructuras, nos mantenemos o no, da igual el todo, da igual la nada. Estamos en cualquier límite, invadiéndolo toda idea, incluso la del silencio. Entre luz, víscera y concepto; memética y genética se follan entre sí a escondidas de la academia. En la oscuridad, las especies no parecen distinguir entre lo biológico y la manifestación temporal, ideal o relacional. En la penumbra, las especies difuminan las fronteras entre lo biológico y lo ideal, entre materia y conocimiento, en un juego hipersticional que desafía lo fijo y lo categórico. Aquí, las especies devienen en un rito anastrófico, entre la ensoñación y lo real, en hiperobjetividad plena. La función recién comienza.
@@ -398,7 +410,7 @@ con ♡ en momoto`,
         id: 5,
         slug: 'no-es-nada',
         title: "No es nada",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/10/1_Sfm-HujEslWPKPkAhQNaLA.webp',
+        thumbnail: '/thumbnails/no es nada.webp',
         content: `# No es nada
 
 ### débil sonido de algo en su comienzo
@@ -445,7 +457,7 @@ con ♡ en momoto`,
         id: 4,
         slug: 'seduciendo-a-baudrillard',
         title: "Seduciendo a Baudrillard",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2024/07/seducing-baudrillard.png',
+        thumbnail: '/thumbnails/seduciendo a baudrillard.png',
         content: `# Seduciendo a Baudrillard
 
 Este texto fue escrito para la segunda edición del fanzine homónimo realizado por everybodyisagirl, un nuevo proyecto con sede en Londres que está rápidamente ganando terreno con su exploración en torno a being a girl online. Se trata de una pieza derivada de una combinación del trabajo de Achim Szepanski sobre Baudrillard en su libro In the Delirium of the Simulation (Becoming, 2024), así como mi propia investigación y lectura sobre Baudrillard que surgió como parte del capítulo que escribí para una publicación de Zer0 Books en 2025. El tema de este fanzine era la Seducción, que ha sido un aspecto importante de la obra de Baudrillard durante un buen tiempo, así que como ya estábamos siguiendo everybodyisagirl y anhelábamos publicar algo con ellos, cuando anunciaron el tema, fue perfecto. No estaba segura de si la pieza sería apropiada para el fanzine, pero para mi deleite lo fue, y este texto se puede encontrar en la publicación impresa, bellamente diseñada por el equipo de EIAG.
@@ -484,7 +496,7 @@ con ♡ en momoto`,
         id: 3,
         slug: 'eliane-radigue-budismo-voltaje-y-una-escucha-infinita',
         title: "\u00c9liane Radigue: Budismo, Voltaje y una Escucha Infinita",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2022/06/radigue-purple.jpg',
+        thumbnail: '/thumbnails/eliane radigue budismo voltaje y una escucha infinita.jpg',
         content: `# Éliane Radigue: Budismo, Voltaje y una Escucha Infinita
 
 «Para los fieles, una ofrenda, y Para los hambrientos, un medio de sustento, y   Para los apasionados, un balanceo de la mente—   Todo esto surge de la habilidad en la música.» 
@@ -583,13 +595,12 @@ con ♡ en momoto`,
         id: 2,
         slug: '12-notas-para-el-ambient-futuro',
         title: "12 notas para el ambient futuro",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2022/05/music-for-airports.png',
+        thumbnail: '/thumbnails/12 notas para el ambient futuro.png',
         content: `# 12 notas para el ambient futuro
 
 ¿Cuál es el valor del ambient en una época en la que reina la distracción, y la música es a menudo tan solo otro flujo de datos más para filtrar la cotidianidad? Si luchamos por mantener nuestra atención incluso en las más dinámicas experiencias, ¿cómo puede una música de tintes y matices mantener su significado y relevancia? Cuando Eno formalizó el ambient, el mundo que rodeaba la música era radicalmente diferente en casi todos los niveles y aún así, es en las provocaciones iniciales de Eno donde podría encontrarse una comprensión fresca del por qué debería persistir el ambient.
 
 Estas provocaciones tempranas han actuado más como un mantra que como una oportunidad para investigar con respecto a la intención del ambient. En el texto del disco Music for Airports, Eno escribió, «La música ambient debe ser capaz de adaptarse a muchos niveles de atención en la escucha sin forzar uno en particular; debe ser tan ignorable como interesante». Esta frase ‘tan ignorable como interesante’ que se ha hecho eco desde la publicación del disco, siempre me ha parecido problemática en la medida en que contrarresta las palabras precedentes de su declaración. Escuchar es agencia y aplicación; implica que nos involucremos en algo; ignorar la música no es escucharla. No es oír esos sonidos como música, sino dejar que se deslice en el flujo subconsciente de filtrado acústico que es nuestro diario ensueño sónico. Es esta afirmación irresoluta la que siento que desbloquea el núcleo del valor futuro de la música ambient.
-
 Es fundamental comprender cómo la música ambient se encuentra y cómo crea, aumenta e incluso interrumpe los espacios. Cuando escuchamos música ambient, ya sea para trabajar o incluso para dormir, la estamos eligiendo dentro un rango específico de condiciones que puede llevarnos a tomar consciencia en los lugares donde trabajamos y vivimos. Es importante también comprender cómo ese proceso crea una atmósfera temporalmente única que transgrede los límites de nuestro pensamiento y sentimiento interior, y la exterioridad de los lugares en los que nos encontramos. Felicia Atkinson lo resume: «La música ambient se deriva del impresionismo, enfatiza la singularidad de la percepción, y busca crear un entorno imaginativo».
 
 No debe confundirse con la Discreet Music de Eno; el ambient es, en la experiencia, discreto en tanto lugar y tiempo mantienen una relación afectiva con la música y al mismo tiempo con nosotrxs como escuchas. Independientemente de la forma en que se encuentre la música ambient (en los auriculares yendo al trabajo, mientras se cocina en el hogar o en la cama justo antes de dormir) en estos momentos, el lugar y la música interactúan y nuestro rol como escuchas se realiza e idealmente se potencia. Como escuchas, perpetuamente llegamos a la música de nuevas maneras, ya que las relaciones entre ella y los eventos que suceden en paralelo –así como nuestras capacidades para la escucha–, redefinen la dinámica de la composición. Cada impresión, parafraseando a Atkinson, es ligeramente diferente de la anterior y reconocemos claramente la naturaleza de las masas acústicas compuestas. Siempre podemos decir que la niebla es niebla, pero los detalles que existen dentro de ella nunca son idénticos.
@@ -656,7 +667,7 @@ con ♡ en momoto`,
         id: 1,
         slug: 'manifiesto-del-futurismo-rural',
         title: "Manifiesto del Futurismo Rural",
-        thumbnail: 'https://cosiampira.com/wp-content/uploads/2022/04/futurismo-rural.jpg',
+        thumbnail: '/thumbnails/manifiesto del futurismo rural.jpg',
         content: `# Manifiesto del Futurismo Rural
 
 ## Ruralidad

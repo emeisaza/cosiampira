@@ -275,8 +275,63 @@ const Meta = styled.div`
   letter-spacing: 2px;
 `;
 
+const ContentImage = styled.img`
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  margin: 2rem auto;
+  display: block;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  
+  &:hover {
+    transform: scale(1.02);
+  }
+`;
+
+const ImageModalOverlay = styled.div`
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  cursor: pointer;
+  backdrop-filter: blur(5px);
+`;
+
+const FullImage = styled.img`
+  max-width: 90vw;
+  max-height: 90vh;
+  object-fit: contain;
+  border-radius: 4px;
+`;
+
+const CloseModalButton = styled.button`
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 2rem;
+  cursor: pointer;
+  z-index: 2001;
+  opacity: 0.7;
+  
+  &:hover {
+    opacity: 1;
+  }
+`;
+
 const OnePage = () => {
   const [selectedArticle, setSelectedArticle] = useState(null);
+  const [modalImage, setModalImage] = useState(null);
   const [dimensions, setDimensions] = useState({
     width: window.innerWidth,
     height: window.innerHeight
@@ -435,6 +490,31 @@ const OnePage = () => {
           listItems = [];
           inList = false;
         }
+      } else if (line.match(/^!\[(.*?)\]\((.*?)\)/)) {
+        // Handle images
+        if (currentParagraph.length > 0) {
+          elements.push(<p key={`p-${i}`}>{currentParagraph}</p>);
+          currentParagraph = [];
+        }
+        if (inList && listItems.length > 0) {
+          elements.push(<ul key={`ul-${i}`}>{listItems}</ul>);
+          listItems = [];
+          inList = false;
+        }
+        const match = line.match(/^!\[(.*?)\]\((.*?)\)/);
+        const alt = match[1];
+        const src = match[2];
+        elements.push(
+          <ContentImage
+            key={`img-${i}`}
+            src={src}
+            alt={alt}
+            onClick={(e) => {
+              e.stopPropagation();
+              setModalImage(src);
+            }}
+          />
+        );
       } else {
         if (inList) {
           elements.push(<ul key={`ul-${i}`}>{listItems}</ul>);
@@ -505,7 +585,7 @@ const OnePage = () => {
           <AboutSection>
             <AboutContent>
               <span className="definition">
-                "una cosiámpira es una cosa cualquiera, de cualquier proecedencia, momento, tamaño o realidad, de la que no necesariamente sabes el nombre, género o categoría."
+                "una cosiámpira es una cosa cualquiera, de cualquier procedencia, momento, tamaño o realidad, de la que no necesariamente sabes el nombre, género o categoría."
               </span>
               <p>
                 Cosiámpira es una editorial de investigación transdisciplinar. Publicamos textos que conectan una cosa con otra, que nacen de cualquier raíz, proyectan cualquier espacio y no necesariamente se ubican en lo ya conocido, lo humano o lo fijo.
@@ -546,6 +626,17 @@ const OnePage = () => {
           </>
         )}
       </ArticleSection>
+
+      {modalImage && (
+        <ImageModalOverlay onClick={() => setModalImage(null)}>
+          <CloseModalButton onClick={() => setModalImage(null)}>✕</CloseModalButton>
+          <FullImage
+            src={modalImage}
+            onClick={(e) => e.stopPropagation()}
+            alt="Full size view"
+          />
+        </ImageModalOverlay>
+      )}
     </PageContainer>
   );
 };

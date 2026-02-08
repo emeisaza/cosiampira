@@ -7,7 +7,7 @@ const TopBar = styled.div`
   top: 0;
   left: 0;
   width: 100%;
-  background: var(--glass-bg);
+  background: rgba(0, 0, 0, 0.92);
   backdrop-filter: blur(20px);
   border-bottom: 1px solid var(--glass-border);
   padding: 1.2rem 2rem;
@@ -45,7 +45,7 @@ const Label = styled.label`
   font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  color: var(--color-accent);
+  color: #ffffff;
   font-weight: 500;
   white-space: nowrap;
 `;
@@ -65,7 +65,7 @@ const CompactSlider = styled.input`
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    background: var(--color-text);
+    background: #ffffff;
     cursor: pointer;
     transition: all 0.2s ease;
     
@@ -79,7 +79,7 @@ const CompactSlider = styled.input`
 const SelectButton = styled.button`
   background: none;
   border: none;
-  color: ${props => props.$active ? 'var(--color-accent)' : 'var(--color-text)'};
+  color: #ffffff;
   opacity: ${props => props.$active ? 1 : 0.6};
   font-size: 0.8rem;
   cursor: pointer;
@@ -104,7 +104,7 @@ const ThemeToggle = styled.button`
   gap: 8px;
   font-family: 'Fira Code', monospace;
   font-size: 0.85rem;
-  color: var(--color-text);
+  color: #ffffff;
   text-transform: uppercase;
   transition: all 0.2s ease;
   min-width: 100px;
@@ -154,7 +154,7 @@ const ControlPanel = () => {
           </ThemeToggle>
           <button
             onClick={() => setIsVisible(false)}
-            style={{ background: 'none', border: 'none', color: 'var(--color-text)', cursor: 'pointer', fontSize: '1.2rem' }}
+            style={{ background: 'none', border: 'none', color: '#ffffff', cursor: 'pointer', fontSize: '1.2rem' }}
           >
             ✕
           </button>
